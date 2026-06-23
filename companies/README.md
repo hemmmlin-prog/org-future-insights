@@ -9,7 +9,7 @@
 HR 同事最常被问到的两类问题：
 
 1. **"你看 OpenAI / 字节 / 阿里 是怎么做的？"** —— 顶尖公司的实践即标杆
-2. **"Sam Altman / Sundar / 张勇 怎么说 AI 时代的人才？"** —— 关键人物的判断即风向
+2. **"Sam Altman / Sundar / 程维 怎么说 AI 时代的人才？"** —— 关键人物的判断即风向
 
 本板块聚合两类一手信源，帮你建立**实证级的 benchmark 库**。
 
@@ -36,8 +36,8 @@ HR 同事最常被问到的两类问题：
 | Satya Nadella | Microsoft CEO | "Copilot Stack" |
 | Reid Hoffman | LinkedIn 创始人 | "Superagency" |
 | Josh Bersin | HR Tech 教父 | Mindset > Skillset |
+| Garry Tan | YC CEO | "95% AI-written code → 10 人公司做 $100M ARR"; 技术重新定义工作而非替代 |
 | 程维 | 滴滴创始人 | 待补 |
-| 张勇 | 阿里前 CEO | 待补 |
 
 ---
 
