@@ -9,42 +9,42 @@
 
 | 板块 | 你在这里能得到什么 | 入口 |
 |---|---|---|
-| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-06-14-pm.md) |
-| 🏢 **公司 & 关键人** | OpenAI / Anthropic / 字节 / 阿里 等顶尖公司 + CEO/CHRO 言论追踪 | [👉 进入](companies/README.md) |
-| 🎓 **报告 & 研究** ⭐ | 顶会 / 咨询 / 科研机构 AI 相关报告及研究论文（**HR 同事最常用**） | [👉 进入](research/README.md) |
-| 📊 **转型案例** | AI 转型成功 ✅ vs 失败 ❌ 案例库，可直接复用经验 | [👉 进入](cases/README.md) |
-| 📚 **延伸阅读** | 关键英文原文 + 中文翻译 + 编辑导读 | [👉 进入](readings/README.md) |
-| 🧭 **HR 词典** | 12 个 HR/组织新概念中英对照（agentic / orchestrator / mindset...） | [👉 进入](dictionary/glossary.md) |
-| 📈 **数据看板** | AI 投资 / 全球裁员 / 工具采用率 等关键数字速查 | [👉 进入](dashboard/2026-06-14-snapshot.md) |
-| 📅 **行业议程** | HR Tech / SHRM / Bersin / WEF / 国资委等大会日历 | [👉 进入](events/2026-h2-calendar.md) |
+| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-06-23-visual.md) |
+| 🏢 **公司 & 关键人** | OpenAI / GitHub / Samsung / YC 等顶尖公司 + CEO/VC 言论追踪 | [👉 进入](companies/README.md) |
+| 🎓 **报告 & 研究** ⭐ | McKinsey / NBER / Sequoia 等权威报告及研究论文（**HR 同事最常用**） | [👉 进入](research/README.md) |
+| 📊 **转型案例** | AI 转型成功 ✅ vs 失败 ❌ 案例库 + 中国硬科技创业融资 | [👉 进入](cases/README.md) |
+| 📚 **延伸阅读** | HBR / Sequoia / OpenAI 深度长文 + 编辑导读 | [👉 进入](readings/README.md) |
+| 🧭 **HR 词典** | 12+ HR/组织新概念中英对照（agentic / orchestrator / mindset...） | [👉 进入](dictionary/glossary.md) |
+| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-06-23.md) |
+| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-06-23.md) |
 
 ---
 
-## 🔥 今日精华（2026-06-14）
+### 🔥 今日精华（2026-06-23）
 
-> 抓取窗口：2026-06-14 14:04–17:29 · 信源覆盖：6/5 类多源基线
-> 完整阅读：[👉 上午报告](daily-reports/2026-06-14.md) · [👉 下午刷新](daily-reports/2026-06-14-pm.md)
+> 抓取窗口：2026-06-23 09:48 · 信源覆盖：8 源成功 / 80 条 items / 命中 tech + academia + vc + china + consulting + hr_media
+> 完整阅读：[👉 可视化版](daily-reports/2026-06-23-visual.md) · [👉 纯文字版](daily-reports/2026-06-23-auto.md)
 
-### 三条裂缝信号（下午刷新）
+### 三条核心信号
 
-1. **🚨 员工对 AI 使用普遍不透明**——HR 同事最该警惕的事：员工实际使用率远高于自报，担心承认 = 自我贬值。 [详情](daily-reports/2026-06-14-pm.md)
-2. **💼 强经济 + 裁员潮 + 看护挤压**——传统"经济好 = 就业稳"因果链断裂。 [详情](daily-reports/2026-06-14-pm.md)
-3. **⚠️ AI 资本端 all-in vs 学术端再等 5-7 年**——警惕过度激进的 AI 团队扩张。 [详情](daily-reports/2026-06-14-pm.md)
+1. **🚨 AI 从表面热情转向实际运营**——McKinsey：营销人员在用 AI，但焦虑、犹豫和运营模式缺陷才是真相。OpenAI 推出 Daybreak 安全工具，GitHub 内部上线 Qubot 数据分析智能体。 [详情](daily-reports/2026-06-23-visual.md)
+2. **💊 AI 医疗取得实质进展**——OpenAI 推理模型诊断罕见遗传病，成功识别 18 个新病例；GPT-5.5 Instant 改善健康问答逻辑与清晰度。 [详情](daily-reports/2026-06-23-visual.md)
+3. **🌍 碎片化世界中的灵活增长**——McKinsey：CEO 必须在地缘变局中精准下注；Sequoia AI Ascent 2026 强调 AI 是未来核心竞争力。 [详情](daily-reports/2026-06-23-visual.md)
 
-### 上午基线还有 3 条
-- AI 原生公司七大运营真相（McKinsey）· Mindset > Skillset（HBR）· 全球架构重组潮（H&M）· [完整解读](daily-reports/2026-06-14.md)
+### 高价值素材亮点
+- 三星全球员工全量开放 ChatGPT + Codex（36Kr）· McKinsey 中欧 AI 机遇报告 · 赢创全球裁员 3200 人 · YC 新增 3 位 GP · [完整 8 板块](daily-reports/2026-06-23-visual.md)
 
 ---
 
-## 💼 本周 HR 行动速查
+### 💼 本周 HR 行动速查（截至 6-23）
 
 | 优先级 | 行动 | 时间窗 | 依据 |
 |---|---|---|---|
-| 🔴 **高** | 设计**匿名 AI 使用问卷**，量化"承认率 vs 实际率"差距；解耦"承认用 AI"和"绩效评价" | 本周 | 信号 1 |
-| 🟠 中 | 把"看护时间"从隐性请假纳入 PTO 弹性池；建立月度看护敏感度审计 | 本月 | 信号 2 |
-| 🟠 中 | 制定"AI 工具供给端不稳定"应急预案——主用工具突遭停用时 24h 内有备选 | 本季 | 36Kr 突发 |
-| 🟡 中低 | 不要按 VC AI Ascent 节奏激进扩张 AI 团队；以 NBER 推算的 2031-2033 兑现期为基准做 5 年人才规划 | 半年 | 信号 3 反方 |
-| 🟢 长期 | 培训重心**整体转向**——从"教 AI 使用技巧"到"消除 AI 使用羞耻感"，建立心理安全 | 本年 | 信号 1 + Mindset |
+| 🔴 **高** | 组织 AI 工具实操培训，聚焦**实际运营效果**而非表面热情；参考三星全员部署 ChatGPT 案例设计落地方案 | 本周 | 信号 1 + 三星 |
+| 🟠 中 | 基于 McKinsey 中欧 AI 报告，评估团队 AI 能力缺口；围绕 5 大 AI 能力支柱（洞察/创意/个性化/智能体商务/编排）做技能盘点 | 本月 | 研究 #1-3 |
+| 🟠 中 | 跟踪赢创裁员 3200 人信号，评估供应链上下游人才可获得性变化 | 本月 | 案例 #7 |
+| 🟡 中低 | 关注 YC Demo Day 2026 及 36氪 WAVES 大会议程，识别 AI-Native 新兴岗位趋势 | 本季 | 议程 #1-2 |
+| 🟢 长期 | 基于 Sequoia "From Hierarchy to Intelligence" 报告，推动组织结构从层级制向智能协作网络演进 | 本年 | 阅读 #4 |
 
 ---
 
@@ -83,7 +83,7 @@
 
 - **更新频率**：每天凌晨 06:00 自动抓取最新素材，上午由 HR / Agent 触发深度分析
 - **数据来源**：100% 公开权威源，本地运行不上传任何云端
-- **版本**：v0.2.1（2026-06-14）· 8 板块内容架构
+- **版本**：v0.5.0（2026-06-23）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
 
 ---
 
