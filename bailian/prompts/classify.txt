@@ -1,0 +1,51 @@
+# 任务：把多条 raw items 分流到 8 板块（多标签）
+
+## 8 个内容板块定义
+
+| module 标签 | 适配场景 |
+|---|---|
+| `companies` | 顶尖公司动态、CEO/CHRO 言论、产品发布、组织变革实践（OpenAI / Anthropic / GitHub / 字节 / 阿里 / 微软 等）|
+| `research` | 顶会论文、咨询报告、学术 working paper、智库报告（NBER / HBS / McKinsey / Brookings / RAND）|
+| `cases` | 转型成功 / 失败案例、组织重组、裁员潮、并购、文化变革（H&M / 胖东来 / Adidas 重组）|
+| `readings` | 值得 HR 同事完整阅读 + 翻译的关键英文长文（HBR 深度长文、NBER 关键论文、CEO blog）|
+| `dictionary` | 出现新概念 / 新术语 / 行业黑话需收录词典（如 agentic / orchestrator / RIF）|
+| `dashboard` | 含明确数字 / 百分比 / 美元金额 / 投资额，可入数据看板（含调研数据、市场份额、资本支出）|
+| `events` | 行业大会 / 论坛 / 峰会 / 发布会日程类（HR Tech / SHRM / Bersin / WEF / 国资委）|
+| `daily_only` | 仅日报合适，不适合长期沉淀（如热点新闻、媒体短讯、市场快讯）|
+
+## 输入数据
+
+下面是 {BATCH_SIZE} 条 raw items，每条带索引号 `[N]`：
+
+{ITEMS_BATCH}
+
+## 输出要求
+
+**严格输出合法 JSON**（无 markdown 包裹，无前后说明文字），格式：
+
+```json
+{
+  "classifications": [
+    {
+      "index": 1,
+      "module_tags": ["companies", "research"],
+      "reason": "10-30 字的归类理由"
+    },
+    {
+      "index": 2,
+      "module_tags": ["daily_only"],
+      "reason": "..."
+    }
+  ]
+}
+```
+
+## 关键约束
+
+1. **每条 item 必须有 1-3 个标签**，不能 0 个
+2. **`daily_only` 是兜底**——只有完全不适合长期沉淀的才标这个
+3. **多标签合理使用**：例如一篇 NBER 关于“AI 投资 ROI 9.2%”的论文应该标 `["research", "readings", "dashboard"]`
+4. **reason 控制在 30 字以内**，不啰嗦
+5. **必须返回所有 {BATCH_SIZE} 条 items 的分类**，按 index 排序
+6. **module_tags 必须是 JSON 数组**（如 `["companies"]`），**不允许是字符串**（如 `"companies"` 是错的）；哪怕只有 1 个标签也要用数组包裹
+7. **module 名只能从上面 8 个标签中选**（companies / research / cases / readings / dictionary / dashboard / events / daily_only），不允许创造新标签名

@@ -1,0 +1,1269 @@
+{
+  "snapshot_time": "2026-06-23T09:48:59.307421+08:00",
+  "fetcher_version": "0.1",
+  "sources_count": 20,
+  "sources": [
+    {
+      "category": "consulting",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Capturing Central Europe’s AI opportunity",
+          "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/capturing-central-europes-ai-opportunity",
+          "pubDate": "Mon, 22 Jun 2026",
+          "summary": "AI is advancing too quickly to remain a side initiative for businesses. Central European companies can get ahead by redesigning business domains—and the organization—around AI."
+        },
+        {
+          "title": "From anxiety to advantage: A marketing organization that thrives with AI",
+          "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-anxiety-to-advantage-a-marketing-organization-that-thrives-with-ai",
+          "pubDate": "Mon, 22 Jun 2026",
+          "summary": "Marketers are using AI, but surface-level enthusiasm is masking the anxiety, indecision, and operating-model gaps holding back meaningful change."
+        },
+        {
+          "title": "From campaigns to continuous growth: AI capabilities shaping marketing",
+          "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing",
+          "pubDate": "Mon, 22 Jun 2026",
+          "summary": "Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing."
+        },
+        {
+          "title": "Capturing growth in a fragmented world",
+          "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-capturing-growth-in-a-fragmented-world",
+          "pubDate": "Mon, 22 Jun 2026",
+          "summary": "CEOs who act nimbly and know where to place their bets can gain a competitive edge amid a shifting geopolitical landscape."
+        },
+        {
+          "title": "State of the Consumer 2026: When tech acceleration and cost pressures collide",
+          "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer",
+          "pubDate": "Mon, 22 Jun 2026",
+          "summary": "The consumer is changing fast. Four trends—the tech-driven path to purchase, the health revolution, the experience economy, and the resourceful consumer—will redefine the sector. Will brands keep up?"
+        },
+        {
+          "title": "Putting AI to work: The operational excellence imperative",
+          "link": "https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative",
+          "pubDate": "Fri, 19 Jun 2026",
+          "summary": "Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale."
+        },
+        {
+          "title": "What corporate leaders can learn from start-up founders",
+          "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/what-corporate-leaders-can-learn-from-start-up-founders",
+          "pubDate": "Thu, 18 Jun 2026",
+          "summary": "Alurx Founder and CEO Julia Stewart discusses her journey from public company CEO to health tech entrepreneur—and how corporate leaders can build confidence to transform their companies with AI."
+        },
+        {
+          "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+          "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+          "pubDate": "Thu, 18 Jun 2026",
+          "summary": "The global beauty market is expected to grow by 5 percent annually through 2030. But major disruptions are underway, driven by expanding definitions of beauty, fluid shopping behavior, and social commerce."
+        },
+        {
+          "title": "An update on Asia–Pacific consumer sentiment: Outlooks diverge and spending is more selective",
+          "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/an-update-on-consumer-sentiment-in-asia-pacific",
+          "pubDate": "Thu, 18 Jun 2026",
+          "summary": "Concerns about inflation, job security, and geopolitics weighed on consumers across the region. Here’s the latest research from our ConsumerWise team."
+        },
+        {
+          "title": "Europe’s skilling dividend: Turning talent into growth",
+          "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/europes-skilling-dividend-turning-talent-into-growth",
+          "pubDate": "Thu, 18 Jun 2026",
+          "summary": "Europe’s workforce is a source of strength, but limited mobility holds people back. Organizations that make it easier for workers to move across roles, regions, and sectors can help accelerate growth."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "link": "https://openai.com/index/patch-the-planet",
+          "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+        },
+        {
+          "title": "Daybreak: Tools for securing every organization in the world",
+          "link": "https://openai.com/index/daybreak-securing-the-world",
+          "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+          "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+        },
+        {
+          "title": "Codex-maxxing for long-running work",
+          "link": "https://openai.com/index/codex-maxxing-long-running-work",
+          "pubDate": "Mon, 22 Jun 2026 00:00:00 GMT",
+          "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt."
+        },
+        {
+          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+          "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+          "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
+          "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+        },
+        {
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
+          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
+        },
+        {
+          "title": "Improving health intelligence in ChatGPT",
+          "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "pubDate": "Thu, 18 Jun 2026 11:00:00 GMT",
+          "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
+        },
+        {
+          "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
+          "pubDate": "Thu, 18 Jun 2026 08:00:00 GMT",
+          "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases."
+        },
+        {
+          "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+          "link": "https://openai.com/index/ai-chemist-improves-reaction",
+          "pubDate": "Wed, 17 Jun 2026 10:00:00 GMT",
+          "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+        },
+        {
+          "title": "Introducing LifeSciBench",
+          "link": "https://openai.com/index/introducing-life-sci-bench",
+          "pubDate": "Wed, 17 Jun 2026 00:00:00 GMT",
+          "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+        },
+        {
+          "title": "Predicting model behavior before release by simulating deployment",
+          "link": "https://openai.com/index/deployment-simulation",
+          "pubDate": "Tue, 16 Jun 2026 00:00:00 GMT",
+          "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "priority": 2,
+      "items": [
+        {
+          "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+          "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+          "pubDate": "Mon, 22 Jun 2026 17:20:31 +0000",
+          "summary": "<p>Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. </p>\n<p>The post <a href=\"https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/\">From pledge to practice: Building a more inclusive open source ecosystem</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How we built an internal data analytics agent",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+          "pubDate": "Fri, 19 Jun 2026 16:00:00 +0000",
+          "summary": "<p>Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/\">How we built an internal data analytics agent</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How pull request limits are cutting down the noise",
+          "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+          "pubDate": "Thu, 18 Jun 2026 16:00:00 +0000",
+          "summary": "<p>Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/\">How pull request limits are cutting down the noise</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Getting more from each token: How Copilot improves context handling and model routing",
+          "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+          "pubDate": "Wed, 17 Jun 2026 19:41:46 +0000",
+          "summary": "<p>How GitHub Copilot is making more of each session go toward useful work, so your credits go further.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/\">Getting more from each token: How Copilot improves context handling and model routing</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "What are git worktrees, and why should I use them?",
+          "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+          "pubDate": "Tue, 16 Jun 2026 20:58:54 +0000",
+          "summary": "<p>Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/\">What are git worktrees, and why should I use them?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+          "pubDate": "Mon, 15 Jun 2026 20:15:31 +0000",
+          "summary": "<p>GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/\">GitHub Copilot CLI for Beginners: Overview of common slash commands</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+          "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+          "pubDate": "Mon, 15 Jun 2026 19:17:30 +0000",
+          "summary": "<p>A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/\">Accelerating researchers and developers building multilingual AI with a new open dataset</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</"
+        },
+        {
+          "title": "How we made GitHub Copilot CLI more selective about delegation",
+          "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+          "pubDate": "Fri, 12 Jun 2026 22:26:23 +0000",
+          "summary": "<p>Better orchestration, fewer handoffs, faster progress, without a single new knob.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/\">How we made GitHub Copilot CLI more selective about delegation</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub availability report: May 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+          "pubDate": "Thu, 11 Jun 2026 21:30:15 +0000",
+          "summary": "<p>In May, we experienced nine incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-may-2026/\">GitHub availability report: May 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+          "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+          "pubDate": "Thu, 11 Jun 2026 16:00:00 +0000",
+          "summary": "<p>Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning.</p>\n<p>The post <a href=\"https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/\">Making secret scanning more trustworthy: Reducing false positives at scale</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "arXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "no items"
+    },
+    {
+      "category": "academia",
+      "name": "NBER WP",
+      "url": "https://www.nber.org/rss/new.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "US Monetary Spillovers, Foreign Exchange, and Gold Reserves at Times of Geopolitical Fragmentation -- by Joshua Aizenman, Jamel Saadaoui, Gazi Salah Uddin, Naoki Yago",
+          "link": "https://www.nber.org/papers/w35337#fromrss",
+          "pubDate": "",
+          "summary": "This paper studies the role of foreign exchange and gold reserves in mitigating the US monetary policy spillovers to exchange rates at times of geopolitical fragmentation and de-dollarization. US dollar reserves mitigate depreciation driven by US monetary tightening, while non-dollar reserves do not. Gold reserves are also associated with smaller exchange-rate responses, though less strongly than dollar reserves, suggesting novel complementarity between dollar and gold reserves. Moreover, the es"
+        },
+        {
+          "title": "Beta for Alpha: Neural Engagement in Financial Trading -- by Liang Chen, Tse-Chun Lin, Fei Wu, Xingjian Zheng, Eric Zou",
+          "link": "https://www.nber.org/papers/w35345#fromrss",
+          "pubDate": "",
+          "summary": "The emergence of wearable electroencephalography (EEG) technologies presents new opportunities to identify and quantify neural correlates of decision-making in real-time, financially consequential settings. We report a field study in which we use wearable EEG devices to record brainwave activity from professional day traders during real-world, high-stakes trading. Using these signals, we construct an established psychophysiological Engagement Index (EI), which is defined as beta wave power divid"
+        },
+        {
+          "title": "Elderly Health and Longevity in the US: Evidence and Implications -- by Liran Einav, Amy Finkelstein",
+          "link": "https://www.nber.org/papers/w35346#fromrss",
+          "pubDate": "",
+          "summary": "Rising elderly life expectancy is a well-known source of fiscal pressure on Social Security and Medicare – but how have declining mortality and morbidity affected the two programs’ relative finances? Using nearly three decades of Medicare Current Beneficiary Survey data (1992-2019), we estimate that these demographic changes raised expected lifetime Social Security spending by over twice as much as expected lifetime Medicare spending: 14% compared to 6%. The slower growth of elderly lifetime hea"
+        },
+        {
+          "title": "AI Diffusion Gaps: Unequal Integration of AI Across K-12 Schools -- by Christopher Campos, John D. Singleton",
+          "link": "https://www.nber.org/papers/w35347#fromrss",
+          "pubDate": "",
+          "summary": "Although use of generative AI tools has quickly become widespread in education settings, emerging evidence suggests that effects on learning will depend on how that use is supported and guided. This paper reports findings from an original national survey of K-12 school principals designed to measure institutional integration of AI in schools through policies, teacher training, guidance for student use, leadership engagement, and the availability of AI-enabled tools. We find that AI use has sprea"
+        },
+        {
+          "title": "The Informed Insider: A Leading Measure of Quality -- by Wei Cai, Dennis Campbell, Yaxuan Chen, Yufei Chen, Andrea Prat",
+          "link": "https://www.nber.org/papers/w35348#fromrss",
+          "pubDate": "",
+          "summary": "Product and service quality is fundamental to firm value creation, yet it is well recognized as difficult to observe ex ante. Existing quality proxies are limited in coverage, lack cross-firm comparability, and primarily rely on lagging indicators that capture product or service failures only after they materialize. Exploiting employees’ informational advantage as informed insiders and firsthand observers of firms’ internal operations, we develop and validate a novel, forward-looking measure of "
+        },
+        {
+          "title": "Planning Capital and Discovery-Based Learning-by-Doing: Investment as Staged Discovery in the Hyperscale Era -- by Andrew Caplin",
+          "link": "https://www.nber.org/papers/w35349#fromrss",
+          "pubDate": "",
+          "summary": "This paper treats frontier investment as staged discovery. Firms invest through sequences of costly inquiry stages before deciding whether and how to realize value. At each stage, a firm may sharpen its diagnostic understanding, choose what question to ask, embody that question in a costly action, and interpret the answer that action produces. The answer changes what the firm knows, what it can do next, and how costly future inquiry will be. Successful histories can also carry over to later rela"
+        },
+        {
+          "title": "How Serious Are Experimenter Demand Effects? Evidence and Mitigation Strategies -- by Jonathan de Quidt, Lise Vesterlund, Alistair Wilson",
+          "link": "https://www.nber.org/papers/w35350#fromrss",
+          "pubDate": "",
+          "summary": "Experimenter demand effects arise when participants in an experiment or survey distort their behavior in a misguided attempt to please the experimenter by confirming their research hypothesis. Experimental economists have taken the threat of demand effects seriously and have developed an array of best practices to mitigate their influence, as well as bounding techniques to assess their potential impact on inference. We provide an overview of these techniques and summarize recent empirical assess"
+        },
+        {
+          "title": "An Informational Rationale for Viewpoint Neutrality in Education -- by Georgy Egorov, Konstantin Sonin",
+          "link": "https://www.nber.org/papers/w35351#fromrss",
+          "pubDate": "",
+          "summary": "Consider a society that faces uncertainty about a payoff-relevant state and wants to train students to make correct decisions. In educational institutions, students learn from their teachers, but they also get outside information, and later learn from peers. We show that privately Bayesian actions need not be optimal inputs into social learning: when students' actions reflect teacher-side information that is correlated across peers, observing many such actions can give this information excessive"
+        },
+        {
+          "title": "Insurance with Multiple Actors -- by Jason Abaluck, Oren Sarig, Jintaek Song",
+          "link": "https://www.nber.org/papers/w35352#fromrss",
+          "pubDate": "",
+          "summary": "We analyze how social-planner insurers split cost-sharing between consumers and firms (e.g. patients and doctors, or drivers and car mechanics). With no contracting frictions, firm cost-sharing can replace consumer cost-sharing other than “visit copays.” Optimal firm contracts depend on the marginal rate of substitution between consumer and firm cost-sharing. For Medicare physician services, paying physicians more up front but less as spending increases reduces risk for both patients and provide"
+        },
+        {
+          "title": "Task-Specific Technical Change and Comparative Advantage -- by Lukas Althoff, Hugo Reichardt",
+          "link": "https://www.nber.org/papers/w35353#fromrss",
+          "pubDate": "",
+          "summary": "Artificial intelligence (AI) reshapes workers’ comparative advantage by altering the tasks they perform and the skills those tasks require. We develop a dynamic task-based model to quantify the general-equilibrium effects of task-specific technical change. Workers have multidimensional skills, choose occupations, and accumulate skills on the job; occupations combine tasks, and productivity depends on how workers’ skills match task requirements. We develop a computationally efficient procedure to"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "HBS Working Knowledge",
+      "url": "https://hbswk.hbs.edu/rss/all.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Inside One Startup's Journey to Break Down Hiring (and Funding) Barriers",
+          "link": "https://hbswk.hbs.edu/item/inside-one-startups-journey-to-break-down-hiring-and-funding-barriers?cid=wk-rss",
+          "pubDate": "2024-11-12T09:59:10Z",
+          "summary": ""
+        },
+        {
+          "title": "What Wartime Service Taught These Historic Leaders",
+          "link": "https://hbswk.hbs.edu/item/what-wartime-service-taught-these-historic-leaders?cid=wk-rss",
+          "pubDate": "2024-11-08T11:39:18Z",
+          "summary": ""
+        },
+        {
+          "title": "How Private Investors Can Help Solve Africa's Climate Crisis",
+          "link": "https://hbswk.hbs.edu/item/how-private-investors-can-help-solve-africas-climate-crisis?cid=wk-rss",
+          "pubDate": "2024-11-08T10:24:08Z",
+          "summary": ""
+        },
+        {
+          "title": "Building the Road to 'Small Business Utopia' with AI and Fintech",
+          "link": "https://hbswk.hbs.edu/item/building-the-road-to-small-business-utopia-with-ai-and-fintech?cid=wk-rss",
+          "pubDate": "2024-11-05T11:35:35Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Can Help Leaders Communicate, But Can't Make Employees Listen",
+          "link": "https://hbswk.hbs.edu/item/ai-can-help-leaders-communicate-but-cant-make-employees-listen?cid=wk-rss",
+          "pubDate": "2024-11-05T08:46:59Z",
+          "summary": ""
+        },
+        {
+          "title": "Layoffs Surging in a Strong Economy? Advice for Navigating Uncertain Times",
+          "link": "https://hbswk.hbs.edu/item/layoffs-surging-in-strong-economy-advice-for-navigating-uncertain-times?cid=wk-rss",
+          "pubDate": "2024-11-01T13:41:06Z",
+          "summary": ""
+        },
+        {
+          "title": "Can a Coffee Shop in Utah Help Solve Underemployment for People with Disabilities?",
+          "link": "https://hbswk.hbs.edu/item/cold-call-can-a-coffee-shop-in-utah-help-solve-underemployment-for-people-with-disabilities?cid=wk-rss",
+          "pubDate": "2024-10-29T10:21:47Z",
+          "summary": ""
+        },
+        {
+          "title": "Latino Voters Have Grown More Politically Divided. That’s Not Surprising.",
+          "link": "https://hbswk.hbs.edu/item/democrats-are-losing-latino-voters-thats-not-surprising?cid=wk-rss",
+          "pubDate": "2024-10-29T13:42:03Z",
+          "summary": ""
+        },
+        {
+          "title": "Charting the US-China Trade War: What Does 'Made in Vietnam' Mean?",
+          "link": "https://hbswk.hbs.edu/item/charting-the-us-china-trade-war-whats-made-in-vietnam?cid=wk-rss",
+          "pubDate": "2024-10-24T10:00:03Z",
+          "summary": ""
+        },
+        {
+          "title": "With Millions of Workers Juggling Caregiving, Employers Need to Rethink Support",
+          "link": "https://hbswk.hbs.edu/item/with-millions-of-workers-juggling-caregiving-employers-need-to-rethink?cid=wk-rss",
+          "pubDate": "2024-10-29T15:53:04Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "think_tank",
+      "name": "RAND",
+      "url": "https://www.rand.org/blog.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Why Human Intelligence Matters More in an AI World",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/why-human-intelligence-matters-more-in-an-ai-world.html",
+          "pubDate": "2026-06-22T18:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "The RAND School Is Rethinking Higher Ed: Q&A with Nancy Staudt",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/the-rand-school-is-rethinking-higher-ed-qa-with-nancy.html",
+          "pubDate": "2026-06-16T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Will We Know if AI Takes Over? Q&A with Benjamin Boudreaux",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/will-we-know-if-ai-takes-over-qa-with-benjamin-boudreaux.html",
+          "pubDate": "2026-06-10T13:45:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Rebuilding Trust in Global Biosecurity",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/rebuilding-trust-in-global-biosecurity.html",
+          "pubDate": "2026-06-10T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "How China Misperceives Itself",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/how-china-misperceives-itself.html",
+          "pubDate": "2026-06-05T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/deterring-russia-beneath-the-waves-securing-natos-critical.html",
+          "pubDate": "2026-06-01T12:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "States Need a Roadmap for Credit for Prior Learning",
+          "link": "https://www.rand.org/pubs/commentary/2026/05/states-need-a-roadmap-for-credit-for-prior-learning.html",
+          "pubDate": "2026-05-26T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Federal Education Support Centers Still Fill Key State Gaps",
+          "link": "https://www.rand.org/pubs/commentary/2026/05/federal-education-support-centers-still-fill-key-state.html",
+          "pubDate": "2026-05-23T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Clearing Mines in the Strait of Hormuz: Q&A with Scott Savitz",
+          "link": "https://www.rand.org/pubs/commentary/2026/05/demining-the-strait-of-hormuz-qa-with-scott-savitz.html",
+          "pubDate": "2026-05-19T20:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Armenia's Specters of Peace and War",
+          "link": "https://www.rand.org/pubs/commentary/2026/04/armenias-specters-of-peace-and-war.html",
+          "pubDate": "2026-04-27T20:30:00Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Sequoia",
+      "url": "https://www.sequoiacap.com/feed/",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Listen to the Market",
+          "link": "https://sequoiacap.com/article/listen-to-the-market/",
+          "pubDate": "Mon, 01 Jun 2026 20:32:11 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/listen-to-the-market/\">Listen to the Market</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "All Systems Nominal – Nominal Spotlight",
+          "link": "https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/",
+          "pubDate": "Thu, 21 May 2026 15:35:44 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/\">All Systems Nominal &#8211; Nominal Spotlight</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "AI Ascent 2026",
+          "link": "https://sequoiacap.com/article/ai-ascent-2026/",
+          "pubDate": "Fri, 08 May 2026 16:47:31 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/ai-ascent-2026/\">AI Ascent 2026</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Standard Intelligence: Training General Intelligence in Pixel Space",
+          "link": "https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/",
+          "pubDate": "Thu, 30 Apr 2026 14:00:29 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/\">Standard Intelligence: Training General Intelligence in Pixel Space</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience",
+          "link": "https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/",
+          "pubDate": "Mon, 27 Apr 2026 14:15:11 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/\">Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Auctor",
+          "link": "https://sequoiacap.com/article/partnering-with-auctor/",
+          "pubDate": "Wed, 15 Apr 2026 16:00:05 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-auctor/\">Partnering with Auctor</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "From Hierarchy to Intelligence",
+          "link": "https://sequoiacap.com/article/from-hierarchy-to-intelligence/",
+          "pubDate": "Tue, 31 Mar 2026 15:11:54 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/from-hierarchy-to-intelligence/\">From Hierarchy to Intelligence</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Edra: Context for Agents at Scale",
+          "link": "https://sequoiacap.com/article/partnering-with-edra-context-for-agents-at-scale/",
+          "pubDate": "Wed, 18 Mar 2026 14:00:05 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-edra-context-for-agents-at-scale/\">Partnering with Edra: Context for Agents at Scale</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Scanner: Every Log Tells a Story—If You Can Find It Fast Enough",
+          "link": "https://sequoiacap.com/article/partnering-with-scanner-every-log-tells-a-story-if-you-can-find-it-fast-enough/",
+          "pubDate": "Tue, 10 Mar 2026 17:00:04 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-scanner-every-log-tells-a-story-if-you-can-find-it-fast-enough/\">Partnering with Scanner: Every Log Tells a Story—If You Can Find It Fast Enough</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Services: The New Software",
+          "link": "https://sequoiacap.com/article/services-the-new-software/",
+          "pubDate": "Fri, 06 Mar 2026 00:57:45 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/services-the-new-software/\">Services: The New Software</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/blog/rss.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Christopher Golda and Grey Baker Join YC as General Partners",
+          "link": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/",
+          "pubDate": "Tue, 16 Jun 2026 16:14:22 GMT",
+          "summary": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners."
+        },
+        {
+          "title": "Diana Hu Is YC's Newest Managing Partner",
+          "link": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
+          "pubDate": "Thu, 11 Jun 2026 17:01:59 GMT",
+          "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator.\n\nFew people have built a startup from zero and also shipped tech to 100 million people. Diana has done both."
+        },
+        {
+          "title": "Harshita Arora Joins YC as General Partner",
+          "link": "https://www.ycombinator.com/blog/welcome-harshita/",
+          "pubDate": "Mon, 06 Apr 2026 16:00:00 GMT",
+          "summary": "We're thrilled to announce that Harshita Arora is joining Y Combinator as a General Partner.  She brings deep fintech and infrastructure experience, a founder's instinct for product, and the perspective of someone who's been building companies since she was a teenager."
+        },
+        {
+          "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+          "link": "https://www.ycombinator.com/blog/adding-canada-back/",
+          "pubDate": "Thu, 05 Feb 2026 17:00:00 GMT",
+          "summary": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation."
+        },
+        {
+          "title": "Congratulations to EquipmentShare on Going Public",
+          "link": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare/",
+          "pubDate": "Fri, 23 Jan 2026 15:59:00 GMT",
+          "summary": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone."
+        },
+        {
+          "title": "Announcing the YC AI Stack",
+          "link": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/",
+          "pubDate": "Fri, 16 Jan 2026 20:40:39 GMT",
+          "summary": "We've partnered with nearly two dozen companies to offer students who attend YC events a suite of over $25,000 in free credits for AI devtools."
+        },
+        {
+          "title": "2026 Demo Day Dates",
+          "link": "https://www.ycombinator.com/blog/2026-demo-days/",
+          "pubDate": "Thu, 18 Dec 2025 19:44:54 GMT",
+          "summary": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead."
+        },
+        {
+          "title": "Meesho Goes Public",
+          "link": "https://www.ycombinator.com/blog/meesho-goes-public/",
+          "pubDate": "Wed, 10 Dec 2025 04:32:10 GMT",
+          "summary": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses.\n\nCongrats to Vidit and Sanjeev on a decade of relentless building and listening to users!"
+        },
+        {
+          "title": "Congratulations to Groww",
+          "link": "https://www.ycombinator.com/blog/groww/",
+          "pubDate": "Wed, 12 Nov 2025 03:47:51 GMT",
+          "summary": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud."
+        },
+        {
+          "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+          "link": "https://www.ycombinator.com/blog/billiontoone/",
+          "pubDate": "Thu, 06 Nov 2025 15:52:00 GMT",
+          "summary": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "hr_media",
+      "name": "HBR",
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "The End of Cheap Capital",
+          "link": "https://hbr.org/2026/06/the-end-of-cheap-capital",
+          "pubDate": "2026-06-22T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "LLMs Misunderstand Luxury Brands. Here’s How to Optimize Your Marketing Strategy for AI.",
+          "link": "https://hbr.org/2026/06/llms-misunderstand-luxury-brands-heres-how-to-optimize-your-marketing-strategy-for-ai",
+          "pubDate": "2026-06-22T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Our Favorite Management Tips on Decision-Making",
+          "link": "https://hbr.org/2026/06/our-favorite-management-tips-on-decision-making",
+          "pubDate": "2026-06-22T19:45:07Z",
+          "summary": ""
+        },
+        {
+          "title": "Is This the Time to Raise Prices?",
+          "link": "https://hbr.org/2026/06/is-this-the-time-to-raise-prices",
+          "pubDate": "2026-06-19T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "How to Design Agentic Systems Around the Implicit Rules that Govern Your Company",
+          "link": "https://hbr.org/2026/06/how-to-design-agentic-systems-around-the-implicit-rules-that-govern-your-company",
+          "pubDate": "2026-06-19T12:05:01Z",
+          "summary": ""
+        },
+        {
+          "title": "Video Quick Take: How Small Pieces of Code Can Defend an Entire Operating System - SPONSOR CONTENT FROM THREATLOCKER",
+          "link": "https://hbr.org/sponsored/2026/06/video-quick-take-how-small-pieces-of-code-can-defend-an-entire-operating-system",
+          "pubDate": "2026-06-18T19:20:46Z",
+          "summary": ""
+        },
+        {
+          "title": "The Strongest Teams of AI Agents Will be Built Using Different Models",
+          "link": "https://hbr.org/2026/06/the-strongest-teams-of-ai-agents-will-be-built-using-different-models",
+          "pubDate": "2026-06-18T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Lessons from Chinese AI Firms on Owning Customers’ Habits",
+          "link": "https://hbr.org/2026/06/lessons-from-chinese-ai-firms-on-owning-customers-habits",
+          "pubDate": "2026-06-18T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Video Quick Take: Implementing Zero Trust in an AI-Driven Threat Landscape - SPONSOR CONTENT FROM THREATLOCKER",
+          "link": "https://hbr.org/sponsored/2026/06/video-quick-take-implementing-zero-trust-in-an-ai-driven-threat-landscape",
+          "pubDate": "2026-06-17T20:28:56Z",
+          "summary": ""
+        },
+        {
+          "title": "3 Forces Are Redefining the Transition from Manager to Leader",
+          "link": "https://hbr.org/2026/06/3-forces-are-redefining-the-transition-from-manager-to-leader",
+          "pubDate": "2026-06-17T14:00:00Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "china",
+      "name": "36Kr",
+      "url": "https://36kr.com/feed",
+      "priority": 2,
+      "items": [
+        {
+          "title": "秋声 | 四川生物科技IPO上演过山车，暗盘从暴涨95%到破发",
+          "link": "https://36kr.com/p/3865070004212994?f=rss",
+          "pubDate": "2026-06-23 09:13:39  +0800",
+          "summary": "<p>本文约3000字，建议阅读6分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <blockquote>\n   <p><strong>编者按：</strong>AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。</p>\n   <p>鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第一期，华健未来。</p>\n  </blockquote>\n  <p>6月22日下午，距离正式挂牌还有不到一天，华健未来（06132.HK）在富途暗盘上演了一出\"过山车\"。81.80港元的发行价，开盘直接跳到100.80港元（+23%），盘中最高冲到159.60港元——较发行价大涨<strong>95.1%</strong>，几乎翻倍；可随后一路跳水，最低见73.85港元（-9.7%），收盘定格在<strong>79.10港元，跌破发行价3.30%</strong>。单场振幅高达<strong>104.83%</str"
+        },
+        {
+          "title": "8点1氪丨SpaceX跌破IPO首日收盘价，市值蒸发4000亿美元；英国首相斯塔默宣布辞职；SK海力士市值首超三星电子",
+          "link": "https://36kr.com/p/3865001641006081?f=rss",
+          "pubDate": "2026-06-23 08:06:15  +0800",
+          "summary": "<h2>今日热点导览</h2>\n  <p>三星电子向韩国所有员工开放ChatGPT和Codex</p>\n  <p>港股智谱暴涨，总市值突破1万亿港元</p>\n  <p>何小鹏、曾顺福、白重恩出任蚂蚁集团独立董事</p>\n  <p>杨子卸任巨力集团职务</p>\n  <p>供应链公司：已向苹果首款折叠屏iPhone小批量供货</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>纳指收跌1.3%，SpaceX下挫16%并跌破IPO首日收盘价</strong></p>\n  <p>美股三大指数收盘涨跌不一，道指涨0.29%，纳指跌1.32%，标普500指数跌0.37%。SpaceX股价大跌16%，市值蒸发4000亿美元并跌破首日收盘价。</p>\n  <p>谷歌收跌5%，此前AI负责人Jumper离职。亚马逊下跌4.8%，为2月初以来的最大单日跌幅。芯片股涨跌不一，美光科技涨超6%，英特尔涨超5%，闪迪涨超4%，应用材料、恩智浦涨超2%，ARM跌超7%，博通跌超4%，高通、西部数据跌超1%。</p>\n  <p>据悉，SpaceX 上市后股价连续三个交易日大幅下跌，累计跌幅达27"
+        },
+        {
+          "title": "映界科技：一支00后团队的空间智能“赌注” | 水下项目",
+          "link": "https://36kr.com/p/3864071269569540?f=rss",
+          "pubDate": "2026-06-22 18:00:50  +0800",
+          "summary": "<p>当人形机器人在春晚上扭秧歌，在马拉松赛场上健步如飞，一个尴尬的现实浮出水面：机器人会动、很灵活，但不能干活——前者考验运动控制能力，后者还需要机器人真正理解物理环境，记住物体位置、推理空间关系。</p>\n  <p>感知瓶颈是今天几乎所有具身智能从业者都无法回避的现实。成立不到三个月的「映界科技」（MirrorSpace）正试图补齐具身智能产业链中的这个短板。映界科技由三位平均年龄仅有24岁的博士团队创办，专注具身机器人视觉空间感知系统的算法与硬件研发，致力于成为世界模型时代的基础设施服务商。</p>\n  <p>“我们注意到，目前市面上还没有相对成熟完善的空间感知解决方案，大部分做传感器的企业只是把雷达、摄像头等设备的原始数据丢给本体厂商，让他们自己想办法处理。”金依力表示，“我们希望提供一整套空间感知能力，弥合机器人在开放场景应用落地的gap。”</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1080,520\" src=\"https://img.36krcdn.com/hsossms/20260622/v2_6543"
+        },
+        {
+          "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
+          "link": "https://36kr.com/p/3864065855706120?f=rss",
+          "pubDate": "2026-06-22 16:26:13  +0800",
+          "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3864020323276038\"><strong>赢创计划全球裁员3200人</strong></a></p>\n  <p>赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确认，德国以外地区将削减1050个职位，中国区包含在内，但具体裁员数量尚未明确。“赢创定制”计划于2023年10月推出，原定目标为2026年底前累计削减约2800个岗位。今年5月，赢创曾表示该计划进展顺利并将实现既定降本目标。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3864000261264643\"><stro"
+        },
+        {
+          "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3864054145209602?f=rss",
+          "pubDate": "2026-06-22 16:10:06  +0800",
+          "summary": "<p>每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。</p>\n  <p>以下为圆桌对话内容，经36氪整理编辑:</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"3173,2115\" src=\"https://img.36krcdn.com/hsossms/20260622/v2_7f9fbf357e494a4683af3a1ce47976ac@6381723_oswg3956841oswg3173oswg2115_img_jpeg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\"></p>\n  <p>许嘉婧｜36氪后浪研究所 主理人（主持人）</p>\n  <p>徐子悦 ｜PhotonPay 光子易商务副总裁</p>\n  <p>程刚｜KOOK语音 创始人兼CEO</p>\n  <p>徐良威｜智域基石CTO</p>\n  <p>程二亭｜万拿机"
+        },
+        {
+          "title": "圆桌讨论：在番禺，我们造了什么？｜36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3864033017549832?f=rss",
+          "pubDate": "2026-06-22 15:38:54  +0800",
+          "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为对话内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1280,853\" src=\"https://img.36krcdn.com/hsossms/20260622/v2_d3b82164abd244ff8765688ef95cf223@6381723_oswg124211oswg1280oswg85"
+        },
+        {
+          "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3864002982286342?f=rss",
+          "pubDate": "2026-06-22 15:08:07  +0800",
+          "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪 · <strong>暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为致辞内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1280,853\" src=\"https://img.36krcdn.com/hsossms/20260622/v2_6dbc78e1836f4eb8a82bb3f685db34d7@6381723_oswg114923oswg1280oswg85"
+        },
+        {
+          "title": "补齐市场信息差！36氪股市舆情交流群开放，实物抽奖等你来！",
+          "link": "https://36kr.com/p/3863967437247751?f=rss",
+          "pubDate": "2026-06-22 14:56:09  +0800",
+          "summary": "<h2><strong>一、36氪官方大数据股市舆情工具介绍</strong></h2>\n  <p>36氪企业全情报是36氪联合红麦数据推出的专业资本市场情报平台，依托全网大数据资源，实时同步个股、产业一手资讯，同时通过智能算法识别行情潜藏风险，一站式查询板块、个股完整消息脉络。</p>\n  <p><strong>小程序直达链接，手机端可直接打开使用，无需下载任何软件：</strong></p>\n  <p><strong>&nbsp;</strong><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://link.wtturl.cn/?target=https%3A%2F%2Fchannel.36kr.com%2Fapi%2Fx%2Fwechat%2FurlLink%3FchannelId%3D1%26path%3D%2Fpages%2Fhome%2Findex&amp;scene=im&amp;aid=497858&amp;lang=zh\"><strong>https://channel.36kr.com/api/x/w"
+        },
+        {
+          "title": "云鲸智能创始人兼CEO张峻彬：十年 | 36氪WAVES2026新浪潮",
+          "link": "https://36kr.com/p/3863988138956032?f=rss",
+          "pubDate": "2026-06-22 14:52:52  +0800",
+          "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪 · <strong>暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为致辞内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1280,853\" src=\"https://img.36krcdn.com/hsossms/20260622/v2_a1e08933eabb4269bd7cdb3539bf34b2@6381723_oswg1076618oswg1280oswg8"
+        },
+        {
+          "title": "广州市番禺协诚实业有限公司副总经理龙德洋：真正的城市服务，藏在分分秒秒的坚守里",
+          "link": "https://36kr.com/p/3863849524859911?f=rss",
+          "pubDate": "2026-06-22 13:52:45  +0800",
+          "summary": "<p>“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。</p>\n  <p>每一年，由36氪<strong> · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。</strong>今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度圆桌、数十场独立演讲，拆解 AI、硬科技、出海、医疗等核心赛道的底层逻辑，见证那些“少数人” 的坚持，如何汇聚成改变行业的浪潮。”</p>\n  <p>以下为开放麦内容，经36氪整理编辑：</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"4800,3200\" src=\"https://img.36krcdn.com/hsossms/20260622/v2_d7da5ece29504f239a04251a766667eb@6381723_oswg8771866oswg4800osw"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Founders Bay",
+      "url": "https://newsletter.foundersbay.com/feed",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: HTTP Error 403: Forbidden"
+    },
+    {
+      "category": "consulting",
+      "name": "BCG (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Boston+Consulting+Group%22+future+of+work&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [
+        {
+          "title": "AI Will Reshape More Jobs Than It Replaces - Boston Consulting Group",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeW56WnUtMU9qZzJrVktDLXJqTXB6eVdHWG0tbG9mb2tHZUpEQ2JfUHJqZW4tMXRxQjVqOWdNbmF5V1V5Qm9TNnZjOEdFTWNWQW44dmMwZzhENDlGODR4YWFYS2Jhd2FsZmN3SXlpMEZqemZPMUFFQTA3eGZnUEE4aWJQMFQwaXM?oc=5",
+          "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeW56WnUtMU9qZzJrVktDLXJqTXB6eVdHWG0tbG9mb2tHZUpEQ2JfUHJqZW4tMXRxQjVqOWdNbmF5V1V5Qm9TNnZjOEdFTWNWQW44dmMwZzhENDlGODR4YWFYS2Jhd2FsZmN3SXlpMEZqemZPMUFFQTA3eGZnUEE4aWJQMFQwaXM?oc=5\" target=\"_blank\">AI Will Reshape More Jobs Than It Replaces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Consulting Group</font>"
+        },
+        {
+          "title": "AI and the future of work - WHYY",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14eWh2MHEzbllUcjhWMnczVUNZR3pxdmY4NV9kdlRuVWU2dnhXNnVERE5GckZieTM4eGZ1aEFXaktoMGJLSy12V2hjSWs4SzdpbFNmaktwWW8yRWJHci10Ymp3?oc=5",
+          "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE14eWh2MHEzbllUcjhWMnczVUNZR3pxdmY4NV9kdlRuVWU2dnhXNnVERE5GckZieTM4eGZ1aEFXaktoMGJLSy12V2hjSWs4SzdpbFNmaktwWW8yRWJHci10Ymp3?oc=5\" target=\"_blank\">AI and the future of work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHYY</font>"
+        },
+        {
+          "title": "'AI brain fry' is real — and it's making workers more exhausted, not more productive, new study finds - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaC1JeDRwSEJQSm1VRlBFUXNoZWtXdkppNFpqU0g2Y0c4STJFU1RPNTZuUUxUdGRwYkkxX1lqTDU1ZVY4S1V6MEtvZUJQRUhlTEo2eWFHRmFYRFV6ZW52TlRReHRzNGxheXZ3MWY2T0ZYRjRWYWdyd3RCUV9uMFBKcFExNA?oc=5",
+          "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOaC1JeDRwSEJQSm1VRlBFUXNoZWtXdkppNFpqU0g2Y0c4STJFU1RPNTZuUUxUdGRwYkkxX1lqTDU1ZVY4S1V6MEtvZUJQRUhlTEo2eWFHRmFYRFV6ZW52TlRReHRzNGxheXZ3MWY2T0ZYRjRWYWdyd3RCUV9uMFBKcFExNA?oc=5\" target=\"_blank\">'AI brain fry' is real — and it's making workers more exhausted, not more productive, new study finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+        },
+        {
+          "title": "AI's 'Joy Paradox': Why Strategy, Not Tools, Will Define the Future of Work - BriefGlance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGNIdHhKcWNJMG9fcllvOU5tZzFzY3FJMnhoZE5rV1UzQVpDUVJINWtJakZ3elJ1UXJwajRJcy0wUmFEdVl0LXNPZ3NpM2p4N3NUTGZtdGRtTzEtNDFpM1NuNldCTTZremdKNXp6TXdVUGV3OXZwdjQ2SThoSE1jTTVYSkZ0RWVPc3VsQk9Id0xiekI1WUJxOHZBS0tINkZIOUU5ZQ?oc=5",
+          "pubDate": "Wed, 03 Jun 2026 12:04:34 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGNIdHhKcWNJMG9fcllvOU5tZzFzY3FJMnhoZE5rV1UzQVpDUVJINWtJakZ3elJ1UXJwajRJcy0wUmFEdVl0LXNPZ3NpM2p4N3NUTGZtdGRtTzEtNDFpM1NuNldCTTZremdKNXp6TXdVUGV3OXZwdjQ2SThoSE1jTTVYSkZ0RWVPc3VsQk9Id0xiekI1WUJxOHZBS0tINkZIOUU5ZQ?oc=5\" target=\"_blank\">AI's 'Joy Paradox': Why Strategy, Not Tools, Will Define the Future of Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BriefGlance</font>"
+        },
+        {
+          "title": "AI Transformation Is a Workforce Transformation - Boston Consulting Group",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0VpQTZPZ1VjOV9TSWRraldnbmMyME9OSUhSMnhUaTVkeUt1WkZZVkhLdS1aUEtWRGFUVnhaOFJqQmZISUFmaGluRG5faVAycTJpYzl6bEdseW9uWk5fNmQxQ1dLMmR6MUZIcWZqZm9LWWVXel9PbzFzZGIyUVRwTjNjdjFYczh4V0J4Z0xR?oc=5",
+          "pubDate": "Wed, 04 Feb 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0VpQTZPZ1VjOV9TSWRraldnbmMyME9OSUhSMnhUaTVkeUt1WkZZVkhLdS1aUEtWRGFUVnhaOFJqQmZISUFmaGluRG5faVAycTJpYzl6bEdseW9uWk5fNmQxQ1dLMmR6MUZIcWZqZm9LWWVXel9PbzFzZGIyUVRwTjNjdjFYczh4V0J4Z0xR?oc=5\" target=\"_blank\">AI Transformation Is a Workforce Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Consulting Group</font>"
+        },
+        {
+          "title": "OpenAI unveils Jobs Platform and Certifications as both disruptor of and solution for AI-based future of work - unleash.ai",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZGV2d0otNXlubjBXM2pNTV9wVTlKelcxRlZIOVZwV05DY0lRQlRHYVE5TWhDZG9TQVNlLUZUd0kxZzI3WnNlZ0F5ZDk1d3k2b29nX244dG5FZWQySmV3OWFULUpFTjJ4QWcyalJsM2ZNeHV5RVZ6QmpSYWJ5bkxTN3VTWlJxX3RGMUNmQVViVTlFOHZsaEpIbHZfeGQwa01mbklnM0lMcWdISDQyMHNpWW5UdkJOTFo2ckhRQkpDWnNrV0NxMUVlbWZRQVVxR2ZvbEQwWm83VmdlYVREM2xGeEZfMUpRN3lza0o1bFZLWnVncjg?oc=5",
+          "pubDate": "Mon, 08 Sep 2025 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZGV2d0otNXlubjBXM2pNTV9wVTlKelcxRlZIOVZwV05DY0lRQlRHYVE5TWhDZG9TQVNlLUZUd0kxZzI3WnNlZ0F5ZDk1d3k2b29nX244dG5FZWQySmV3OWFULUpFTjJ4QWcyalJsM2ZNeHV5RVZ6QmpSYWJ5bkxTN3VTWlJxX3RGMUNmQVViVTlFOHZsaEpIbHZfeGQwa01mbklnM0lMcWdISDQyMHNpWW5UdkJOTFo2ckhRQkpDWnNrV0NxMUVlbWZRQVVxR2ZvbEQwWm83VmdlYVREM2xGeEZfMUpRN3lza0o1bFZLWnVncjg?oc=5\" target=\"_blank\">OpenAI unveils Jobs Platform and Certifications as both disruptor of and solution for AI-based futur"
+        },
+        {
+          "title": "AI Is Moving Faster Than Your Workforce Strategy. Are You Ready? - Boston Consulting Group",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3FiWTU1dUFGSXprOEMtMlNBdHJXdnNjejR3ZGRmZ21fSktNNGJhNjM2OGZNd21JQkRoOWpwdGVpYWttaFhEWlE5WkpmeE02RUJFX1IxeW5ZVUJfNjdZZnZsQnM4MTlxd0RTb3lMUU5rbkViVmNkUmRja2d5NFEzbThiUlNpRFFVR2R4ZkVFR3V1Sm55M0E?oc=5",
+          "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3FiWTU1dUFGSXprOEMtMlNBdHJXdnNjejR3ZGRmZ21fSktNNGJhNjM2OGZNd21JQkRoOWpwdGVpYWttaFhEWlE5WkpmeE02RUJFX1IxeW5ZVUJfNjdZZnZsQnM4MTlxd0RTb3lMUU5rbkViVmNkUmRja2d5NFEzbThiUlNpRFFVR2R4ZkVFR3V1Sm55M0E?oc=5\" target=\"_blank\">AI Is Moving Faster Than Your Workforce Strategy. Are You Ready?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Consulting Group</font>"
+        },
+        {
+          "title": "The Next 50 Years of Work - Boston Consulting Group",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1cmJqbXNGd29ibWp6bmswMURvUEVITV96MXVlWXc0X2kwY2lfLVM3R3plSk55V2FuRnBwRWp1cnA4TlloR1E5ZXpXRUFxOF9LZHZDR2JOUV94ODdmY0ZmX3FTeHBfWFpKaEk5M3RJZlltcERXU1JCS2hYdGxjT3c?oc=5",
+          "pubDate": "Fri, 22 Mar 2024 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1cmJqbXNGd29ibWp6bmswMURvUEVITV96MXVlWXc0X2kwY2lfLVM3R3plSk55V2FuRnBwRWp1cnA4TlloR1E5ZXpXRUFxOF9LZHZDR2JOUV94ODdmY0ZmX3FTeHBfWFpKaEk5M3RJZlltcERXU1JCS2hYdGxjT3c?oc=5\" target=\"_blank\">The Next 50 Years of Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Consulting Group</font>"
+        },
+        {
+          "title": "The Future of Work Revolves Around Talent - Boston Consulting Group",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbklMMm1ISklDM3E3Y2E1b1BIVFBGZF96bUk1cnlGNDVQOW14bVo3NElDb2FEMXU1OWw4NVZSdV9XV3lYczJpckt5RzFlLVZ1eTBWU0Y3V3p6N3oxUFRlbkRLRGZvNzAySkVjZm5YMU9kVVdYVF9DclVtdUhaRzhJaEdaQmpCQ1RMMGJKdjBqTQ?oc=5",
+          "pubDate": "Thu, 19 Oct 2023 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQbklMMm1ISklDM3E3Y2E1b1BIVFBGZF96bUk1cnlGNDVQOW14bVo3NElDb2FEMXU1OWw4NVZSdV9XV3lYczJpckt5RzFlLVZ1eTBWU0Y3V3p6N3oxUFRlbkRLRGZvNzAySkVjZm5YMU9kVVdYVF9DclVtdUhaRzhJaEdaQmpCQ1RMMGJKdjBqTQ?oc=5\" target=\"_blank\">The Future of Work Revolves Around Talent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Consulting Group</font>"
+        },
+        {
+          "title": "The Expectation Gap in the Future of Work - Boston Consulting Group",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1VuMGpwcXZPcmxOUkZsU0N0MFhEemhxQ2duOWlOZmpyM0pWZWpYZzFpV0xNdVlPRlloUFNzS2dWeTRuSm1uTmt1bmpXSlRsX3pEY29VeHQ4SEZKR2REU0c2T2VGR2o2blhQeW5XUHZua2pfVFBSRGh5b3lwRlpkOS11MkFGYU1CSzA5ZUtfZFR6N1JXdm9vVjFGdmVBR29jWTBzNVZR?oc=5",
+          "pubDate": "Mon, 14 Dec 2020 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPT1VuMGpwcXZPcmxOUkZsU0N0MFhEemhxQ2duOWlOZmpyM0pWZWpYZzFpV0xNdVlPRlloUFNzS2dWeTRuSm1uTmt1bmpXSlRsX3pEY29VeHQ4SEZKR2REU0c2T2VGR2o2blhQeW5XUHZua2pfVFBSRGh5b3lwRlpkOS11MkFGYU1CSzA5ZUtfZFR6N1JXdm9vVjFGdmVBR29jWTBzNVZR?oc=5\" target=\"_blank\">The Expectation Gap in the Future of Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Boston Consulting Group</font>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "consulting",
+      "name": "Deloitte (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Deloitte%22+human+capital+trends&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [
+        {
+          "title": "2026 Global Human Capital Trends - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXNSVC14TEtVVmdGY1VVUUVhXzYtNjkza24xMHZJQndvWFpyT1J2aVg4TW01MGM1STljczdKTnJWZkVNaEZ0enc1RVhQNEVJQ3ZOR0swTnBmM0ctMVBReXlBME1ybVBKUUlRNDcyWWtDcVRmNzlUM3g0NU9Yd3RfTXMwak1SUQ?oc=5",
+          "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXNSVC14TEtVVmdGY1VVUUVhXzYtNjkza24xMHZJQndvWFpyT1J2aVg4TW01MGM1STljczdKTnJWZkVNaEZ0enc1RVhQNEVJQ3ZOR0swTnBmM0ctMVBReXlBME1ybVBKUUlRNDcyWWtDcVRmNzlUM3g0NU9Yd3RfTXMwak1SUQ?oc=5\" target=\"_blank\">2026 Global Human Capital Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "2024 Human Capital Trends: A Public Sector Perspective - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM2JxUFBQRVRIdnh2R2ZQYVNQcDI0My1JRHFQSGN0Qjd1b3NCQjhPTUtIejhSbmc2SjFleUVyZUxlRkpmVW9Idk1LbE1PbVktcUVJN09fMW1xVkR5My1lS3hDQXQzN0lNam1lQTluZ0l5bnFnWjkwWXAyWXBWVWFFZ2lJVUFjZTE2Wk5lVXpVMkh4V190eUJ1R1dVUndXRUltU1E4aE1EV0MyLVpUMmVMd1VuUmVYYzJZ?oc=5",
+          "pubDate": "Sun, 26 Apr 2026 15:01:09 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM2JxUFBQRVRIdnh2R2ZQYVNQcDI0My1JRHFQSGN0Qjd1b3NCQjhPTUtIejhSbmc2SjFleUVyZUxlRkpmVW9Idk1LbE1PbVktcUVJN09fMW1xVkR5My1lS3hDQXQzN0lNam1lQTluZ0l5bnFnWjkwWXAyWXBWVWFFZ2lJVUFjZTE2Wk5lVXpVMkh4V190eUJ1R1dVUndXRUltU1E4aE1EV0MyLVpUMmVMd1VuUmVYYzJZ?oc=5\" target=\"_blank\">2024 Human Capital Trends: A Public Sector Perspective</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "Deloitte 2026 Human Capital Trends - Press Release - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3FfbTV5S0pITHdDOEQyaFN5V08xYlVtVFVwVFVOYjhRbnItVG5TT0p2ZDZhTzVsZ2RYZFB2SlRrY3g5Y0tOX2FLdDBVRmRxX1VnSE5wcWVFRVgwR0VBeVZKem91R3hqdVNsamlWRDB4alVkSGpaYUFYVkN2MVFTOWVueUFhcmhDVm54a2ZnQnVZYnI2cGxDanphR3hvc2gxcHdBc0s1THdqWGZMSFJTelQwSVFqR2NQMlBRbmR3?oc=5",
+          "pubDate": "Wed, 04 Mar 2026 18:47:05 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3FfbTV5S0pITHdDOEQyaFN5V08xYlVtVFVwVFVOYjhRbnItVG5TT0p2ZDZhTzVsZ2RYZFB2SlRrY3g5Y0tOX2FLdDBVRmRxX1VnSE5wcWVFRVgwR0VBeVZKem91R3hqdVNsamlWRDB4alVkSGpaYUFYVkN2MVFTOWVueUFhcmhDVm54a2ZnQnVZYnI2cGxDanphR3hvc2gxcHdBc0s1THdqWGZMSFJTelQwSVFqR2NQMlBRbmR3?oc=5\" target=\"_blank\">Deloitte 2026 Human Capital Trends - Press Release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "Staying relevant in a world that won’t sit still - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTi1hYVl0aFlnRkQtVjN3clI2YlVPR3BSbTNma1BJaFJfX2RJLWpKZHBFaWkzcFdJbWVwclUwbl9Oam1oNzdlQjYwNi03d05GZlItOEVndnIyc21uWGM2OGlUSnBNdUE0OXp1cFV5dlhmeHFWejJ5S2xod3BzNW42b3duWUNSV1RzWGd5Wm5NRnc1dDRBcU1kVEQ0MTB5WEtmM1o4aXVIaWt1Qll0THhtUkdNaTE2STQ?oc=5",
+          "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTi1hYVl0aFlnRkQtVjN3clI2YlVPR3BSbTNma1BJaFJfX2RJLWpKZHBFaWkzcFdJbWVwclUwbl9Oam1oNzdlQjYwNi03d05GZlItOEVndnIyc21uWGM2OGlUSnBNdUE0OXp1cFV5dlhmeHFWejJ5S2xod3BzNW42b3duWUNSV1RzWGd5Wm5NRnc1dDRBcU1kVEQ0MTB5WEtmM1o4aXVIaWt1Qll0THhtUkdNaTE2STQ?oc=5\" target=\"_blank\">Staying relevant in a world that won’t sit still</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "2023 Human Capital Trends in Financial Services - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc01WRzRWWlpWel9xaTJRRTJkaXdON2ZycThHQ1V0R3h5cmVRTlhYS1hTM2FDMXFrTzVISGQ2UW1vLVhnSVpFWFRPY3doMU9PZ1FLTzJjWTAyTnQ0VVJBQW9VdEROTkQ2R2UtRlk3Ym9tMjhaNmUwNl9HY05tblVLdGY3bkZkaDlZTVJQRndTOWFCS0hTS2VvRml4ZFplTkpORXRrTjlHbmJZVkxTMmVPdWVBNlhRUF9jTDh2QkhCRnM?oc=5",
+          "pubDate": "Sat, 11 Apr 2026 06:56:15 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc01WRzRWWlpWel9xaTJRRTJkaXdON2ZycThHQ1V0R3h5cmVRTlhYS1hTM2FDMXFrTzVISGQ2UW1vLVhnSVpFWFRPY3doMU9PZ1FLTzJjWTAyTnQ0VVJBQW9VdEROTkQ2R2UtRlk3Ym9tMjhaNmUwNl9HY05tblVLdGY3bkZkaDlZTVJQRndTOWFCS0hTS2VvRml4ZFplTkpORXRrTjlHbmJZVkxTMmVPdWVBNlhRUF9jTDh2QkhCRnM?oc=5\" target=\"_blank\">2023 Human Capital Trends in Financial Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "Dealing with AI’s cultural debt - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlBOUkVpWFJ2SGdhMi10Q0NaN2lVZTJySEE5SkliSFJGaTJrY2wyTmRiOUdTYmZrRTNjWlE1S1FBMlFLT2ZGSnl6TE04VTJDcWhoeHUxbFBrMTFnNnl2U3FwUURiSV9mX2o5cVNuaTVLU0lPdjV2UU5ZTmJJalZYZG53VVo5aDlsd2pXbzBmcnkyeHJYVER3SHJWd3dQbkNIcm9J?oc=5",
+          "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSlBOUkVpWFJ2SGdhMi10Q0NaN2lVZTJySEE5SkliSFJGaTJrY2wyTmRiOUdTYmZrRTNjWlE1S1FBMlFLT2ZGSnl6TE04VTJDcWhoeHUxbFBrMTFnNnl2U3FwUURiSV9mX2o5cVNuaTVLU0lPdjV2UU5ZTmJJalZYZG53VVo5aDlsd2pXbzBmcnkyeHJYVER3SHJWd3dQbkNIcm9J?oc=5\" target=\"_blank\">Dealing with AI’s cultural debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "Getting human and machine relationships right - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjRJWHRCU1Fpbkx0alBjSTd4LVNGSjQ1N0NteGJqR3prWDZRbjlXaXlLRzdJY2h5RHR2SjhGUEFkOVVOMVU0SUl4blJVcXR5Qkpuck92TFRIdkRJeWxzT2t3d0g3Z3FSNGxudVppeXBfeDVUQlpyRUlVbW1WclctekZIMGZ0cHR0cjVZR0U0Z1FGRGNBMW9pbjFTdDdoT1BkZkR6a0hYU2NZbkhPWVVNaFpn?oc=5",
+          "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbjRJWHRCU1Fpbkx0alBjSTd4LVNGSjQ1N0NteGJqR3prWDZRbjlXaXlLRzdJY2h5RHR2SjhGUEFkOVVOMVU0SUl4blJVcXR5Qkpuck92TFRIdkRJeWxzT2t3d0g3Z3FSNGxudVppeXBfeDVUQlpyRUlVbW1WclctekZIMGZ0cHR0cjVZR0U0Z1FGRGNBMW9pbjFTdDdoT1BkZkR6a0hYU2NZbkhPWVVNaFpn?oc=5\" target=\"_blank\">Getting human and machine relationships right</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "The orchestration advantage - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeE5qMGh2YXNiSllnSTBiUzJmaDhGQU1oRDNZbTh4THgyNFpqcXEtRmNncU5FLXpZV2tNdy0tdE1xOTBPcFU5blRyekRQalBRNk9LUTI3QUlfczVUSE5jS2NEMlRlWndwTzRNU0tvLW90SkVlNU9DNDhGZ1g5Uko5XzladGpkdlZpYnBPU1JubjNMSGJzMndGRHBQaWRIQ1hBSF9KbTZRVVI4VC10LUhj?oc=5",
+          "pubDate": "Wed, 04 Mar 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNeE5qMGh2YXNiSllnSTBiUzJmaDhGQU1oRDNZbTh4THgyNFpqcXEtRmNncU5FLXpZV2tNdy0tdE1xOTBPcFU5blRyekRQalBRNk9LUTI3QUlfczVUSE5jS2NEMlRlWndwTzRNU0tvLW90SkVlNU9DNDhGZ1g5Uko5XzladGpkdlZpYnBPU1JubjNMSGJzMndGRHBQaWRIQ1hBSF9KbTZRVVI4VC10LUhj?oc=5\" target=\"_blank\">The orchestration advantage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "CFO Guide to Human Capital Trends: AI & Human Collaboration - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUxlUHhfRGtKZk9yVGJJbmRaLWkwOER5SWNMc3N0ejM3N0NkSG9nRU1OaVQ2bXZXWmFZN01wcXlRanRiUFNDVW1lNFlDSW5jYzFYNFdwUzhBeUZYZDVWZkMyV2hhWGJTMTE5ZEVnT2VORTFJTWN6cng2QkoweW5BcUNEc1RoRkF0aTdYRDNDV2VfclJqZ0RMSmZRUEdqV05fclBETS1DNTJhTV85LTI2SF9Jc0FOMUZaYnB0VEtLM2YwWmh6bGdQNmJpVjJkWXJFMFc4LU9xYzNpUXZQWXc?oc=5",
+          "pubDate": "Fri, 22 May 2026 21:56:57 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLUxlUHhfRGtKZk9yVGJJbmRaLWkwOER5SWNMc3N0ejM3N0NkSG9nRU1OaVQ2bXZXWmFZN01wcXlRanRiUFNDVW1lNFlDSW5jYzFYNFdwUzhBeUZYZDVWZkMyV2hhWGJTMTE5ZEVnT2VORTFJTWN6cng2QkoweW5BcUNEc1RoRkF0aTdYRDNDV2VfclJqZ0RMSmZRUEdqV05fclBETS1DNTJhTV85LTI2SF9Jc0FOMUZaYnB0VEtLM2YwWmh6bGdQNmJpVjJkWXJFMFc4LU9xYzNpUXZQWXc?oc=5\" target=\"_blank\">CFO Guide to Human Capital Trends: AI & Human Collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        },
+        {
+          "title": "In the new reality of work, success will belong to organizations that build their strategy around human advantage - Deloitte",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRE0zV25xS3VOYWZMemFsMVpEdWFPSEJIN2VLOHhGMnhPNFdMOVNsN3RJVUMtc1R1UHNVN3N6OVV5VU9BbmFWRmFqWk1rbGc0WTNmRjRQU1V6NFkxSUdmWVl2c010bUR1c0tqbDUxeGUxeFdUUGVUeFcyNUhNS0RwNWRVTTQ?oc=5",
+          "pubDate": "Fri, 27 Mar 2026 15:39:37 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQRE0zV25xS3VOYWZMemFsMVpEdWFPSEJIN2VLOHhGMnhPNFdMOVNsN3RJVUMtc1R1UHNVN3N6OVV5VU9BbmFWRmFqWk1rbGc0WTNmRjRQU1V6NFkxSUdmWVl2c010bUR1c0tqbDUxeGUxeFdUUGVUeFcyNUhNS0RwNWRVTTQ?oc=5\" target=\"_blank\">In the new reality of work, success will belong to organizations that build their strategy around human advantage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "consulting",
+      "name": "Accenture (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Accenture%22+talent+%22future+of+work%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Accenture's $865 million reinvention includes saying goodbye to people without the right AI skills - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdW9XcF9uNGR5M0ZCQ1RqTHJZajd6UUZ1enhoajNSZU11c0ZwaG83bVU3NzZtWGF5ZnctVklNOWUtVEc4MDZvM0l0cUFhVlZVSVZVQXNfMGIwMWFtZW1HTnM1M29HOUdXMzNZcGlydnlaVHJPTFg2amQwOWwyYWdyU1pZbzZFQkllNGdvTWZXdUg1MGQy?oc=5",
+          "pubDate": "Sat, 27 Sep 2025 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdW9XcF9uNGR5M0ZCQ1RqTHJZajd6UUZ1enhoajNSZU11c0ZwaG83bVU3NzZtWGF5ZnctVklNOWUtVEc4MDZvM0l0cUFhVlZVSVZVQXNfMGIwMWFtZW1HTnM1M29HOUdXMzNZcGlydnlaVHJPTFg2amQwOWwyYWdyU1pZbzZFQkllNGdvTWZXdUg1MGQy?oc=5\" target=\"_blank\">Accenture's $865 million reinvention includes saying goodbye to people without the right AI skills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+        },
+        {
+          "title": "Reimagining work: Accenture’s Swati Sharma on leadership in the AI economy - ETHRWorld.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWtZZXVkMERacG9NNnRweWxYRV9neWhIZWw4WmhBaVVDeTdJYmZHSFc1TVVzelpEMFp2Wm15aUR1TEI1Y2dGdlZ6ZDRyU1BUTzRRdWdnNXdhLXMyNEg5dGdNa04tOUpqRU1lMDBOQXlOS1RXcnZWbGZBY3lPSi1IVl82TkJqcnhtbWlpUFJnS3FNTEVvblFiWm1xd1h4Z1lDRkFzZG9qcnp4Ry1nN045cWFCN0J0QXZoVWMzYmZmV0RJMFFYdFc0dVlPMTRPNnJFdjBmZ2dRbFo?oc=5",
+          "pubDate": "Mon, 16 Feb 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcWtZZXVkMERacG9NNnRweWxYRV9neWhIZWw4WmhBaVVDeTdJYmZHSFc1TVVzelpEMFp2Wm15aUR1TEI1Y2dGdlZ6ZDRyU1BUTzRRdWdnNXdhLXMyNEg5dGdNa04tOUpqRU1lMDBOQXlOS1RXcnZWbGZBY3lPSi1IVl82TkJqcnhtbWlpUFJnS3FNTEVvblFiWm1xd1h4Z1lDRkFzZG9qcnp4Ry1nN045cWFCN0J0QXZoVWMzYmZmV0RJMFFYdFc0dVlPMTRPNnJFdjBmZ2dRbFo?oc=5\" target=\"_blank\">Reimagining work: Accenture’s Swati Sharma on leadership in the AI economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETHRWorld.com</font>"
+        },
+        {
+          "title": "Accenture’s six big trends in banking, 2026 - Chris Skinner's blog",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jR2pQSWJrZURScnlCc25kQ3o2eElxcldXZE9lcFhKdkItN196UkZtY0k4UDVvRzg4NVA2dTFwdzI3bVBJaU12NWNTQW9wMUhGRTExbW5lTDlndU53UFMtangzbVlBWUxBYW5DcGhSZlREdXkwcWxPVklqOVVrZw?oc=5",
+          "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5jR2pQSWJrZURScnlCc25kQ3o2eElxcldXZE9lcFhKdkItN196UkZtY0k4UDVvRzg4NVA2dTFwdzI3bVBJaU12NWNTQW9wMUhGRTExbW5lTDlndU53UFMtangzbVlBWUxBYW5DcGhSZlREdXkwcWxPVklqOVVrZw?oc=5\" target=\"_blank\">Accenture’s six big trends in banking, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chris Skinner's blog</font>"
+        },
+        {
+          "title": "Accenture and Workday Collaborate to Help Organizations Move to a Skills-Based Approach to Succeed in the Future of Work - Accenture",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVHdnMFVzRjNaTU9xNFg4TExqZTZORmRIZHhsU29qRy1uaHJsTDJJUzVYZEhlNVpJQTk4TXh6d3BaZFJLOGRhZTVFeV9KdWd2ZWoza2EwRFVXR2xyWjROQXE5T3hVWUYtQUNsa0hhUnBSRWRaNEZmZGd5NlpFUUkta1lZQmdvQkVTTy1DVzV3Y0dPU0x0STFiTTdaYjJOUUIyVmN0VHpzSHF2cldmNXFOdEtNSWZwWmVZWmxtWnpwY2VLUHNRSVBWaHQ4LTUtMVk3YklKdGU0S3hYVmZTZjBZU2Q4RndKd05FX19Zei0tcGhNaW8?oc=5",
+          "pubDate": "Tue, 14 Nov 2023 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVHdnMFVzRjNaTU9xNFg4TExqZTZORmRIZHhsU29qRy1uaHJsTDJJUzVYZEhlNVpJQTk4TXh6d3BaZFJLOGRhZTVFeV9KdWd2ZWoza2EwRFVXR2xyWjROQXE5T3hVWUYtQUNsa0hhUnBSRWRaNEZmZGd5NlpFUUkta1lZQmdvQkVTTy1DVzV3Y0dPU0x0STFiTTdaYjJOUUIyVmN0VHpzSHF2cldmNXFOdEtNSWZwWmVZWmxtWnpwY2VLUHNRSVBWaHQ4LTUtMVk3YklKdGU0S3hYVmZTZjBZU2Q4RndKd05FX19Zei0tcGhNaW8?oc=5\" target=\"_blank\">Accenture and Workday Collaborate to Help Organizations Move to a Skills-Based Approach to Succeed i"
+        },
+        {
+          "title": "Reinventing Work: An exclusive look at Accenture's AI-first talent strategy - People Matters Media",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblg5YXBtYnRMQlBRMDZJWVBGb2dyWFFUV3VOUVpZUnFPN3B3UmRYZ0l0YlZDamUwQTcyeTN2UzVtWnhBOG9QZXZ1MjV2NzQ3WVFJdjZmREQ2bk4zODU4TTZLSEg2MjgxZkstdkFnYU9QcURQRUJTTGV5QkljUUYySVEwWHZ2bXpLMGppY1A1dnpBQXNTTFE2NG56OFpBWm52Y1ZaanBKOWR3U1BrQmpQVi1xSmdIbnJmQXFLdGtQZk41ekJoWndlMHlLVFlEOGdtYzFR?oc=5",
+          "pubDate": "Mon, 01 Sep 2025 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPblg5YXBtYnRMQlBRMDZJWVBGb2dyWFFUV3VOUVpZUnFPN3B3UmRYZ0l0YlZDamUwQTcyeTN2UzVtWnhBOG9QZXZ1MjV2NzQ3WVFJdjZmREQ2bk4zODU4TTZLSEg2MjgxZkstdkFnYU9QcURQRUJTTGV5QkljUUYySVEwWHZ2bXpLMGppY1A1dnpBQXNTTFE2NG56OFpBWm52Y1ZaanBKOWR3U1BrQmpQVi1xSmdIbnJmQXFLdGtQZk41ekJoWndlMHlLVFlEOGdtYzFR?oc=5\" target=\"_blank\">Reinventing Work: An exclusive look at Accenture's AI-first talent strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People Matters Media</font>"
+        },
+        {
+          "title": "This is how AI can unlock hidden talent in the workplace - The World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmtheldwSTI3dmxUdmRWRWtFeF9fQXA1U2ZsUklpbGhZNkRydFNyR2w5Y2lSSFliMFpjVlpmcTlDUUx3QkNjSUhvWTFrSkgzVVdSb19Vc2JqVl8yel9MSk0ycjlkdEZDeHVfTk9WT3dwc2hwWnE4RllDUmdEemJtQjhOa0k?oc=5",
+          "pubDate": "Wed, 02 Jun 2021 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmtheldwSTI3dmxUdmRWRWtFeF9fQXA1U2ZsUklpbGhZNkRydFNyR2w5Y2lSSFliMFpjVlpmcTlDUUx3QkNjSUhvWTFrSkgzVVdSb19Vc2JqVl8yel9MSk0ycjlkdEZDeHVfTk9WT3dwc2hwWnE4RllDUmdEemJtQjhOa0k?oc=5\" target=\"_blank\">This is how AI can unlock hidden talent in the workplace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+        },
+        {
+          "title": "Accenture and Walmart are developing workforce strategies with AI in mind - HR Brew",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT2I3RXRzSDIxZkNBUDhRLVQ4Mmdob2g2VUxudXA2N2tlWHUxaTA2ZmdaTWtWSmlGLUc0RVVZeWMyclpDRGVtODhwdlRFTXVGNTloMG9yTUtXbUdkcEpxb3ZidUFmMnI2RS1CckxRM1ZjcXJVRF9LcWJ1SnFoQVY1WEwzeUZ2dTE0dDU4MUZIekV5OVdfNjdQTHAtWGRCWk5xVzM0YjE1NHpENW5IVGN5RDhMaGVHZEk?oc=5",
+          "pubDate": "Thu, 02 Oct 2025 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPT2I3RXRzSDIxZkNBUDhRLVQ4Mmdob2g2VUxudXA2N2tlWHUxaTA2ZmdaTWtWSmlGLUc0RVVZeWMyclpDRGVtODhwdlRFTXVGNTloMG9yTUtXbUdkcEpxb3ZidUFmMnI2RS1CckxRM1ZjcXJVRF9LcWJ1SnFoQVY1WEwzeUZ2dTE0dDU4MUZIekV5OVdfNjdQTHAtWGRCWk5xVzM0YjE1NHpENW5IVGN5RDhMaGVHZEk?oc=5\" target=\"_blank\">Accenture and Walmart are developing workforce strategies with AI in mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HR Brew</font>"
+        },
+        {
+          "title": "Accenture research finds demand for remote tech talent surges as Ireland’s technology sector evolves - Irish - Irish Tech News",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nRE9sLVdtVG1Lbi13dTc3Ri11YWU3SVNhbHFDU2ctMUtJaTdGMnpaODc0S0N3ekJpNWI2cUFScGNDV2U5cFJLLW5mV1psN1dGdlcwNUVxQ0M0WTRudmZCWjM0MmVQWVN3elRfTFZpQnVFQVMzRl9wZE5ITdIBe0FVX3lxTE9nRE9sLVdtVG1Lbi13dTc3Ri11YWU3SVNhbHFDU2ctMUtJaTdGMnpaODc0S0N3ekJpNWI2cUFScGNDV2U5cFJLLW5mV1psN1dGdlcwNUVxQ0M0WTRudmZCWjM0MmVQWVN3elRfTFZpQnVFQVMzRl9wZE5ITQ?oc=5",
+          "pubDate": "Thu, 21 Aug 2025 13:02:48 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9nRE9sLVdtVG1Lbi13dTc3Ri11YWU3SVNhbHFDU2ctMUtJaTdGMnpaODc0S0N3ekJpNWI2cUFScGNDV2U5cFJLLW5mV1psN1dGdlcwNUVxQ0M0WTRudmZCWjM0MmVQWVN3elRfTFZpQnVFQVMzRl9wZE5ITdIBe0FVX3lxTE9nRE9sLVdtVG1Lbi13dTc3Ri11YWU3SVNhbHFDU2ctMUtJaTdGMnpaODc0S0N3ekJpNWI2cUFScGNDV2U5cFJLLW5mV1psN1dGdlcwNUVxQ0M0WTRudmZCWjM0MmVQWVN3elRfTFZpQnVFQVMzRl9wZE5ITQ?oc=5\" target=\"_blank\">Accenture research finds demand for remote tech talent surges as Ireland’s technology sector "
+        },
+        {
+          "title": "A Focus on Employee Experience: From the CIO Lens - Workday Blog",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzFKbHJJdDZDOXU2Y0NjVjI2R3NCRnRYTTZ2RzhtR2JCb211aXhpYnVyOURHM0plR1YwOWdSY3E0aE8zSTRGdnRDVElzeTdyYnZvaW1sUlBBb3NKcUZ5RGRidmdwNHpZdEpwUi1SLWdaeEoweDJSQjJZdTQxNGUzNk1ONVU4SjdZZFM0ZA?oc=5",
+          "pubDate": "Fri, 26 Jul 2024 10:23:49 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzFKbHJJdDZDOXU2Y0NjVjI2R3NCRnRYTTZ2RzhtR2JCb211aXhpYnVyOURHM0plR1YwOWdSY3E0aE8zSTRGdnRDVElzeTdyYnZvaW1sUlBBb3NKcUZ5RGRidmdwNHpZdEpwUi1SLWdaeEoweDJSQjJZdTQxNGUzNk1ONVU4SjdZZFM0ZA?oc=5\" target=\"_blank\">A Focus on Employee Experience: From the CIO Lens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Workday Blog</font>"
+        },
+        {
+          "title": "Wendy Walsh made Accenture Ireland talent and organisation lead - businessplus.ie",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05NkhlTUhGYTJRVEVuRThnWm90YVN5REtrbXZWc1gxemZUOXIxRzdaZVhXNHJvMmZwbkZyaXJiZ2tEQm9JSTZMbG5CRF9pQ1lYdzB2OWJESFgtMlBMSkhWcWdhUG42bzFCOHY4Rld2VTdqZw?oc=5",
+          "pubDate": "Wed, 05 Nov 2025 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE05NkhlTUhGYTJRVEVuRThnWm90YVN5REtrbXZWc1gxemZUOXIxRzdaZVhXNHJvMmZwbkZyaXJiZ2tEQm9JSTZMbG5CRF9pQ1lYdzB2OWJESFgtMlBMSkhWcWdhUG42bzFCOHY4Rld2VTdqZw?oc=5\" target=\"_blank\">Wendy Walsh made Accenture Ireland talent and organisation lead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">businessplus.ie</font>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "a16z (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Andreessen+Horowitz%22+OR+%22a16z%22+AI+agent&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Investing in Town - Andreessen Horowitz",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vcEFIei03SUwwazkwODhiNDd0WFJuN3R1c1NyM2R0Z0tDRTRvUzZiS1k3RkFydjVtUUFMTmc5Z3F6Nl9SMFVsbzJienU1MlN5c3k2M2pIc3Nud2ZC?oc=5",
+          "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vcEFIei03SUwwazkwODhiNDd0WFJuN3R1c1NyM2R0Z0tDRTRvUzZiS1k3RkFydjVtUUFMTmc5Z3F6Nl9SMFVsbzJienU1MlN5c3k2M2pIc3Nud2ZC?oc=5\" target=\"_blank\">Investing in Town</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Andreessen Horowitz</font>"
+        },
+        {
+          "title": "The missing infrastructure for AI agents: 5 ways blockchains can help - a16z crypto",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41WHN0ZUZUNkdfS0YtVGRueU1BQVZKQi1DMzY0UXJ6RV9Tekc2T3huM3V3RHdFOEhyWkFEVlZaU2dVQVJraUZQT2NjZ19vaU1wOWNIZFF5V0swX0hLQnk3cmVxT2ZJVGRFc3lLWE5FV2tCTXc1UC1Za2dHVQ?oc=5",
+          "pubDate": "Thu, 16 Apr 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE41WHN0ZUZUNkdfS0YtVGRueU1BQVZKQi1DMzY0UXJ6RV9Tekc2T3huM3V3RHdFOEhyWkFEVlZaU2dVQVJraUZQT2NjZ19vaU1wOWNIZFF5V0swX0hLQnk3cmVxT2ZJVGRFc3lLWE5FV2tCTXc1UC1Za2dHVQ?oc=5\" target=\"_blank\">The missing infrastructure for AI agents: 5 ways blockchains can help</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">a16z crypto</font>"
+        },
+        {
+          "title": "Convey doesn't want to be called an AI agent startup. A16z just bet $38 million it can stand apart. - Business Insider",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTkzMm5ERk5jejk3SlRVSGs2QlktaEdEdzZtRzR0WU9henpLM3J6UmNDem85cFM0ZVUyakpmRUp6Y21pZmhKR2VkSDZQWXR0NzBfUW5peUFQaGRaYXdyLXA2bFJjaUFBMURUY2FpSEFUNUNjWmZwZjBwTGYyM2E3V1dnYjhVS29GQ0VwMmJ4NXBZN25OY1N5MUw5bkZwTU52ZHRxUHp3?oc=5",
+          "pubDate": "Wed, 17 Jun 2026 13:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTkzMm5ERk5jejk3SlRVSGs2QlktaEdEdzZtRzR0WU9henpLM3J6UmNDem85cFM0ZVUyakpmRUp6Y21pZmhKR2VkSDZQWXR0NzBfUW5peUFQaGRaYXdyLXA2bFJjaUFBMURUY2FpSEFUNUNjWmZwZjBwTGYyM2E3V1dnYjhVS29GQ0VwMmJ4NXBZN25OY1N5MUw5bkZwTU52ZHRxUHp3?oc=5\" target=\"_blank\">Convey doesn't want to be called an AI agent startup. A16z just bet $38 million it can stand apart.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>"
+        },
+        {
+          "title": "Investing in Lassie - Andreessen Horowitz",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Xek9iWFl4NmZNR2x1QXhBX2FFXzlDbG5lLVkycEhfbnBmOHNGSFk0NmFaOUxKNF9lM1JNRWo5VU1lUGpxWVRrVHBjZVVzYi1WN0VnZElOUVJIc2lDQlpJ?oc=5",
+          "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Xek9iWFl4NmZNR2x1QXhBX2FFXzlDbG5lLVkycEhfbnBmOHNGSFk0NmFaOUxKNF9lM1JNRWo5VU1lUGpxWVRrVHBjZVVzYi1WN0VnZElOUVJIc2lDQlpJ?oc=5\" target=\"_blank\">Investing in Lassie</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Andreessen Horowitz</font>"
+        },
+        {
+          "title": "Humans Are for Ideas, AI Is for Execution - Andreessen Horowitz",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nXzdiY0NRelFEcF9ac3Nsa3hqTWExam5BdzBvWXp1VUphbHcwVmxnNmd4MmVWRkMtbENaMnA5Y3dCX0w2RDlxcS1zcGpjcXVSRE9RY1loNWlsOC1tQzVVQm9wR3JXVkk5OEE?oc=5",
+          "pubDate": "Wed, 25 Feb 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5nXzdiY0NRelFEcF9ac3Nsa3hqTWExam5BdzBvWXp1VUphbHcwVmxnNmd4MmVWRkMtbENaMnA5Y3dCX0w2RDlxcS1zcGpjcXVSRE9RY1loNWlsOC1tQzVVQm9wR3JXVkk5OEE?oc=5\" target=\"_blank\">Humans Are for Ideas, AI Is for Execution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Andreessen Horowitz</font>"
+        },
+        {
+          "title": "Investing in Exa - Andreessen Horowitz",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CQ1pxek1lc3RBRWo4ZnhOLXpyYUFEZjRDalBzU1BKUjRQNzl0YUdDeWV0Nmt2ZnZXYkpzcEFNTDVISVBoQlFwZW5ZelF0MHgxNkVMQUFKM3NHcmM?oc=5",
+          "pubDate": "Wed, 20 May 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CQ1pxek1lc3RBRWo4ZnhOLXpyYUFEZjRDalBzU1BKUjRQNzl0YUdDeWV0Nmt2ZnZXYkpzcEFNTDVISVBoQlFwZW5ZelF0MHgxNkVMQUFKM3NHcmM?oc=5\" target=\"_blank\">Investing in Exa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Andreessen Horowitz</font>"
+        },
+        {
+          "title": "From “System of Record” to “System of Intelligence” - Andreessen Horowitz",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54eTVZVlk4bzlmb2ppNmQxLXNoelJDclY0bTl3QmdGZDdmSnhjNE9CdndUd3ZDN1FYMEh0d1JVV0xqM09ZaGRQTFJfTWVudXFEXzVuWWZGMFFDOTlOZWZ3OEFJS28tdHVDWmZlX0dENEdld3M?oc=5",
+          "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE54eTVZVlk4bzlmb2ppNmQxLXNoelJDclY0bTl3QmdGZDdmSnhjNE9CdndUd3ZDN1FYMEh0d1JVV0xqM09ZaGRQTFJfTWVudXFEXzVuWWZGMFFDOTlOZWZ3OEFJS28tdHVDWmZlX0dENEdld3M?oc=5\" target=\"_blank\">From “System of Record” to “System of Intelligence”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Andreessen Horowitz</font>"
+        },
+        {
+          "title": "Where Enterprises are Actually Adopting AI - Andreessen Horowitz",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMaXVZcVpEOUtDLXBFck9WdmFHYVMyejdkUE5LX1Z3b1NoNHNKSHlPaTFzcDFac0xwYVFWY0w3d0VpdEt2bUtOZFJWRTNHTldqTVk3SEtCS3p6Y1lDeEhUUE5MeWtkUzRBOGc4Ug?oc=5",
+          "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBMaXVZcVpEOUtDLXBFck9WdmFHYVMyejdkUE5LX1Z3b1NoNHNKSHlPaTFzcDFac0xwYVFWY0w3d0VpdEt2bUtOZFJWRTNHTldqTVk3SEtCS3p6Y1lDeEhUUE5MeWtkUzRBOGc4Ug?oc=5\" target=\"_blank\">Where Enterprises are Actually Adopting AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Andreessen Horowitz</font>"
+        },
+        {
+          "title": "Investing in Temporal - Andreessen Horowitz",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UkItd3RSWlNCczlXNmwya2xzU1lKTVBhenpYM0tIUnFvWkhCcXlqNlc0Skh4MWxLWmdDNlNDLVYwQ21CMDBTT3N0VHBOcFJJVGZvSWxzb0xCMEtPTnFtZW1n?oc=5",
+          "pubDate": "Tue, 17 Feb 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE16UkItd3RSWlNCczlXNmwya2xzU1lKTVBhenpYM0tIUnFvWkhCcXlqNlc0Skh4MWxLWmdDNlNDLVYwQ21CMDBTT3N0VHBOcFJJVGZvSWxzb0xCMEtPTnFtZW1n?oc=5\" target=\"_blank\">Investing in Temporal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Andreessen Horowitz</font>"
+        },
+        {
+          "title": "Investing in GitButler - Andreessen Horowitz",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1haGtVclhCMTRfTzhhcW5SNVYtYnl4Q1pYY05XYXNxTnF1eUljd21FZUVOekFCZUdyRFYzOU5GQzNRRW4xWVFrdFZHbUdrUlZyZW9jVnVWSEZWdGVFSU5lN18xVQ?oc=5",
+          "pubDate": "Wed, 08 Apr 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1haGtVclhCMTRfTzhhcW5SNVYtYnl4Q1pYY05XYXNxTnF1eUljd21FZUVOekFCZUdyRFYzOU5GQzNRRW4xWVFrdFZHbUdrUlZyZW9jVnVWSEZWdGVFSU5lN18xVQ?oc=5\" target=\"_blank\">Investing in GitButler</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Andreessen Horowitz</font>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "think_tank",
+      "name": "Brookings (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Brookings%22+AI+labor+market&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Research on AI and the labor market is still in the first inning - Brookings",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2Rvc0hweEJQcnhsSDctSFdKY0FHUUJJcE1iZE1OMDhXbVlBUDNPWWFvV1hRdjdQMXI3Njl0QW82YURhcWtLX1JfeWRlTzlzdGJDRGVrOTExa3l5d1dLU1VkUDk3aHp2NGRTTnJDS2lCaW1QUllKTTdIalBCeXk1LUN4WEpqaTZ5TWZkTk9QTVNKZnNpc28xWmtJSGtLclhNSHc?oc=5",
+          "pubDate": "Tue, 10 Mar 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2Rvc0hweEJQcnhsSDctSFdKY0FHUUJJcE1iZE1OMDhXbVlBUDNPWWFvV1hRdjdQMXI3Njl0QW82YURhcWtLX1JfeWRlTzlzdGJDRGVrOTExa3l5d1dLU1VkUDk3aHp2NGRTTnJDS2lCaW1QUllKTTdIalBCeXk1LUN4WEpqaTZ5TWZkTk9QTVNKZnNpc28xWmtJSGtLclhNSHc?oc=5\" target=\"_blank\">Research on AI and the labor market is still in the first inning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings</font>"
+        },
+        {
+          "title": "How to help knowledge workers who lose their jobs to AI - Platformer",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0MzYVl6cENZNXFsWWtqX0JpSFBPRUphSjQ3aldSWjlGc1NBckhuNXV2U01JTHJ3WXRtWDM0RE40NllKQ09QUFJGaTNPc0VudGdZMmJ2b0puY3hwN01LY1Fkdkxub1dpNEVLZTlwM0k5eW9GLThROUVxdGlnYTFKdFA4MjRsQ1hNTWRZMg?oc=5",
+          "pubDate": "Tue, 09 Jun 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0MzYVl6cENZNXFsWWtqX0JpSFBPRUphSjQ3aldSWjlGc1NBckhuNXV2U01JTHJ3WXRtWDM0RE40NllKQ09QUFJGaTNPc0VudGdZMmJ2b0puY3hwN01LY1Fkdkxub1dpNEVLZTlwM0k5eW9GLThROUVxdGlnYTFKdFA4MjRsQ1hNTWRZMg?oc=5\" target=\"_blank\">How to help knowledge workers who lose their jobs to AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Platformer</font>"
+        },
+        {
+          "title": "The political geography of AI exposure - Brookings",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZW9uQVVSeVhBVnNaMkhZUW1xaHJ1ZkNxWFVDeFhQMTJ3Y2tfVm1GU3FLbUVkOUxfQUdRLWZ6dERUYUpCWmE3MVM0TTZfbWl1UGhhX3BqWlIwcExCZTBILVotVnR6czRRdFFnR2psZERwVDlXb2lTQmR4NzNiNjg?oc=5",
+          "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5tZW9uQVVSeVhBVnNaMkhZUW1xaHJ1ZkNxWFVDeFhQMTJ3Y2tfVm1GU3FLbUVkOUxfQUdRLWZ6dERUYUpCWmE3MVM0TTZfbWl1UGhhX3BqWlIwcExCZTBILVotVnR6czRRdFFnR2psZERwVDlXb2lTQmR4NzNiNjg?oc=5\" target=\"_blank\">The political geography of AI exposure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings</font>"
+        },
+        {
+          "title": "AI growth acceleration versus distributional fairness - Brookings",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUpzRHhQWk9PTF82dU00SDhPMk5kVndKRmI0YS1FM253TGk1aXB0ZTRBX2NxQlpiU2Z0N2pLVG9YM0xXbi1BcFJYUlJ1dUdGR1R6eGtoYnhoajh2SW83eDV6bDF5VmVZbktGYU5rLS13VV9MSTk2OUJORmxPenhHMnh4blhmSGhKSF9tUHZyTVZJanc?oc=5",
+          "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUpzRHhQWk9PTF82dU00SDhPMk5kVndKRmI0YS1FM253TGk1aXB0ZTRBX2NxQlpiU2Z0N2pLVG9YM0xXbi1BcFJYUlJ1dUdGR1R6eGtoYnhoajh2SW83eDV6bDF5VmVZbktGYU5rLS13VV9MSTk2OUJORmxPenhHMnh4blhmSGhKSF9tUHZyTVZJanc?oc=5\" target=\"_blank\">AI growth acceleration versus distributional fairness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings</font>"
+        },
+        {
+          "title": "Measuring US workers’ capacity to adapt to AI-driven job displacement - Brookings",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3NiT2l0ZzJRQUVqaEdwamxIZUJSZTROUkRkeWdGNy0wUVhQRmczZFc4YnVURzNaSTJOYkxwY3M2ODU5N2lyM19wamw2TmZFeFFvUXoyRUNsVlgzMmkxcnJBdTROUkZQR0U5TGVUbEg0TUlGZkZzY1g2WlpHWnVHdl9rQS1SSjN1UE9ySVI1Ull1b0lIc0NxX19xejlCem1EeEo4X01pTQ?oc=5",
+          "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQX3NiT2l0ZzJRQUVqaEdwamxIZUJSZTROUkRkeWdGNy0wUVhQRmczZFc4YnVURzNaSTJOYkxwY3M2ODU5N2lyM19wamw2TmZFeFFvUXoyRUNsVlgzMmkxcnJBdTROUkZQR0U5TGVUbEg0TUlGZkZzY1g2WlpHWnVHdl9rQS1SSjN1UE9ySVI1Ull1b0lIc0NxX19xejlCem1EeEo4X01pTQ?oc=5\" target=\"_blank\">Measuring US workers’ capacity to adapt to AI-driven job displacement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings</font>"
+        },
+        {
+          "title": "How AI may reshape career pathways to better jobs - Brookings",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFZBd3R1NHBhaHNDR0ZNTjdLVWp5aU1wSXQzME5vTEgyQ0V1Mmpzc2M1MmdvSjZGcGlQd1pFWmNGZGg0NlREME9BNngyN0pBejRHX2dYOTUxdURmUW9pYm5vOS1ZWG1pWWJzWi0wM2ttNWFDVG1oaVI1dFFYdnVncmwyTU8xZk1XSFAxMGNB?oc=5",
+          "pubDate": "Thu, 02 Apr 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSFZBd3R1NHBhaHNDR0ZNTjdLVWp5aU1wSXQzME5vTEgyQ0V1Mmpzc2M1MmdvSjZGcGlQd1pFWmNGZGg0NlREME9BNngyN0pBejRHX2dYOTUxdURmUW9pYm5vOS1ZWG1pWWJzWi0wM2ttNWFDVG1oaVI1dFFYdnVncmwyTU8xZk1XSFAxMGNB?oc=5\" target=\"_blank\">How AI may reshape career pathways to better jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings</font>"
+        },
+        {
+          "title": "New evidence on data center employment effects - Brookings",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT1N2QlRDN013dkVwYUFlTjZJbGNDdFRhSC1IRHEta20wNHhWTkFYck9ZVGg4d2gzS0E2aWNEdWxEX2haZGotQ3dSYkxQR1VtbGFtWmdldzFxSFhpV3VTNGFud1Y3bWMxdHhDSmI2QkNEb3ZDdm1TRnNIVmNiRC01di1xaWtOdjJCdlE?oc=5",
+          "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPT1N2QlRDN013dkVwYUFlTjZJbGNDdFRhSC1IRHEta20wNHhWTkFYck9ZVGg4d2gzS0E2aWNEdWxEX2haZGotQ3dSYkxQR1VtbGFtWmdldzFxSFhpV3VTNGFud1Y3bWMxdHhDSmI2QkNEb3ZDdm1TRnNIVmNiRC01di1xaWtOdjJCdlE?oc=5\" target=\"_blank\">New evidence on data center employment effects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings</font>"
+        },
+        {
+          "title": "The AI durability of built environment careers - Brookings",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTklZYzVkS013cG5oMTlmNU11MWE5cEtMalJULTAtRy1UaDlzaWo5SlBjUm96TG1aTXdIRF9CNDJCbWhLS3VDaFJPV2NxZlV6aHl4VHhOcjl2SkFZMUtWOUNIZFBrOU92NWRtTTBPckZzY3dzdk5RaTMzY3ZOSEctTWRuR0FSSV9XTEE?oc=5",
+          "pubDate": "Thu, 12 Mar 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTklZYzVkS013cG5oMTlmNU11MWE5cEtMalJULTAtRy1UaDlzaWo5SlBjUm96TG1aTXdIRF9CNDJCbWhLS3VDaFJPV2NxZlV6aHl4VHhOcjl2SkFZMUtWOUNIZFBrOU92NWRtTTBPckZzY3dzdk5RaTMzY3ZOSEctTWRuR0FSSV9XTEE?oc=5\" target=\"_blank\">The AI durability of built environment careers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brookings</font>"
+        },
+        {
+          "title": "AI + work: Understanding AI’s impact on the labor market - The Hamilton Project",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWRsM2tGWFc3RDZiTWpOcVVvRnBuWTR3WTMwVkZpdFAwTkp0WlluanhWZjgxTng0cVhjLXpVWllwS056LVhRUzVVcExQcFdkaGliWFNYUW9aSnZUdC15VUUtdHA5ZjM3S2ZSc0VlSXB4cTRPaTg1Mk9tU3JXRV9DT29nWGxZRDBKRkdv?oc=5",
+          "pubDate": "Thu, 19 Feb 2026 15:50:17 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWRsM2tGWFc3RDZiTWpOcVVvRnBuWTR3WTMwVkZpdFAwTkp0WlluanhWZjgxTng0cVhjLXpVWllwS056LVhRUzVVcExQcFdkaGliWFNYUW9aSnZUdC15VUUtdHA5ZjM3S2ZSc0VlSXB4cTRPaTg1Mk9tU3JXRV9DT29nWGxZRDBKRkdv?oc=5\" target=\"_blank\">AI + work: Understanding AI’s impact on the labor market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hamilton Project</font>"
+        },
+        {
+          "title": "Trump promised deportations would protect American jobs. Brookings said the U.S. lost 668,000 so far - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVJYMU51V2ZwYTJpX1dkTDNqS3R5aWI4ck1HSlpydnhGaUh0RURtZTNUUngzMUtGdUN1MzBnR0FPamR6Skl2RnJKNnhjbW10YTFVZ2tHOGZ0eEFKTnFkaGZtSVhYdmNiNFFNRkxTSXdmWGgzOGlzUlRRSXo0aGZob3NVTFoyUVZHV0VvSklzTVJNWUFCWDhRaWFkZndGNmJWWVYzYWgzd0s3bS1T?oc=5",
+          "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVJYMU51V2ZwYTJpX1dkTDNqS3R5aWI4ck1HSlpydnhGaUh0RURtZTNUUngzMUtGdUN1MzBnR0FPamR6Skl2RnJKNnhjbW10YTFVZ2tHOGZ0eEFKTnFkaGZtSVhYdmNiNFFNRkxTSXdmWGgzOGlzUlRRSXo0aGZob3NVTFoyUVZHV0VvSklzTVJNWUFCWDhRaWFkZndGNmJWWVYzYWgzd0s3bS1T?oc=5\" target=\"_blank\">Trump promised deportations would protect American jobs. Brookings said the U.S. lost 668,000 so far</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "think_tank",
+      "name": "WEF (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22World+Economic+Forum%22+%22future+of+jobs%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [
+        {
+          "title": "What is the future of work? Defining roles for humans and AI - The World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1Bzc2hVWGVKXzNRamNfTWdZZ1lBM3plSk5VcnBzcGFZZUp2SEFRZlEtX3Aybi1FNnh4R3VxSDRZaW9RZEcta284STBrVEJTS09mM3BwZV9QZFlRV2lRN3ZpejV0M3kzRFVsX19abm9mZ0s3UGc1VXE3Wi1sclFuODVXdEw?oc=5",
+          "pubDate": "Mon, 22 Jun 2026 15:36:51 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1Bzc2hVWGVKXzNRamNfTWdZZ1lBM3plSk5VcnBzcGFZZUp2SEFRZlEtX3Aybi1FNnh4R3VxSDRZaW9RZEcta284STBrVEJTS09mM3BwZV9QZFlRV2lRN3ZpejV0M3kzRFVsX19abm9mZ0s3UGc1VXE3Wi1sclFuODVXdEw?oc=5\" target=\"_blank\">What is the future of work? Defining roles for humans and AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+        },
+        {
+          "title": "How investing in people can support future economic growth - The World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVVBX25SQ2ZSQWZOb0w2bURsMU9MVVNnQXBjZ1NlS0JPTlc0MG9EejdVRElaUlFJNFhXYTZaQzhRYXpuTmhpTWpBNnBpZUdqTGt4OVk2N2V5b0NZMzgzdGh4dVhia0RKeUtZWUR4RmpRSFpUdXBoTjVieUM1OHNaYWN3NVVGck9DQWc?oc=5",
+          "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVVBX25SQ2ZSQWZOb0w2bURsMU9MVVNnQXBjZ1NlS0JPTlc0MG9EejdVRElaUlFJNFhXYTZaQzhRYXpuTmhpTWpBNnBpZUdqTGt4OVk2N2V5b0NZMzgzdGh4dVhia0RKeUtZWUR4RmpRSFpUdXBoTjVieUM1OHNaYWN3NVVGck9DQWc?oc=5\" target=\"_blank\">How investing in people can support future economic growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+        },
+        {
+          "title": "Career pathways are everywhere, but jobs aren’t - Fast Company",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMzRpcFZib2ZRSTl3NFp6T2dpU0RPeEY4dC1XNHJMekdtU3pSWEdzQlNoY2ZwZXdtRjliV0pUV1NPV09wdU9yTERZZHpiWkZySFAtRHlzZnJ4QnZMTW1xVURNUlZwbGVXWWJrVnJ5YUNDNldkdU5Mb2ljSHFITWhfX1h1WlNDSFdTVXc?oc=5",
+          "pubDate": "Mon, 22 Jun 2026 18:18:14 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQMzRpcFZib2ZRSTl3NFp6T2dpU0RPeEY4dC1XNHJMekdtU3pSWEdzQlNoY2ZwZXdtRjliV0pUV1NPV09wdU9yTERZZHpiWkZySFAtRHlzZnJ4QnZMTW1xVURNUlZwbGVXWWJrVnJ5YUNDNldkdU5Mb2ljSHFITWhfX1h1WlNDSFdTVXc?oc=5\" target=\"_blank\">Career pathways are everywhere, but jobs aren’t</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fast Company</font>"
+        },
+        {
+          "title": "The best way to AI-proof your career | Your Turn - Ventura County Star",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHRFSlFuQVY5T1E0T3Z0aUVjdVUzU21zek1uYzNvdUV6cUVRdjRJeXNBRzNiX1Y0ZERGWGowc1Z5UWRXZ25Gc19rZEtMTUxHUXNJU2NDQnZhYlc3M3hZYm5TYml4QWQyZTdXVlhMMmxUNUExa1NPNXNISVBHYV9ldjJoRDRrWDRzUzZzZWhQc0VhWTNuaWhOQllHeDdFazdhUDlRT0lOTFVQb21MTExwS0Z5d25DblVwN1E?oc=5",
+          "pubDate": "Sat, 20 Jun 2026 14:55:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUHRFSlFuQVY5T1E0T3Z0aUVjdVUzU21zek1uYzNvdUV6cUVRdjRJeXNBRzNiX1Y0ZERGWGowc1Z5UWRXZ25Gc19rZEtMTUxHUXNJU2NDQnZhYlc3M3hZYm5TYml4QWQyZTdXVlhMMmxUNUExa1NPNXNISVBHYV9ldjJoRDRrWDRzUzZzZWhQc0VhWTNuaWhOQllHeDdFazdhUDlRT0lOTFVQb21MTExwS0Z5d25DblVwN1E?oc=5\" target=\"_blank\">The best way to AI-proof your career | Your Turn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ventura County Star</font>"
+        },
+        {
+          "title": "Singleton Bill Creating New Jersey Workplace Skills Savings Program Advances - New Jersey Senate Democrats",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Tjk3VDFJUWdCVWpHbnFkOGlibGtsel9xNkw1REFPMWpWd2l6aFF2TFNMLVo4T0RXcWFhQ2dNTDZsQVF4RUVmdFh1Z2dReGViVzZWaGcwdUZzbEpNN2RhN3Jqdw?oc=5",
+          "pubDate": "Wed, 17 Jun 2026 19:48:38 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE93Tjk3VDFJUWdCVWpHbnFkOGlibGtsel9xNkw1REFPMWpWd2l6aFF2TFNMLVo4T0RXcWFhQ2dNTDZsQVF4RUVmdFh1Z2dReGViVzZWaGcwdUZzbEpNN2RhN3Jqdw?oc=5\" target=\"_blank\">Singleton Bill Creating New Jersey Workplace Skills Savings Program Advances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Jersey Senate Democrats</font>"
+        },
+        {
+          "title": "How entrepreneurs can change the future of jobs using AI - The World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmFYcHNJcUFDbUQ0ZXdGZHJCZ1JqOTEwRmZiQWtVaHdfRVppRXQwbEJfQVdUaHRkR1lTWmYySEhOVHNWVTk4MlBLSklBWkJOMFZlV3dXTG9nei0taFFlUFB5bW4yMGczR1BxSS1QWmg2R2taTm90d0duUVdTenczYV9kNjlsVmhsZXU1eWhHbnY?oc=5",
+          "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQTmFYcHNJcUFDbUQ0ZXdGZHJCZ1JqOTEwRmZiQWtVaHdfRVppRXQwbEJfQVdUaHRkR1lTWmYySEhOVHNWVTk4MlBLSklBWkJOMFZlV3dXTG9nei0taFFlUFB5bW4yMGczR1BxSS1QWmg2R2taTm90d0duUVdTenczYV9kNjlsVmhsZXU1eWhHbnY?oc=5\" target=\"_blank\">How entrepreneurs can change the future of jobs using AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+        },
+        {
+          "title": "How stronger meta-skills will prepare teams for an AI age of continual learning - The World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPei0yRmplcVVsZk5kSTZMalFxV2hweHRYNzlvNHVIbXd1R3AxekNxbmJ0bWo5ZFdZVVVHQXhpWFRkNlcxN2U3eGFzMWlmbVBjcEtHSDZIQnVqbEtEeHBqb0lXOUJoRVhmWld4TFZhdFh1TWg3ZXlsVDhmLWpFLXpPX2J2UTVibGpxdXRGRHJXcDloQQ?oc=5",
+          "pubDate": "Thu, 18 Jun 2026 19:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPei0yRmplcVVsZk5kSTZMalFxV2hweHRYNzlvNHVIbXd1R3AxekNxbmJ0bWo5ZFdZVVVHQXhpWFRkNlcxN2U3eGFzMWlmbVBjcEtHSDZIQnVqbEtEeHBqb0lXOUJoRVhmWld4TFZhdFh1TWg3ZXlsVDhmLWpFLXpPX2J2UTVibGpxdXRGRHJXcDloQQ?oc=5\" target=\"_blank\">How stronger meta-skills will prepare teams for an AI age of continual learning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+        },
+        {
+          "title": "What is the Rayner plot and what can it tell you about the future of jobs? - The World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFNKdGlFM1N6dUlqd25GTDdvY1MtSGUxajNLLWczMjRPR1RKMGVYdUdZVVF0Z3NNZXhhak81ZFJGdUVuOUl6TUNteHYwUG51RDZYYk83LVFUVlFNTVFoVkRNT2dPVV9mcTMwbTBEX2JxRGtGRlkzcGhuM1hUSGFmVEJuZlZJTW9QS3EzTTVKbmpRSXhJSWRVNllwb1Y4Nnh0WkFsd1BtQ3puaXZ1S2ZPT1dPRlg?oc=5",
+          "pubDate": "Wed, 15 Apr 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFNKdGlFM1N6dUlqd25GTDdvY1MtSGUxajNLLWczMjRPR1RKMGVYdUdZVVF0Z3NNZXhhak81ZFJGdUVuOUl6TUNteHYwUG51RDZYYk83LVFUVlFNTVFoVkRNT2dPVV9mcTMwbTBEX2JxRGtGRlkzcGhuM1hUSGFmVEJuZlZJTW9QS3EzTTVKbmpRSXhJSWRVNllwb1Y4Nnh0WkFsd1BtQ3puaXZ1S2ZPT1dPRlg?oc=5\" target=\"_blank\">What is the Rayner plot and what can it tell you about the future of jobs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+        },
+        {
+          "title": "The future of jobs: 6 decision-makers on AI and talent strategies - The World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHhYUDRuYUVkZUR3aDRrTmtKOWZIcVIzNk5VdzlnMGhxU2lxWTBwbmxHdjRQOWRaR1dHb2YxdjU0SHVmNVY3UzdqMW5MR0lNT3RFdUVZM2hWSTZTb0FWb0xHS0wtS0V0RTh2eGU3ZWZiZTdpc2xZSzFHVng5MXNyeVAxd3JBOVlYX2pnTG9TcFdEUQ?oc=5",
+          "pubDate": "Wed, 14 Jan 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHhYUDRuYUVkZUR3aDRrTmtKOWZIcVIzNk5VdzlnMGhxU2lxWTBwbmxHdjRQOWRaR1dHb2YxdjU0SHVmNVY3UzdqMW5MR0lNT3RFdUVZM2hWSTZTb0FWb0xHS0wtS0V0RTh2eGU3ZWZiZTdpc2xZSzFHVng5MXNyeVAxd3JBOVlYX2pnTG9TcFdEUQ?oc=5\" target=\"_blank\">The future of jobs: 6 decision-makers on AI and talent strategies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+        },
+        {
+          "title": "Four Futures for Jobs in the New Economy: AI and Talent in 2030 - The World Economic Forum",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGR1b0tQSG0taVZyYmJlZ1o0cjFqSDI3NFhpNVlqVjFjcHNuMldhTTVoT1ljR0RyZ0xqT3FHbzFyZDE4eUVzd0t1dE1NejRQOVhyRW5IWDdzTTNpbjVJek5YcGI1MU9QZGVORzVMNDFFREYwVWpxbHJRVlBRZ293Zy1YSXRDdVFKaGtLc29nUkpocUx1Wi1LaU1YdzlXajNjclE?oc=5",
+          "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGR1b0tQSG0taVZyYmJlZ1o0cjFqSDI3NFhpNVlqVjFjcHNuMldhTTVoT1ljR0RyZ0xqT3FHbzFyZDE4eUVzd0t1dE1NejRQOVhyRW5IWDdzTTNpbjVJek5YcGI1MU9QZGVORzVMNDFFREYwVWpxbHJRVlBRZ293Zy1YSXRDdVFKaGtLc29nUkpocUx1Wi1LaU1YdzlXajNjclE?oc=5\" target=\"_blank\">Four Futures for Jobs in the New Economy: AI and Talent in 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The World Economic Forum</font>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "hr_media",
+      "name": "Mercer (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Mercer%22+total+rewards+OR+compensation&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Transforming total rewards - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU8xaGxFZGJSSjRpQnR6VWR1ZWwtVUoyQTAtRGFhMXV3aFI2MU5CeWVHZXExSkJKVzlEZk5UQUdHM1FUOEd5dE54NDZ6b3lvN0MzenhMMUR2Zl9GeWgzRTBhT2xmSkhWMnVvcU80LTB2TjF1cmZTV01NNHdvZ3Qwc3lKOUlSME0?oc=5",
+          "pubDate": "Wed, 03 Dec 2025 19:40:49 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU8xaGxFZGJSSjRpQnR6VWR1ZWwtVUoyQTAtRGFhMXV3aFI2MU5CeWVHZXExSkJKVzlEZk5UQUdHM1FUOEd5dE54NDZ6b3lvN0MzenhMMUR2Zl9GeWgzRTBhT2xmSkhWMnVvcU80LTB2TjF1cmZTV01NNHdvZ3Qwc3lKOUlSME0?oc=5\" target=\"_blank\">Transforming total rewards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercer | Welcome to brighter</font>"
+        },
+        {
+          "title": "AI is the future of total rewards - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTlhR0FWakpkeHlZSks5Ym5ETVRwZXpjSDdoSFFWUnZzay1aUFJmejIyRGNtbm5EYXJ3MF94OUl6cXhnSjlJcTJfaHM2eXNaQmlmWk1lZmQ5ajVvcnBQRzRmc252QnFKOUdlSU9IS3Y0R2J4NDN1ZTRmM0FSOG40emFIX1NFSE96OVQzUE5DcFJsWTdmdllUQm9vSHJ3U3lqODhEUy16OVZvVXhoWXlDajNLSQ?oc=5",
+          "pubDate": "Fri, 10 Oct 2025 16:16:20 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPVTlhR0FWakpkeHlZSks5Ym5ETVRwZXpjSDdoSFFWUnZzay1aUFJmejIyRGNtbm5EYXJ3MF94OUl6cXhnSjlJcTJfaHM2eXNaQmlmWk1lZmQ5ajVvcnBQRzRmc252QnFKOUdlSU9IS3Y0R2J4NDN1ZTRmM0FSOG40emFIX1NFSE96OVQzUE5DcFJsWTdmdllUQm9vSHJ3U3lqODhEUy16OVZvVXhoWXlDajNLSQ?oc=5\" target=\"_blank\">AI is the future of total rewards</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercer | Welcome to brighter</font>"
+        },
+        {
+          "title": "Rewards revolution: How rewards leaders are transforming into strategic performance architects - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGd2M0SV9WZmdWWmhhc3NjR2VoNjVOYzdaZnJMTHNxRWdsOVVJVjExLWJKdVhGUDYzMXJmRTJ0UkJzeVlndUJkemwwanF6RW1pMDdFNGs2c3VRYVZXR0c5ZVpSQUMtOURYYk55RVVrNFdkRjVmRkRZSFAtTQ?oc=5",
+          "pubDate": "Wed, 20 Aug 2025 10:48:46 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBGd2M0SV9WZmdWWmhhc3NjR2VoNjVOYzdaZnJMTHNxRWdsOVVJVjExLWJKdVhGUDYzMXJmRTJ0UkJzeVlndUJkemwwanF6RW1pMDdFNGs2c3VRYVZXR0c5ZVpSQUMtOURYYk55RVVrNFdkRjVmRkRZSFAtTQ?oc=5\" target=\"_blank\">Rewards revolution: How rewards leaders are transforming into strategic performance architects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercer | Welcome to brighter</font>"
+        },
+        {
+          "title": "Total Rewards Strategy: Six Priorities for HR - CBIA",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kcEQwd3E0RC1TMXpUUFN6TVU3OFJiMEp6OW8xLWFZNmJqSzRka1habTBZSXN5S1NWRUZEYTlsa0o4TUFwdkkxWS16Nk5PaURBUHBzODRPVmFNVzJONEJxQ2lWeTRZYl9OdUNV?oc=5",
+          "pubDate": "Fri, 15 May 2026 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9kcEQwd3E0RC1TMXpUUFN6TVU3OFJiMEp6OW8xLWFZNmJqSzRka1habTBZSXN5S1NWRUZEYTlsa0o4TUFwdkkxWS16Nk5PaURBUHBzODRPVmFNVzJONEJxQ2lWeTRZYl9OdUNV?oc=5\" target=\"_blank\">Total Rewards Strategy: Six Priorities for HR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBIA</font>"
+        },
+        {
+          "title": "Developing your 2026 compensation planning strategy - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGxoUkdIbnF0TUZ1VDljN1RNUWxiNUJRNTh1X2x1U1RKc3ltN2NkUVNxYzdDb3JTQ1k4cS1xUlNncXR0RVd4MldZQUFNTHdncG9WcGhXbWpoU3pBazktMFNpVERkRW5LQUxMd2V6SXJtcGtMdmtZbFRGemxxVHJCbU90V0RpYW42V1BCSF9RczVxVk1VY3J3a3VfRUxPeXVXOTJEYXhVWQ?oc=5",
+          "pubDate": "Wed, 10 Dec 2025 15:13:16 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGxoUkdIbnF0TUZ1VDljN1RNUWxiNUJRNTh1X2x1U1RKc3ltN2NkUVNxYzdDb3JTQ1k4cS1xUlNncXR0RVd4MldZQUFNTHdncG9WcGhXbWpoU3pBazktMFNpVERkRW5LQUxMd2V6SXJtcGtMdmtZbFRGemxxVHJCbU90V0RpYW42V1BCSF9RczVxVk1VY3J3a3VfRUxPeXVXOTJEYXhVWQ?oc=5\" target=\"_blank\">Developing your 2026 compensation planning strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercer | Welcome to brighter</font>"
+        },
+        {
+          "title": "Future forward: Redefining rewards through innovation and transparency - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVlvZDhSZE4xVVRQeFFYMTQyVFR2OVdDR1lrV0VCeFAwZ2RRTVVrWE15ZzRNVGU0NzZpZ0JTRGliSnNsd1ZXc0hsazZ2S3FYU0dlaGFfZHBUeEE4UldQWm8yNTJYMjN6TmRCT3NhcFFSUExPb3lXQ2EzWjBpUVlzdEJCLVNIV1ZtbWNTUTBhcHFERERYdmZkaFJyREJNWXAtU3p4aVNNN0ZxbWZjTUxUVVI0bmVsU21fQjdyS0dmSQ?oc=5",
+          "pubDate": "Tue, 23 Sep 2025 16:04:24 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVlvZDhSZE4xVVRQeFFYMTQyVFR2OVdDR1lrV0VCeFAwZ2RRTVVrWE15ZzRNVGU0NzZpZ0JTRGliSnNsd1ZXc0hsazZ2S3FYU0dlaGFfZHBUeEE4UldQWm8yNTJYMjN6TmRCT3NhcFFSUExPb3lXQ2EzWjBpUVlzdEJCLVNIV1ZtbWNTUTBhcHFERERYdmZkaFJyREJNWXAtU3p4aVNNN0ZxbWZjTUxUVVI0bmVsU21fQjdyS0dmSQ?oc=5\" target=\"_blank\">Future forward: Redefining rewards through innovation and transparency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercer | Welcome to brighter</font>"
+        },
+        {
+          "title": "Tackling rising costs through total rewards and workforce skills - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOE85RG44RE5YbENTWDU2Z0tfUkJFSkszb0VEUXByMmNwN3pYdDJmOXBIenlyZlpIYjZmWGd3M0F3cnRHMElGSkRZZzhSdzI5WW9VT241ekhTWm5LS2t1SXNmMi1XR1lLMFVoN0d2VTUya1lHbmMyaDFOekVYdmtfc3Y3dGwxUXg5eE0yeElwdkdkZFkzWUI4WUpOZ3hLTHFMN2dBSk1nSW5sQWlfOUowcEF0OU1LMUJoZU92VGgzSEotUW1idkFrN09COGFsMzgtZmlJTjZDb0hfczJwRXRMa1FidmpCUGY1X2lHUzVIT1ItRHM?oc=5",
+          "pubDate": "Fri, 10 Oct 2025 03:46:09 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOOE85RG44RE5YbENTWDU2Z0tfUkJFSkszb0VEUXByMmNwN3pYdDJmOXBIenlyZlpIYjZmWGd3M0F3cnRHMElGSkRZZzhSdzI5WW9VT241ekhTWm5LS2t1SXNmMi1XR1lLMFVoN0d2VTUya1lHbmMyaDFOekVYdmtfc3Y3dGwxUXg5eE0yeElwdkdkZFkzWUI4WUpOZ3hLTHFMN2dBSk1nSW5sQWlfOUowcEF0OU1LMUJoZU92VGgzSEotUW1idkFrN09COGFsMzgtZmlJTjZDb0hfczJwRXRMa1FidmpCUGY1X2lHUzVIT1ItRHM?oc=5\" target=\"_blank\">Tackling rising costs through total rewards and workforce skills</a>&nbsp;&nbsp;<font color=\"#6f6f6f"
+        },
+        {
+          "title": "The leaky bucket in total rewards: A cost-conscious leader’s guide to hidden overspend - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ3RnUWh5ckVtM2FxWkRxNGZGR1hSTDUtYWlyTXFvY2t3VlJ5b0hNa1VFbnlybUNIYVBSSW9XZWtqQ250ZndQWFY2Um9HdlBnRXR3RElxUmtLb2RoWDNYRll0V0xGX3FaZXpObjZhNzNQVXVZSkhTUEFoRE9XZWFiRGlJbGdOYjZfVXh0bVlTdzV3YVJQY001VEN4OE00Ujc1Ymhia1VYUTlPTGNDMzZ2enJUNGpocUZTaVBNYmhwZXhBTFBrTkZMbGVHM2ZqSUhGZWs4b0FhcHJadC0wc3pjVTJpOFFPVGxIRG8tM3k0RE5FUQ?oc=5",
+          "pubDate": "Wed, 09 Jul 2025 20:57:40 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ3RnUWh5ckVtM2FxWkRxNGZGR1hSTDUtYWlyTXFvY2t3VlJ5b0hNa1VFbnlybUNIYVBSSW9XZWtqQ250ZndQWFY2Um9HdlBnRXR3RElxUmtLb2RoWDNYRll0V0xGX3FaZXpObjZhNzNQVXVZSkhTUEFoRE9XZWFiRGlJbGdOYjZfVXh0bVlTdzV3YVJQY001VEN4OE00Ujc1Ymhia1VYUTlPTGNDMzZ2enJUNGpocUZTaVBNYmhwZXhBTFBrTkZMbGVHM2ZqSUhGZWs4b0FhcHJadC0wc3pjVTJpOFFPVGxIRG8tM3k0RE5FUQ?oc=5\" target=\"_blank\">The leaky bucket in total rewards: A cost-conscious leader’s guide to hidden overspend</a>&nbsp;&nbsp"
+        },
+        {
+          "title": "Getting started with AI-enabled rewards? Start here - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTktrbmVxU0VzdTE5QTNHUFN0YXJzVGxJeEcyalpBQVhZbC1nZ3h5Q2s3V1JoX2o0cE8yZ1p3ZXVuMkl2YV84aE8xdnlhb3lYcTRHN2haTWREc2NRSXd5SFlJbnZNdzI2MWdGd0VVNXR3OG54WFoxV1lwbzlhNE9udFhqeUFJMVdBMmFoNE90YllmenZPbzVvOFZPOVJOZXZpaDc3cU1VVm9nZTlvc0ZxX04zRER4WlJINGFUR0ZTZVc1SWpfOVdZR2J2Yw?oc=5",
+          "pubDate": "Fri, 08 Aug 2025 20:01:10 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNTktrbmVxU0VzdTE5QTNHUFN0YXJzVGxJeEcyalpBQVhZbC1nZ3h5Q2s3V1JoX2o0cE8yZ1p3ZXVuMkl2YV84aE8xdnlhb3lYcTRHN2haTWREc2NRSXd5SFlJbnZNdzI2MWdGd0VVNXR3OG54WFoxV1lwbzlhNE9udFhqeUFJMVdBMmFoNE90YllmenZPbzVvOFZPOVJOZXZpaDc3cU1VVm9nZTlvc0ZxX04zRER4WlJINGFUR0ZTZVc1SWpfOVdZR2J2Yw?oc=5\" target=\"_blank\">Getting started with AI-enabled rewards? Start here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercer | Welcome to brighter</font>"
+        },
+        {
+          "title": "Same, but different: how pay for AI jobs is different from past trends - Mercer | Welcome to brighter",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2tQemI4WGNCdWRGRnVoUzdkV0VFZVN6U3lnV2hPRHNpdG0xck5tY1NyVGVxajZBWkFaMTM3N3V2U3RpVmUzVXd0UkRMcmhOZ2Ytd3Zoa0JJSldiVDJOb19tbXJpTkNUSVdjQmV0STZiUzgza285bFJBYlhhOTc2YWR4eDhiZ01SY0hJek03UXBoQ2J3aGRJWkV5OWxUS3NpOU0ydFNUa25hWS02ZHMzel85b0YzN0dMcXpXc1hvNVg2R0U?oc=5",
+          "pubDate": "Tue, 25 Nov 2025 00:00:32 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2tQemI4WGNCdWRGRnVoUzdkV0VFZVN6U3lnV2hPRHNpdG0xck5tY1NyVGVxajZBWkFaMTM3N3V2U3RpVmUzVXd0UkRMcmhOZ2Ytd3Zoa0JJSldiVDJOb19tbXJpTkNUSVdjQmV0STZiUzgza285bFJBYlhhOTc2YWR4eDhiZ01SY0hJek03UXBoQ2J3aGRJWkV5OWxUS3NpOU0ydFNUa25hWS02ZHMzel85b0YzN0dMcXpXc1hvNVg2R0U?oc=5\" target=\"_blank\">Same, but different: how pay for AI jobs is different from past trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mercer | Welcome to brighter</font>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "hr_media",
+      "name": "WTW (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Willis+Towers+Watson%22+compensation+pay&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Willis Towers Watson Public : Salary budgets have stabilized as employers focus on pay strategy for 2026 - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVkpwNmdRaV9sakJPWENsbC1XbVBjZDFQdWlxREp2Q0tRN3pjVm50QzFHUUlFQ05MT0EtLURabW5zVEMwUmtJaGZkWU5peU13U1ZMWEFtUzRtMmp5UVBmVHcwXzh3a1RTSThhaFlqWE9WXzdySENLOTlmSGR1ZTE3dEtaOFMtRlhycDlXdlNzd21wSWJibjlhdndBQ054LXliZmQ1Y09fdUZiTmlOX0RJNTR1b3BIWU41eVJNVW9LZzFKSVBHeGw3NTNuNWgxWDRIZkg3M0hjQmc2eTdxWGd6QUJLWWo?oc=5",
+          "pubDate": "Wed, 21 Jan 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVkpwNmdRaV9sakJPWENsbC1XbVBjZDFQdWlxREp2Q0tRN3pjVm50QzFHUUlFQ05MT0EtLURabW5zVEMwUmtJaGZkWU5peU13U1ZMWEFtUzRtMmp5UVBmVHcwXzh3a1RTSThhaFlqWE9WXzdySENLOTlmSGR1ZTE3dEtaOFMtRlhycDlXdlNzd21wSWJibjlhdndBQ054LXliZmQ1Y09fdUZiTmlOX0RJNTR1b3BIWU41eVJNVW9LZzFKSVBHeGw3NTNuNWgxWDRIZkg3M0hjQmc2eTdxWGd6QUJLWWo?oc=5\" target=\"_blank\">Willis Towers Watson Public : Salary budgets have stabilized as employers focus on pay strategy for 2026</a>&nbsp;&nbsp;"
+        },
+        {
+          "title": "Is the Era of Performance-Based Raises Over - Kavout",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGtYZlphZm5kN09hRFc5S0xEcFVtS0hVZFRzMk41VzhxS0FaMEZ1c3lMaVRJcXpsdFBXdUxUczFBd3ZpM3hkUm9adHpJYzVkMXk5TzdDV3cxck14cjhkbXRMMVBwbWJKdEJoVjN5ZVNieGUtc3hNZlJlYjZmMERsQlVpUXg?oc=5",
+          "pubDate": "Sat, 21 Mar 2026 18:16:54 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGtYZlphZm5kN09hRFc5S0xEcFVtS0hVZFRzMk41VzhxS0FaMEZ1c3lMaVRJcXpsdFBXdUxUczFBd3ZpM3hkUm9adHpJYzVkMXk5TzdDV3cxck14cjhkbXRMMVBwbWJKdEJoVjN5ZVNieGUtc3hNZlJlYjZmMERsQlVpUXg?oc=5\" target=\"_blank\">Is the Era of Performance-Based Raises Over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kavout</font>"
+        },
+        {
+          "title": "Nearly half of companies are turning to poor ‘peanut butter’ raises—following the same pattern of the 2008 recession, an expert says. And it could take years to recover - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc01BRk1MM0lnQkFKLVR2NzEyb2MyMFFPdnUxV3F2WVdlaUk1Z1NyMjRBUC1QUVljZmw0Y200dmxmeTRrNDhPT3I1Z2ZwWjRTQkluVWxVcHRnbk9EYnZaWlVPMi1JOFBhanpsQVVoRi0yMVJQb3RMNC1pdE1SNkh6TDJRbHhBeHVyUlduSUVlZFZOLXh2dDgtbmVwdEtWSktQN3o4M25rd1gzbFVMd1QzVjJZSndSZDdlMXRXQ1cwZDZWaExQX2Rj?oc=5",
+          "pubDate": "Tue, 24 Feb 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOc01BRk1MM0lnQkFKLVR2NzEyb2MyMFFPdnUxV3F2WVdlaUk1Z1NyMjRBUC1QUVljZmw0Y200dmxmeTRrNDhPT3I1Z2ZwWjRTQkluVWxVcHRnbk9EYnZaWlVPMi1JOFBhanpsQVVoRi0yMVJQb3RMNC1pdE1SNkh6TDJRbHhBeHVyUlduSUVlZFZOLXh2dDgtbmVwdEtWSktQN3o4M25rd1gzbFVMd1QzVjJZSndSZDdlMXRXQ1cwZDZWaExQX2Rj?oc=5\" target=\"_blank\">Nearly half of companies are turning to poor ‘peanut butter’ raises—following the same pattern of the 2008 recession, an expert says. And it could take years t"
+        },
+        {
+          "title": "Canada, U.S. salary increase to hold steady in 2026 - hcamag.com",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTNrQTU5SUNacnNJTG1BeXNsT1E0MF9BQ3ptMF9ZekRjMEdtV0RFdUNGWVBOamtQTVozdEdINDFkcWpsVjY4bHJFVDVKYnd6eGMxcXlJTklZREwzMnN5MDFVZ3Z0Ri1FMjFncHNvM2kwSlU4cVdaa004aDU4YkFFSy1Bbkx2b2p2TlVvLXUwNUNzbGszazN3WmhB?oc=5",
+          "pubDate": "Fri, 08 Aug 2025 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTNrQTU5SUNacnNJTG1BeXNsT1E0MF9BQ3ptMF9ZekRjMEdtV0RFdUNGWVBOamtQTVozdEdINDFkcWpsVjY4bHJFVDVKYnd6eGMxcXlJTklZREwzMnN5MDFVZ3Z0Ri1FMjFncHNvM2kwSlU4cVdaa004aDU4YkFFSy1Bbkx2b2p2TlVvLXUwNUNzbGszazN3WmhB?oc=5\" target=\"_blank\">Canada, U.S. salary increase to hold steady in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hcamag.com</font>"
+        },
+        {
+          "title": "Employers project flat salary budgets in 2026 - CFO.com",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZvWHh4MWJJalN1emFaMHBJSUZ6Y0RBc1Qyd3F4ZWxqaHhMQkIwNkN5clV0RC01SFdmdzNlV3FxRmYwVmhKTUFpVDBnOUhBdk1aeFV6ejBOSkR3cTJEZGRwVkx1RzBfXzN3N1JPaEJHLXpXcmg3M1VudHA5SXpzd1QwdlI?oc=5",
+          "pubDate": "Fri, 18 Jul 2025 07:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZvWHh4MWJJalN1emFaMHBJSUZ6Y0RBc1Qyd3F4ZWxqaHhMQkIwNkN5clV0RC01SFdmdzNlV3FxRmYwVmhKTUFpVDBnOUhBdk1aeFV6ejBOSkR3cTJEZGRwVkx1RzBfXzN3N1JPaEJHLXpXcmg3M1VudHA5SXpzd1QwdlI?oc=5\" target=\"_blank\">Employers project flat salary budgets in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CFO.com</font>"
+        },
+        {
+          "title": "MSP airport's top executive Brian Ryks gets 8.5% pay hike - The Business Journals",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1dFTDVGQVRnRjFiWXNJUU9QM0VXc1ZCZTlobFVoME13dE9fdldmVG9CMGhzdnE3ckh3N3hlNjVWZzJQbWo5d3d1c1V6ekNmZWZ5WDdaUXl2RzJhTExXYUFObGFhNThWUkdvdDEwa1FacW92cXdMZ3FOQTFIbk5DS2tMZnlleVM2Umh3OUNYVU5FZzVzM1lvNE84ZlQ?oc=5",
+          "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNR1dFTDVGQVRnRjFiWXNJUU9QM0VXc1ZCZTlobFVoME13dE9fdldmVG9CMGhzdnE3ckh3N3hlNjVWZzJQbWo5d3d1c1V6ekNmZWZ5WDdaUXl2RzJhTExXYUFObGFhNThWUkdvdDEwa1FacW92cXdMZ3FOQTFIbk5DS2tMZnlleVM2Umh3OUNYVU5FZzVzM1lvNE84ZlQ?oc=5\" target=\"_blank\">MSP airport's top executive Brian Ryks gets 8.5% pay hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>"
+        },
+        {
+          "title": "How wage compression is disrupting staff compensation - People Management",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFhqNWROc19sY21pMnB6YWlZYnZlam9NWm9CczZVYXh0RldXQ0JQcGZXbFg1QkJhbXkxTFgtTWhQQ0ZWSDR3YWwwRlBxTV9RaDlSbVVlYUtielhMOFdxQ2VyeUJGSl9DTkE1dVJJMTdOLUpHbHRUYkR2MlNGX0dZa1ZJTXBXSG9qNXY2MGVXMXJ0ZTFvUHZjZUZOMThyUQ?oc=5",
+          "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaFhqNWROc19sY21pMnB6YWlZYnZlam9NWm9CczZVYXh0RldXQ0JQcGZXbFg1QkJhbXkxTFgtTWhQQ0ZWSDR3YWwwRlBxTV9RaDlSbVVlYUtielhMOFdxQ2VyeUJGSl9DTkE1dVJJMTdOLUpHbHRUYkR2MlNGX0dZa1ZJTXBXSG9qNXY2MGVXMXJ0ZTFvUHZjZUZOMThyUQ?oc=5\" target=\"_blank\">How wage compression is disrupting staff compensation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People Management</font>"
+        },
+        {
+          "title": "Pay Transparency Legislation - wtwco.com",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXpxVDJkdkNuVFFpUFIyRmpkUDFhYW1hZUU4WHhUbFNPTDQ0ejZJSnA0R1EwUjFCN0FvS2JrUEV0V29HeVFpaEdqRmk1V0Mtek9COE9Eb0ROUWd3R1pLeUltbS1FSktOUUZoVFA5dUNYLXh5LU0wZEt6VHl0RjRDaXp6Nk8zaEt4?oc=5",
+          "pubDate": "Tue, 09 Apr 2024 15:28:49 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXpxVDJkdkNuVFFpUFIyRmpkUDFhYW1hZUU4WHhUbFNPTDQ0ejZJSnA0R1EwUjFCN0FvS2JrUEV0V29HeVFpaEdqRmk1V0Mtek9COE9Eb0ROUWd3R1pLeUltbS1FSktOUUZoVFA5dUNYLXh5LU0wZEt6VHl0RjRDaXp6Nk8zaEt4?oc=5\" target=\"_blank\">Pay Transparency Legislation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtwco.com</font>"
+        },
+        {
+          "title": "In 2026, many employers are ditching merit-based pay bumps in favor of ‘peanut butter raises’ - Fortune",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2kzczEyM0FxbmV4bXY1WVV5cXNlM2kxSXl5YjdRRHh5UGdYMDc4MnVnTVpSc1UxOWtmR3lnNkV0c01pZmwtSHhKblQyT0tVOHBBY05fcXZZQm5vMm9TdktYeHAzamNzQjRUV1NsWEVDTVFRN3lqcnE1YmxQdS05WDFPS2pfZzZhSkM4aDcyTkUxMndvX1NNcU5IR2lQdlVNWGdFbQ?oc=5",
+          "pubDate": "Mon, 02 Feb 2026 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPR2kzczEyM0FxbmV4bXY1WVV5cXNlM2kxSXl5YjdRRHh5UGdYMDc4MnVnTVpSc1UxOWtmR3lnNkV0c01pZmwtSHhKblQyT0tVOHBBY05fcXZZQm5vMm9TdktYeHAzamNzQjRUV1NsWEVDTVFRN3lqcnE1YmxQdS05WDFPS2pfZzZhSkM4aDcyTkUxMndvX1NNcU5IR2lQdlVNWGdFbQ?oc=5\" target=\"_blank\">In 2026, many employers are ditching merit-based pay bumps in favor of ‘peanut butter raises’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fortune</font>"
+        },
+        {
+          "title": "By the Numbers: How Companies Pay Execs They Promote to CEO - The Harvard Law School Forum on Corporate Governance",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHpBbVVNOUMwRWdQVjFnRFU0RnJCNXpIanR2TDRqRU01Rm1MNUlxQjNxN01zTWpJX19rdjhhZXR6aDl4b1dnWkFCQVdqZkVGOWhDeTdWeWJ5T0VrdkN2d1pQXzhjYm5HSEw5MVctbm1nX1BKMW93MC05Vi1pOW1RdHpjd2gyeENhSkJFSHhwR3RlNGNIei1oc0JLVjhyTjV3V0RiNg?oc=5",
+          "pubDate": "Mon, 02 Dec 2024 08:00:00 GMT",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHpBbVVNOUMwRWdQVjFnRFU0RnJCNXpIanR2TDRqRU01Rm1MNUlxQjNxN01zTWpJX19rdjhhZXR6aDl4b1dnWkFCQVdqZkVGOWhDeTdWeWJ5T0VrdkN2d1pQXzhjYm5HSEw5MVctbm1nX1BKMW93MC05Vi1pOW1RdHpjd2gyeENhSkJFSHhwR3RlNGNIei1oc0JLVjhyTjV3V0RiNg?oc=5\" target=\"_blank\">By the Numbers: How Companies Pay Execs They Promote to CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Harvard Law School Forum on Corporate Governance</font>"
+        }
+      ],
+      "items_count": 10
+    }
+  ],
+  "success_count": 18,
+  "failure_count": 2
+}

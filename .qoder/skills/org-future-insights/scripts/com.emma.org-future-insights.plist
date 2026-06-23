@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.emma.org-future-insights</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>__SCRIPT_PATH__</string>
+        <string>--priority</string>
+        <string>2</string>
+    </array>
+
+    <!-- 凌晨 6:00 触发 -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>6</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- 开机 / 加载时立即跑一次（防止 Mac 关机错过当天）-->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- 注意：一次性抓取脚本不需要 KeepAlive；保留 KeepAlive 会导致脚本退出后立刻被重启，形成循环 -->
+
+    <!-- 工作目录 -->
+    <key>WorkingDirectory</key>
+    <string>__WORKING_DIR__</string>
+
+    <!-- 标准输出 / 错误日志 -->
+    <key>StandardOutPath</key>
+    <string>__LOG_DIR__/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>__LOG_DIR__/launchd.err.log</string>
+
+    <!-- 限制资源使用 -->
+    <key>Nice</key>
+    <integer>10</integer>
+
+    <!-- 保护：不要重复启动 -->
+    <key>ThrottleInterval</key>
+    <integer>3600</integer>
+</dict>
+</plist>

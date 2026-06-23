@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+
+# Vercel
+.vercel/
+.vercel-tmp/
+
+# Logs
+daily-raw/_logs/*.log
+daily-raw/_logs/*.plist
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/

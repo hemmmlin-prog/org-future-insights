@@ -1,0 +1,303 @@
+{
+  "snapshot_time": "2026-06-14T16:10:11.209903+08:00",
+  "fetcher_version": "0.1",
+  "sources_count": 6,
+  "sources": [
+    {
+      "category": "consulting",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: HTTP Error 403: Forbidden"
+    },
+    {
+      "category": "tech",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "New OpenAI Academy courses for the next era of work",
+          "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+          "pubDate": "Fri, 12 Jun 2026 10:00:00 GMT",
+          "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+        },
+        {
+          "title": "How Preply combines AI and human tutors to personalize learning",
+          "link": "https://openai.com/index/preply",
+          "pubDate": "Fri, 12 Jun 2026 00:00:00 GMT",
+          "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+        },
+        {
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+        },
+        {
+          "title": "BBVA puts AI at the core of banking with OpenAI",
+          "link": "https://openai.com/index/bbva",
+          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+        },
+        {
+          "title": "OpenAI to acquire Ona",
+          "link": "https://openai.com/index/openai-to-acquire-ona",
+          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+        },
+        {
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+        },
+        {
+          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+          "link": "https://openai.com/index/openai-on-oracle-cloud",
+          "pubDate": "Wed, 10 Jun 2026 20:00:00 GMT",
+          "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance."
+        },
+        {
+          "title": "PRC-linked influence operations are targeting AI debates in the US",
+          "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+          "pubDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+          "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
+        },
+        {
+          "title": "From data to decisions: how LSEG is scaling trusted AI",
+          "link": "https://openai.com/index/lseg",
+          "pubDate": "Wed, 10 Jun 2026 00:00:00 GMT",
+          "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
+        },
+        {
+          "title": "How engineers at Nextdoor use Codex to build without limits",
+          "link": "https://openai.com/index/nextdoor",
+          "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
+          "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "arXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "no items"
+    },
+    {
+      "category": "academia",
+      "name": "NBER WP",
+      "url": "https://www.nber.org/rss/new.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Tatonnement and Price Setting in General Equilibrium -- by Iván Werning ⓡ Guido Lorenzoni",
+          "link": "https://www.nber.org/papers/w35205#fromrss",
+          "pubDate": "",
+          "summary": "A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution."
+        },
+        {
+          "title": "Water Works: Causes and Consequences of Safe Drinking Water in America -- by David A. Keiser, Bhashkar Mazumder, David Molitor, Joseph S. Shapiro",
+          "link": "https://www.nber.org/papers/w35288#fromrss",
+          "pubDate": "",
+          "summary": "Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three "
+        },
+        {
+          "title": "What Investment Data Implies about the AI Transition -- by Jessica Wachter, Jonathan Wachter",
+          "link": "https://www.nber.org/papers/w35290#fromrss",
+          "pubDate": "",
+          "summary": "The five largest U.S. technology firms spent $380 billion on capital expenditure in 2025 and are forecast to spend roughly double that in 2026. These firms risk bankruptcy unless expected profits grow commensurately. We embed this observation in a two-sector open-economy model with rare productivity booms. We calibrate the boom size to match the observed increase in investment projected through 2027, implying that a boom raises AI-sector productivity by a factor of roughly 2.7. We then calibrate"
+        },
+        {
+          "title": "Incentives, Evidence, and Reminders for Bureaucrats: Overcoming Barriers to Policy Scale Up -- by Patrick Agte, Daniel R. Morales, Christopher Neilson, Sebastián Otero, Gautam Rao",
+          "link": "https://www.nber.org/papers/w35291#fromrss",
+          "pubDate": "",
+          "summary": "Scaling up effective policies often requires the attention of frontline bureaucrats with many competing responsibilities. Even when policymakers adopt effective programs, implementation may not follow. In a nationwide experiment in the Dominican Republic, we test interventions to increase school principals' implementation of an educational program proven effective in a previous RCT. Only 37% of control schools verifiably implemented the intervention when ordered to by the Ministry of Education, "
+        },
+        {
+          "title": "Reducing Gun Violence at Scale -- by Max Kapustin, Aaron Chalfin, Jeremy Biddle, Brian A. Wade, Natasha Khade, Cristina Layana, Ben Struhl, Anthony A. Braga",
+          "link": "https://www.nber.org/papers/w35292#fromrss",
+          "pubDate": "",
+          "summary": "Baltimore's homicide rate fell by roughly 60% between 2022 and 2025, an exceptional decline among large U.S. cities. At the start of this period, Baltimore launched a strategy that concentrated police and social service resources on a small set of people thought to be driving group-involved gun violence. The approach—“focused deterrence”—has been implemented in some form by cities across the U.S. The strategy was introduced first in the Western police district, one of the highest-violence commun"
+        },
+        {
+          "title": "The Effect of Height on Adolescents' Body Image Perceptions and Behaviors -- by Monica Deza, Neiva J. Fortes, Maria Zhu",
+          "link": "https://www.nber.org/papers/w35293#fromrss",
+          "pubDate": "",
+          "summary": "This paper estimates the causal effect of height on adolescents’ body image, encompassing self-perceptions of weight, the accuracy of those perceptions, and weight-management aspirations. Using data from the National Longitudinal Survey of Youth 1997 (NLSY97), we leverage within-individual variation in height during adolescence and condition on body mass index (BMI) to isolate the effects of height on body image outcomes. We find that taller adolescents are more likely to perceive themselves as "
+        },
+        {
+          "title": "Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach -- by Alex Bell, Sophie Calder-Wang, Shusheng Zhong",
+          "link": "https://www.nber.org/papers/w35294#fromrss",
+          "pubDate": "",
+          "summary": "This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "
+        },
+        {
+          "title": "Predicting Labor Force Types -- by Rui Castro, Jiyoung Kim, Fabian Lange, Jérôme Larivière, Markus Poschke",
+          "link": "https://www.nber.org/papers/w35295#fromrss",
+          "pubDate": "",
+          "summary": "A small group of people accounts for a large majority of flows between labor market states and of spells in un- and non-employment. In this paper, we ask whether it is possible to identify those weakly attached to the labor market during their prime working-age years using information available early in their lives. First, we use information on labor force transitions between ages 30 and 50 contained in the long panel provided by the NLSY79 to identify those weakly connected to the labor market "
+        },
+        {
+          "title": "GLP-1 Therapy and the Reshaping of Socioeconomic Gradients in Health -- by J. Felipe Montano-Campos, Bryan Tysinger, Dana Goldman, Darius N. Lakdawalla",
+          "link": "https://www.nber.org/papers/w35296#fromrss",
+          "pubDate": "",
+          "summary": "GLP-1 therapies for obesity promise substantial health improvements, but little is known about how their benefits vary across socioeconomic and demographic groups. Using a nationally representative microsimulation model of US adults and Shapely-value decomposition, we estimate the lifetime health and economic benefits of GLP-1 treatment and examine how those gains vary across individuals. The largest differences emerge across education. Individuals with less than a high school education experien"
+        },
+        {
+          "title": "Macroeconomic and Fiscal Consequences of Quantitative Easing -- by Tobias Adrian, Christopher Erceg, Marcin Kolasa, Jesper Lindé, Pawel Zabczyk",
+          "link": "https://www.nber.org/papers/w35297#fromrss",
+          "pubDate": "",
+          "summary": "Quantitative easing (QE) has been criticized for helping fuel the post-COVID inflation boom and causing large central bank losses. In this paper, we argue that QE should be evaluated mainly on its ability to achieve core macro-objectives as well for its effects on the consolidated fiscal position of the government and central bank, although central bank losses can matter to the extent that they may weaken central bank credibility. Using a DSGE model with segmented asset markets, we show how QE c"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Sequoia",
+      "url": "https://www.sequoiacap.com/feed/",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Listen to the Market",
+          "link": "https://sequoiacap.com/article/listen-to-the-market/",
+          "pubDate": "Mon, 01 Jun 2026 20:32:11 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/listen-to-the-market/\">Listen to the Market</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "All Systems Nominal – Nominal Spotlight",
+          "link": "https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/",
+          "pubDate": "Thu, 21 May 2026 15:35:44 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/\">All Systems Nominal &#8211; Nominal Spotlight</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "AI Ascent 2026",
+          "link": "https://sequoiacap.com/article/ai-ascent-2026/",
+          "pubDate": "Fri, 08 May 2026 16:47:31 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/ai-ascent-2026/\">AI Ascent 2026</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Standard Intelligence: Training General Intelligence in Pixel Space",
+          "link": "https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/",
+          "pubDate": "Thu, 30 Apr 2026 14:00:29 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/\">Standard Intelligence: Training General Intelligence in Pixel Space</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience",
+          "link": "https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/",
+          "pubDate": "Mon, 27 Apr 2026 14:15:11 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/\">Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Auctor",
+          "link": "https://sequoiacap.com/article/partnering-with-auctor/",
+          "pubDate": "Wed, 15 Apr 2026 16:00:05 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-auctor/\">Partnering with Auctor</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "From Hierarchy to Intelligence",
+          "link": "https://sequoiacap.com/article/from-hierarchy-to-intelligence/",
+          "pubDate": "Tue, 31 Mar 2026 15:11:54 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/from-hierarchy-to-intelligence/\">From Hierarchy to Intelligence</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Edra: Context for Agents at Scale",
+          "link": "https://sequoiacap.com/article/partnering-with-edra-context-for-agents-at-scale/",
+          "pubDate": "Wed, 18 Mar 2026 14:00:05 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-edra-context-for-agents-at-scale/\">Partnering with Edra: Context for Agents at Scale</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Scanner: Every Log Tells a Story—If You Can Find It Fast Enough",
+          "link": "https://sequoiacap.com/article/partnering-with-scanner-every-log-tells-a-story-if-you-can-find-it-fast-enough/",
+          "pubDate": "Tue, 10 Mar 2026 17:00:04 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-scanner-every-log-tells-a-story-if-you-can-find-it-fast-enough/\">Partnering with Scanner: Every Log Tells a Story—If You Can Find It Fast Enough</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Services: The New Software",
+          "link": "https://sequoiacap.com/article/services-the-new-software/",
+          "pubDate": "Fri, 06 Mar 2026 00:57:45 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/services-the-new-software/\">Services: The New Software</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "hr_media",
+      "name": "HBR",
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Take a Break",
+          "link": "https://hbr.org/2026/06/take-a-break",
+          "pubDate": "2026-06-12T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "How Gen AI is Disrupting B2B Buying Decisions",
+          "link": "https://hbr.org/2026/06/how-gen-ai-is-disrupting-b2b-buying-decisions",
+          "pubDate": "2026-06-12T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "To Thrive Alongside AI, Focus on Mindset—Not Skillset",
+          "link": "https://hbr.org/2026/06/to-thrive-alongside-ai-focus-on-mindset-not-skillset",
+          "pubDate": "2026-06-12T12:05:06Z",
+          "summary": ""
+        },
+        {
+          "title": "How to Actually Finish What You Need to Get Done",
+          "link": "https://hbr.org/podcast/2026/06/how-to-actually-finish-what-you-need-to-get-done",
+          "pubDate": "2026-06-11T15:23:00Z",
+          "summary": ""
+        },
+        {
+          "title": "For Hope to Inspire, It Has to Be Grounded in Organizational Reality",
+          "link": "https://hbr.org/2026/06/for-hope-to-inspire-it-has-to-be-grounded-in-organizational-reality",
+          "pubDate": "2026-06-11T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "How Do You Market to an AI Customer?",
+          "link": "https://hbr.org/2026/06/how-do-you-market-to-an-ai-customer",
+          "pubDate": "2026-06-11T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Where Does China Fit in Your Company’s Innovation Strategy?",
+          "link": "https://hbr.org/2026/06/where-does-china-fit-in-your-companys-innovation-strategy",
+          "pubDate": "2026-06-10T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Why Employees Aren’t Transparent About Their AI Usage",
+          "link": "https://hbr.org/2026/06/why-employees-arent-transparent-about-their-ai-usage",
+          "pubDate": "2026-06-10T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "What Brands Get Wrong About Sports Sponsorships—and How to Get Them Right",
+          "link": "https://hbr.org/2026/06/what-brands-get-wrong-about-sports-sponsorships-and-how-to-get-them-right",
+          "pubDate": "2026-06-10T12:05:42Z",
+          "summary": ""
+        },
+        {
+          "title": "New Data on How We’re Really Using AI",
+          "link": "https://hbr.org/2026/06/new-data-on-how-were-really-using-ai",
+          "pubDate": "2026-06-09T14:00:00Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    }
+  ],
+  "success_count": 4,
+  "failure_count": 2
+}

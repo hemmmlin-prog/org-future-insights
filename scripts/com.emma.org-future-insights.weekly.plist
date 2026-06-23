@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.emma.org-future-insights.weekly</string>
+
+    <!-- 每周五 18:00 自动生成周度行动计划 Excel -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>-m</string>
+        <string>bailian.generate_weekly_action</string>
+    </array>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>OFI_PROJECT_ROOT</key>
+        <string>/Users/emmah/org-future-insights</string>
+        <key>PYTHONPATH</key>
+        <string>/Users/emmah/Desktop/AI学习/Qoder文档/Emmafolder/组织演变</string>
+    </dict>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <!-- Weekday: 5 = Friday -->
+        <key>Weekday</key>
+        <integer>5</integer>
+        <key>Hour</key>
+        <integer>18</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <false/>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/emmah/Desktop/AI学习/Qoder文档/Emmafolder/组织演变</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/emmah/org-future-insights/daily-raw/_logs/launchd.weekly.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/emmah/org-future-insights/daily-raw/_logs/launchd.weekly.err.log</string>
+
+    <key>Nice</key>
+    <integer>10</integer>
+
+    <key>ThrottleInterval</key>
+    <integer>3600</integer>
+</dict>
+</plist>

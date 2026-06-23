@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>未来组织 · HR 洞察日报</title>
+  <meta name="description" content="给 HR 同事的全球趋势速读 · 5 类多源基线 · 每日深度报告">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* 中文字体优化 */
+    :root { --base-font-size: 16px; }
+    .markdown-section { max-width: 960px; }
+    .markdown-section h1, .markdown-section h2 { color: #2c3e50; }
+    .sidebar-nav li.active > a { color: #42b983; font-weight: bold; }
+    /* 折叠分组标题样式 */
+    .sidebar-nav > ul > li > p { font-weight: bold; color: #364149; margin-top: 1em; }
+    /* mermaid 居中 */
+    .mermaid { text-align: center; margin: 1em 0; }
+    /* 表格更清晰 */
+    .markdown-section table { display: table; width: 100%; }
+    .markdown-section th { background: #f0f5ff; }
+
+    /* === 可视化页面增强样式 (v0.4.0) === */
+
+    /* 信号卡片 */
+    .signal-card {
+      border-left: 4px solid #1890ff;
+      background: #fafbfc;
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin: 12px 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      transition: box-shadow 0.2s;
+    }
+    .signal-card:hover {
+      box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+    }
+
+    /* KPI 面板 */
+    .kpi-panel {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin: 20px 0;
+    }
+    .kpi-panel > div {
+      flex: 1;
+      min-width: 120px;
+      border-radius: 12px;
+      padding: 20px;
+      color: white;
+      text-align: center;
+    }
+
+    /* 共识度进度条 */
+    .consensus-bar {
+      margin: 8px 0;
+    }
+    .consensus-bar .bar-track {
+      flex: 1;
+      background: #f0f0f0;
+      border-radius: 4px;
+      height: 20px;
+      overflow: hidden;
+    }
+    .consensus-bar .bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.3s ease;
+    }
+
+    /* HR 行动卡片网格 */
+    .action-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 12px;
+      margin: 16px 0;
+    }
+    .action-grid > div {
+      background: white;
+      border-radius: 8px;
+      padding: 12px 16px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      transition: transform 0.15s;
+    }
+    .action-grid > div:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+    }
+
+    /* 响应式适配 */
+    @media (max-width: 600px) {
+      .kpi-panel { flex-direction: column; }
+      .action-grid { grid-template-columns: 1fr; }
+      .markdown-section { padding: 0 8px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">⏳ 站点加载中...</div>
+
+  <script>
+    window.$docsify = {
+      name: '未来组织 · HR 洞察日报',
+      repo: '',
+      loadSidebar: true,
+      loadNavbar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      homepage: 'README.md',
+      coverpage: false,
+      maxLevel: 4,
+      search: {
+        paths: 'auto',
+        placeholder: '🔍 搜索（支持中英文）',
+        noData: '没有匹配结果',
+        depth: 6
+      },
+      copyCode: {
+        buttonText: '复制',
+        errorText: '失败',
+        successText: '已复制'
+      },
+      pagination: {
+        previousText: '上一篇',
+        nextText: '下一篇',
+        crossChapter: true,
+        crossChapterText: true
+      },
+      // 自动渲染 mermaid
+      markdown: {
+        renderer: {
+          code: function(code, lang) {
+            if (lang === 'mermaid') {
+              return '<div class="mermaid">' + code + '</div>';
+            }
+            return this.origin.code.apply(this, arguments);
+          }
+        }
+      },
+      plugins: [
+        function(hook) {
+          // 每次加载页面后重新渲染 mermaid
+          hook.doneEach(function() {
+            if (window.mermaid) {
+              window.mermaid.init(undefined, document.querySelectorAll('.mermaid'));
+            }
+          });
+          // 在页面底部加"最后更新"标记
+          hook.beforeEach(function(content) {
+            return content;
+          });
+        }
+      ]
+    };
+  </script>
+
+  <!-- Docsify 核心 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- 搜索 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <!-- 复制代码块 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+  <!-- 分页（上/下篇） -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+  <!-- 代码高亮（bash / python / json） -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+  <!-- mermaid 时间轴 / 流程图渲染 -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: 'default',
+      flowchart: { useMaxWidth: true, htmlLabels: true },
+      timeline: { useMaxWidth: true }
+    });
+  </script>
+</body>
+</html>
