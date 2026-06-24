@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.emma.org-future-insights.notify</string>
+
+    <!-- 每 5 分钟轮询：脚本内部做时间门控(06:30-10:00) + 去重(每日仅首次) -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/emmah/org-future-insights/scripts/open-daily-report.sh</string>
+    </array>
+
+    <key>StartInterval</key>
+    <integer>300</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/emmah/org-future-insights/daily-raw/_logs/notify.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/emmah/org-future-insights/daily-raw/_logs/notify.err.log</string>
+
+    <key>Nice</key>
+    <integer>15</integer>
+</dict>
+</plist>

@@ -1,10 +1,10 @@
 {
   "date": "2026-06-23",
-  "timestamp": "2026-06-23T10:03:44",
+  "timestamp": "2026-06-24T10:16:07",
   "auto_file": "daily-reports/2026-06-23-auto.md",
-  "pass_count": 6,
+  "pass_count": 5,
   "total_checks": 6,
-  "all_passed": true,
+  "all_passed": false,
   "results": [
     {
       "check": "5 类多源覆盖 ≥ 3",
@@ -18,8 +18,8 @@
     },
     {
       "check": "HR 三大支柱 ≥ 2",
-      "passed": true,
-      "detail": "命中 3/3 支柱 (招聘, 发展, 回报)"
+      "passed": false,
+      "detail": "命中 1/3 支柱 (发展)"
     },
     {
       "check": "金句来源可溯",
@@ -29,12 +29,12 @@
     {
       "check": "总字数范围",
       "passed": true,
-      "detail": "内容 3749 字符（目标 2500-3500 字）"
+      "detail": "内容 3872 字符（目标 2500-3500 字）"
     },
     {
       "check": "信号类目多样",
       "passed": true,
-      "detail": "信号来自 3 类信源 (McKinsey, academia, china)"
+      "detail": "信号来自 2 类信源 (McKinsey, academia)"
     }
   ]
 }
