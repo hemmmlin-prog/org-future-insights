@@ -9,37 +9,44 @@
 
 | 板块 | 你在这里能得到什么 | 入口 |
 |---|---|---|
-| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-06-23-visual.md) |
+| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-07-05-visual.md) |
 | 🏢 **公司 & 关键人** | OpenAI / GitHub / Samsung / YC 等顶尖公司 + CEO/VC 言论追踪 | [👉 进入](companies/README.md) |
 | 🎓 **报告 & 研究** ⭐ | McKinsey / NBER / Sequoia 等权威报告及研究论文（**HR 同事最常用**） | [👉 进入](research/README.md) |
 | 📊 **转型案例** | AI 转型成功 ✅ vs 失败 ❌ 案例库 + 中国硬科技创业融资 | [👉 进入](cases/README.md) |
 | 📚 **延伸阅读** | HBR / Sequoia / OpenAI 深度长文 + 编辑导读 | [👉 进入](readings/README.md) |
 | 🧭 **HR 词典** | 12+ HR/组织新概念中英对照（agentic / orchestrator / mindset...） | [👉 进入](dictionary/glossary.md) |
-| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-06-23.md) |
-| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-06-23.md) |
+| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-07-05.md) |
+| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-07-05.md) |
 
 ---
 
-### 🔥 今日精华（2026-06-23）
+### 🔥 今日精华（2026-07-05）
 
-> 抓取窗口：2026-06-23 09:48 · 信源覆盖：8 源成功 / 80 条 items / 命中 tech + academia + vc + china + consulting + hr_media
-> 完整阅读：[👉 可视化版](daily-reports/2026-06-23-visual.md) · [👉 纯文字版](daily-reports/2026-06-23-auto.md)
+> 抓取窗口：2026-07-05 06:12 · 信源覆盖：7 源成功 / 70 条 items / 命中 tech + academia + vc + china + consulting + github + hbs
+> 完整阅读：[👉 可视化版](daily-reports/2026-07-05-visual.md) · [👉 纯文字版](daily-reports/2026-07-05-auto.md)
 
 ### 三条核心信号
 
-1. **🚨 AI 从表面热情转向实际运营**——McKinsey：营销人员在用 AI，但焦虑、犹豫和运营模式缺陷才是真相。OpenAI 推出 Daybreak 安全工具，GitHub 内部上线 Qubot 数据分析智能体。 [详情](daily-reports/2026-06-23-visual.md)
-2. **💊 AI 医疗取得实质进展**——OpenAI 推理模型诊断罕见遗传病，成功识别 18 个新病例；GPT-5.5 Instant 改善健康问答逻辑与清晰度。 [详情](daily-reports/2026-06-23-visual.md)
-3. **🌍 碎片化世界中的灵活增长**——McKinsey：CEO 必须在地缘变局中精准下注；Sequoia AI Ascent 2026 强调 AI 是未来核心竞争力。 [详情](daily-reports/2026-06-23-visual.md)
+1. **🤖 AI 代理从辅助工具跃迁为编排者角色**——OpenAI 发布《How agents are transforming work》，AI 代理使单次任务时长延长 47% 但完成率提升 63%；McKinsey 强调下一阶段生产力靠人类作为 AI 的"编排者"。 [详情](daily-reports/2026-07-05-visual.md)
+2. **�� 地下 AI 使用侵蚀薪酬总成本**——未经审批的 AI 工具使用（Underground AI Use）正规模化影响 TCC 结构，HR 需建立"AI 使用审计权"。 [详情](daily-reports/2026-07-05-visual.md)
+3. **⚖️ 强经济裁员 + 看护时间挤压双重压力**——弹性工作制从"员工福利"升级为"合规底线"，倒逼 HR 制度性响应。 [详情](daily-reports/2026-07-05-visual.md)
 
 ### 高价值素材亮点
-- 三星全球员工全量开放 ChatGPT + Codex（36Kr）· McKinsey 中欧 AI 机遇报告 · 赢创全球裁员 3200 人 · YC 新增 3 位 GP · [完整 8 板块](daily-reports/2026-06-23-visual.md)
+- OpenAI "How agents are transforming work" · GitHub Copilot 代理框架性能评估 · 理想汽车组织变革 · McKinsey 医疗未来报告 · [完整 8 板块](daily-reports/2026-07-05-visual.md)
 
 ---
 
-### 💼 本周 HR 行动速查（截至 6-23）
+### 💼 本周 HR 行动速查（截至 7-05）
 
 | 优先级 | 行动 | 时间窗 | 依据 |
 |---|---|---|---|
+| 🔴 **高** | 启动 AI 工具普查，所有部门 7/12 前提交 AI 工具使用清单（含 URL/用途/使用者） | 本周 | 信号 2 |
+| 🔴 **高** | 开启飞书/钉钉后台 AI 调用日志，导出 TOP10 高频场景用于 TCC 影响建模 | 本周 | 信号 2 |
+| 🟠 中 | 选取 3 个高看护需求部门，7/25 前完成弹性工作试点方案 | 本月 | 信号 3 |
+| 🟠 中 | 更新高绩效岗位能力词典，新增 "Orchestrator Competency" 三级指标 | 本月 | 信号 1 |
+| 🟢 长期 | 基于 OpenAI + McKinsey 编排者框架，设计人机协作 KPI 体系 | 本季 | 信号 1+2 |
+
+---|---|---|---|
 | 🔴 **高** | 组织 AI 工具实操培训，聚焦**实际运营效果**而非表面热情；参考三星全员部署 ChatGPT 案例设计落地方案 | 本周 | 信号 1 + 三星 |
 | 🟠 中 | 基于 McKinsey 中欧 AI 报告，评估团队 AI 能力缺口；围绕 5 大 AI 能力支柱（洞察/创意/个性化/智能体商务/编排）做技能盘点 | 本月 | 研究 #1-3 |
 | 🟠 中 | 跟踪赢创裁员 3200 人信号，评估供应链上下游人才可获得性变化 | 本月 | 案例 #7 |
@@ -83,7 +90,7 @@
 
 - **更新频率**：每天凌晨 06:00 自动抓取最新素材，上午由 HR / Agent 触发深度分析
 - **数据来源**：100% 公开权威源，本地运行不上传任何云端
-- **版本**：v0.5.0（2026-06-23）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
+- **版本**：v0.5.0（2026-07-05）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
 
 ---
 
