@@ -8,9 +8,8 @@
     <!-- 06:30 跑：抓取已在 06:00 由原 plist 完成 -->
     <key>ProgramArguments</key>
     <array>
-        <string>/usr/bin/python3</string>
-        <string>-m</string>
-        <string>bailian.pipeline</string>
+        <string>/bin/bash</string>
+        <string>/Users/emmah/org-future-insights/scripts/daily-auto.sh</string>
     </array>
 
     <key>EnvironmentVariables</key>
@@ -18,7 +17,7 @@
         <key>OFI_PROJECT_ROOT</key>
         <string>/Users/emmah/org-future-insights</string>
         <key>PYTHONPATH</key>
-        <string>/Users/emmah/Desktop/AI学习/Qoder文档/Emmafolder/组织演变</string>
+        <string>/Users/emmah/org-future-insights</string>
     </dict>
 
     <key>StartCalendarInterval</key>
@@ -34,7 +33,7 @@
 
     <!-- 必须 cd 到工作区，bailian 包才能被 import -->
     <key>WorkingDirectory</key>
-    <string>/Users/emmah/Desktop/AI学习/Qoder文档/Emmafolder/组织演变</string>
+    <string>/Users/emmah/org-future-insights</string>
 
     <key>StandardOutPath</key>
     <string>/Users/emmah/org-future-insights/daily-raw/_logs/launchd.bailian.out.log</string>

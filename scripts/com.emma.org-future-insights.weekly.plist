@@ -18,7 +18,7 @@
         <key>OFI_PROJECT_ROOT</key>
         <string>/Users/emmah/org-future-insights</string>
         <key>PYTHONPATH</key>
-        <string>/Users/emmah/Desktop/AI学习/Qoder文档/Emmafolder/组织演变</string>
+        <string>/Users/emmah/org-future-insights</string>
     </dict>
 
     <key>StartCalendarInterval</key>
@@ -36,7 +36,7 @@
     <false/>
 
     <key>WorkingDirectory</key>
-    <string>/Users/emmah/Desktop/AI学习/Qoder文档/Emmafolder/组织演变</string>
+    <string>/Users/emmah/org-future-insights</string>
 
     <key>StandardOutPath</key>
     <string>/Users/emmah/org-future-insights/daily-raw/_logs/launchd.weekly.out.log</string>

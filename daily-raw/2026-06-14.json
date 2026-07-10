@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-06-14T16:10:11.209903+08:00",
+  "snapshot_time": "2026-06-14T19:27:06.101409+08:00",
   "fetcher_version": "0.1",
-  "sources_count": 6,
+  "sources_count": 19,
   "sources": [
     {
       "category": "consulting",
@@ -82,6 +82,75 @@
       "items_count": 10
     },
     {
+      "category": "tech",
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "priority": 2,
+      "items": [
+        {
+          "title": "How we made GitHub Copilot CLI more selective about delegation",
+          "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+          "pubDate": "Fri, 12 Jun 2026 22:26:23 +0000",
+          "summary": "<p>Better orchestration, fewer handoffs, faster progress, without a single new knob.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/\">How we made GitHub Copilot CLI more selective about delegation</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub availability report: May 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+          "pubDate": "Thu, 11 Jun 2026 21:30:15 +0000",
+          "summary": "<p>In May, we experienced nine incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-may-2026/\">GitHub availability report: May 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+          "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+          "pubDate": "Thu, 11 Jun 2026 16:00:00 +0000",
+          "summary": "<p>Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning.</p>\n<p>The post <a href=\"https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/\">Making secret scanning more trustworthy: Reducing false positives at scale</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Give GitHub Copilot CLI real code intelligence with language servers",
+          "link": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+          "pubDate": "Wed, 10 Jun 2026 16:00:00 +0000",
+          "summary": "<p>Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/\">Give GitHub Copilot CLI real code intelligence with language servers</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+          "pubDate": "Tue, 09 Jun 2026 16:00:00 +0000",
+          "summary": "<p>Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/\">From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub for Beginners: Answers to some common questions",
+          "link": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
+          "pubDate": "Mon, 08 Jun 2026 16:00:00 +0000",
+          "summary": "<p>Find the answers to some of the most common GitHub-related questions.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/\">GitHub for Beginners: Answers to some common questions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub Universe is back: All together now, in the agentic era",
+          "link": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+          "pubDate": "Thu, 04 Jun 2026 16:00:00 +0000",
+          "summary": "<p>GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/\">GitHub Universe is back: All together now, in the agentic era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub Copilot app: The agent-native desktop experience",
+          "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+          "pubDate": "Tue, 02 Jun 2026 17:30:03 +0000",
+          "summary": "<p>At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work.</p>\n<p>The post <a href=\"https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/\">GitHub Copilot app: The agent-native desktop experience</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+          "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+          "pubDate": "Thu, 28 May 2026 18:18:43 +0000",
+          "summary": "<p>The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/\">Still a developer. Just outside. Our latest GitHub Shop collection is here.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+          "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+          "pubDate": "Mon, 25 May 2026 16:00:00 +0000",
+          "summary": "<p>Discover how to use VS Code to interact with GitHub and maintain your projects.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/\">GitHub for Beginners: Getting started with Git and GitHub in VS Code</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
       "category": "academia",
       "name": "arXiv cs.AI",
       "url": "https://export.arxiv.org/rss/cs.AI",
@@ -95,66 +164,144 @@
       "name": "NBER WP",
       "url": "https://www.nber.org/rss/new.xml",
       "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error _ssl.c:1112: The handshake operation timed out>"
+    },
+    {
+      "category": "academia",
+      "name": "HBS Working Knowledge",
+      "url": "https://hbswk.hbs.edu/rss/all.xml",
+      "priority": 2,
       "items": [
         {
-          "title": "Tatonnement and Price Setting in General Equilibrium -- by Iván Werning ⓡ Guido Lorenzoni",
-          "link": "https://www.nber.org/papers/w35205#fromrss",
-          "pubDate": "",
-          "summary": "A foundational question in General Equilibrium theory—when is an equilibrium stable?—has remained largely unresolved for over 150 years despite important contributions. This paper proposes a resolution."
+          "title": "Inside One Startup's Journey to Break Down Hiring (and Funding) Barriers",
+          "link": "https://hbswk.hbs.edu/item/inside-one-startups-journey-to-break-down-hiring-and-funding-barriers?cid=wk-rss",
+          "pubDate": "2024-11-12T09:59:10Z",
+          "summary": ""
         },
         {
-          "title": "Water Works: Causes and Consequences of Safe Drinking Water in America -- by David A. Keiser, Bhashkar Mazumder, David Molitor, Joseph S. Shapiro",
-          "link": "https://www.nber.org/papers/w35288#fromrss",
-          "pubDate": "",
-          "summary": "Since the 1974 Safe Drinking Water Act, the U.S. has spent $2 trillion to provide safe drinking water, yet drinking water for 10–20 percent of Americans violates standards. We study trends, causes, and consequences of U.S. drinking water pollution, using 266 million readings on 1,250 pollutants over decades that we obtained from 48 states via dozens of Freedom of Information Act and associated requests. We link pollution to administrative Medicare data on older Americans' health outcomes. Three "
+          "title": "What Wartime Service Taught These Historic Leaders",
+          "link": "https://hbswk.hbs.edu/item/what-wartime-service-taught-these-historic-leaders?cid=wk-rss",
+          "pubDate": "2024-11-08T11:39:18Z",
+          "summary": ""
         },
         {
-          "title": "What Investment Data Implies about the AI Transition -- by Jessica Wachter, Jonathan Wachter",
-          "link": "https://www.nber.org/papers/w35290#fromrss",
-          "pubDate": "",
-          "summary": "The five largest U.S. technology firms spent $380 billion on capital expenditure in 2025 and are forecast to spend roughly double that in 2026. These firms risk bankruptcy unless expected profits grow commensurately. We embed this observation in a two-sector open-economy model with rare productivity booms. We calibrate the boom size to match the observed increase in investment projected through 2027, implying that a boom raises AI-sector productivity by a factor of roughly 2.7. We then calibrate"
+          "title": "How Private Investors Can Help Solve Africa's Climate Crisis",
+          "link": "https://hbswk.hbs.edu/item/how-private-investors-can-help-solve-africas-climate-crisis?cid=wk-rss",
+          "pubDate": "2024-11-08T10:24:08Z",
+          "summary": ""
         },
         {
-          "title": "Incentives, Evidence, and Reminders for Bureaucrats: Overcoming Barriers to Policy Scale Up -- by Patrick Agte, Daniel R. Morales, Christopher Neilson, Sebastián Otero, Gautam Rao",
-          "link": "https://www.nber.org/papers/w35291#fromrss",
-          "pubDate": "",
-          "summary": "Scaling up effective policies often requires the attention of frontline bureaucrats with many competing responsibilities. Even when policymakers adopt effective programs, implementation may not follow. In a nationwide experiment in the Dominican Republic, we test interventions to increase school principals' implementation of an educational program proven effective in a previous RCT. Only 37% of control schools verifiably implemented the intervention when ordered to by the Ministry of Education, "
+          "title": "Building the Road to 'Small Business Utopia' with AI and Fintech",
+          "link": "https://hbswk.hbs.edu/item/building-the-road-to-small-business-utopia-with-ai-and-fintech?cid=wk-rss",
+          "pubDate": "2024-11-05T11:35:35Z",
+          "summary": ""
         },
         {
-          "title": "Reducing Gun Violence at Scale -- by Max Kapustin, Aaron Chalfin, Jeremy Biddle, Brian A. Wade, Natasha Khade, Cristina Layana, Ben Struhl, Anthony A. Braga",
-          "link": "https://www.nber.org/papers/w35292#fromrss",
-          "pubDate": "",
-          "summary": "Baltimore's homicide rate fell by roughly 60% between 2022 and 2025, an exceptional decline among large U.S. cities. At the start of this period, Baltimore launched a strategy that concentrated police and social service resources on a small set of people thought to be driving group-involved gun violence. The approach—“focused deterrence”—has been implemented in some form by cities across the U.S. The strategy was introduced first in the Western police district, one of the highest-violence commun"
+          "title": "AI Can Help Leaders Communicate, But Can't Make Employees Listen",
+          "link": "https://hbswk.hbs.edu/item/ai-can-help-leaders-communicate-but-cant-make-employees-listen?cid=wk-rss",
+          "pubDate": "2024-11-05T08:46:59Z",
+          "summary": ""
         },
         {
-          "title": "The Effect of Height on Adolescents' Body Image Perceptions and Behaviors -- by Monica Deza, Neiva J. Fortes, Maria Zhu",
-          "link": "https://www.nber.org/papers/w35293#fromrss",
-          "pubDate": "",
-          "summary": "This paper estimates the causal effect of height on adolescents’ body image, encompassing self-perceptions of weight, the accuracy of those perceptions, and weight-management aspirations. Using data from the National Longitudinal Survey of Youth 1997 (NLSY97), we leverage within-individual variation in height during adolescence and condition on body mass index (BMI) to isolate the effects of height on body image outcomes. We find that taller adolescents are more likely to perceive themselves as "
+          "title": "Layoffs Surging in a Strong Economy? Advice for Navigating Uncertain Times",
+          "link": "https://hbswk.hbs.edu/item/layoffs-surging-in-strong-economy-advice-for-navigating-uncertain-times?cid=wk-rss",
+          "pubDate": "2024-11-01T13:41:06Z",
+          "summary": ""
         },
         {
-          "title": "Measuring Housing Quality Using Revealed Preference: A Geographic PageRank Approach -- by Alex Bell, Sophie Calder-Wang, Shusheng Zhong",
-          "link": "https://www.nber.org/papers/w35294#fromrss",
-          "pubDate": "",
-          "summary": "This paper introduces Geographic PageRank (GPR), an innovative measure of place quality that is based on migration decisions, employing a recursive algorithm that leverages the full network of migration flows. Using various public data sources, we construct GPR rankings for U.S. counties and metropolitan areas. We also extend the rankings to capture changes over time and differences for population subgroups, providing a versatile data product. As an application, we show that GPR can serve as an "
+          "title": "Can a Coffee Shop in Utah Help Solve Underemployment for People with Disabilities?",
+          "link": "https://hbswk.hbs.edu/item/cold-call-can-a-coffee-shop-in-utah-help-solve-underemployment-for-people-with-disabilities?cid=wk-rss",
+          "pubDate": "2024-10-29T10:21:47Z",
+          "summary": ""
         },
         {
-          "title": "Predicting Labor Force Types -- by Rui Castro, Jiyoung Kim, Fabian Lange, Jérôme Larivière, Markus Poschke",
-          "link": "https://www.nber.org/papers/w35295#fromrss",
-          "pubDate": "",
-          "summary": "A small group of people accounts for a large majority of flows between labor market states and of spells in un- and non-employment. In this paper, we ask whether it is possible to identify those weakly attached to the labor market during their prime working-age years using information available early in their lives. First, we use information on labor force transitions between ages 30 and 50 contained in the long panel provided by the NLSY79 to identify those weakly connected to the labor market "
+          "title": "Latino Voters Have Grown More Politically Divided. That’s Not Surprising.",
+          "link": "https://hbswk.hbs.edu/item/democrats-are-losing-latino-voters-thats-not-surprising?cid=wk-rss",
+          "pubDate": "2024-10-29T13:42:03Z",
+          "summary": ""
         },
         {
-          "title": "GLP-1 Therapy and the Reshaping of Socioeconomic Gradients in Health -- by J. Felipe Montano-Campos, Bryan Tysinger, Dana Goldman, Darius N. Lakdawalla",
-          "link": "https://www.nber.org/papers/w35296#fromrss",
-          "pubDate": "",
-          "summary": "GLP-1 therapies for obesity promise substantial health improvements, but little is known about how their benefits vary across socioeconomic and demographic groups. Using a nationally representative microsimulation model of US adults and Shapely-value decomposition, we estimate the lifetime health and economic benefits of GLP-1 treatment and examine how those gains vary across individuals. The largest differences emerge across education. Individuals with less than a high school education experien"
+          "title": "Charting the US-China Trade War: What Does 'Made in Vietnam' Mean?",
+          "link": "https://hbswk.hbs.edu/item/charting-the-us-china-trade-war-whats-made-in-vietnam?cid=wk-rss",
+          "pubDate": "2024-10-24T10:00:03Z",
+          "summary": ""
         },
         {
-          "title": "Macroeconomic and Fiscal Consequences of Quantitative Easing -- by Tobias Adrian, Christopher Erceg, Marcin Kolasa, Jesper Lindé, Pawel Zabczyk",
-          "link": "https://www.nber.org/papers/w35297#fromrss",
-          "pubDate": "",
-          "summary": "Quantitative easing (QE) has been criticized for helping fuel the post-COVID inflation boom and causing large central bank losses. In this paper, we argue that QE should be evaluated mainly on its ability to achieve core macro-objectives as well for its effects on the consolidated fiscal position of the government and central bank, although central bank losses can matter to the extent that they may weaken central bank credibility. Using a DSGE model with segmented asset markets, we show how QE c"
+          "title": "With Millions of Workers Juggling Caregiving, Employers Need to Rethink Support",
+          "link": "https://hbswk.hbs.edu/item/with-millions-of-workers-juggling-caregiving-employers-need-to-rethink?cid=wk-rss",
+          "pubDate": "2024-10-29T15:53:04Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "think_tank",
+      "name": "RAND",
+      "url": "https://www.rand.org/blog.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Will We Know if AI Takes Over? Q&A with Benjamin Boudreaux",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/will-we-know-if-ai-takes-over-qa-with-benjamin-boudreaux.html",
+          "pubDate": "2026-06-10T13:45:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Rebuilding Trust in Global Biosecurity",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/rebuilding-trust-in-global-biosecurity.html",
+          "pubDate": "2026-06-10T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "How China Misperceives Itself",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/how-china-misperceives-itself.html",
+          "pubDate": "2026-06-05T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/deterring-russia-beneath-the-waves-securing-natos-critical.html",
+          "pubDate": "2026-06-01T12:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "States Need a Roadmap for Credit for Prior Learning",
+          "link": "https://www.rand.org/pubs/commentary/2026/05/states-need-a-roadmap-for-credit-for-prior-learning.html",
+          "pubDate": "2026-05-26T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Federal Education Support Centers Still Fill Key State Gaps",
+          "link": "https://www.rand.org/pubs/commentary/2026/05/federal-education-support-centers-still-fill-key-state.html",
+          "pubDate": "2026-05-23T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Clearing Mines in the Strait of Hormuz: Q&A with Scott Savitz",
+          "link": "https://www.rand.org/pubs/commentary/2026/05/demining-the-strait-of-hormuz-qa-with-scott-savitz.html",
+          "pubDate": "2026-05-19T20:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Armenia's Specters of Peace and War",
+          "link": "https://www.rand.org/pubs/commentary/2026/04/armenias-specters-of-peace-and-war.html",
+          "pubDate": "2026-04-27T20:30:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Psychedelics, Policy, and Public Opinion: Q&A with Beau Kilmer",
+          "link": "https://www.rand.org/pubs/commentary/2026/04/psychedelics-policy-and-public-opinion-qa-with-beau.html",
+          "pubDate": "2026-04-27T16:15:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Russian Private Military Companies May Become a Security Threat to Their Hosts in Africa",
+          "link": "https://www.rand.org/pubs/commentary/2026/04/russian-private-military-companies-may-become-a-security.html",
+          "pubDate": "2026-04-27T10:00:00Z",
+          "summary": ""
         }
       ],
       "items_count": 10
@@ -229,6 +376,75 @@
       "items_count": 10
     },
     {
+      "category": "vc",
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/blog/rss.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Diana Hu Is YC's Newest Managing Partner",
+          "link": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
+          "pubDate": "Thu, 11 Jun 2026 17:01:59 GMT",
+          "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator.\n\nFew people have built a startup from zero and also shipped tech to 100 million people. Diana has done both."
+        },
+        {
+          "title": "Harshita Arora Joins YC as General Partner",
+          "link": "https://www.ycombinator.com/blog/welcome-harshita/",
+          "pubDate": "Mon, 06 Apr 2026 16:00:00 GMT",
+          "summary": "We're thrilled to announce that Harshita Arora is joining Y Combinator as a General Partner.  She brings deep fintech and infrastructure experience, a founder's instinct for product, and the perspective of someone who's been building companies since she was a teenager."
+        },
+        {
+          "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+          "link": "https://www.ycombinator.com/blog/adding-canada-back/",
+          "pubDate": "Thu, 05 Feb 2026 17:00:00 GMT",
+          "summary": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation."
+        },
+        {
+          "title": "Congratulations to EquipmentShare on Going Public",
+          "link": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare/",
+          "pubDate": "Fri, 23 Jan 2026 15:59:00 GMT",
+          "summary": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone."
+        },
+        {
+          "title": "Announcing the YC AI Stack",
+          "link": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/",
+          "pubDate": "Fri, 16 Jan 2026 20:40:39 GMT",
+          "summary": "We've partnered with nearly two dozen companies to offer students who attend YC events a suite of over $25,000 in free credits for AI devtools."
+        },
+        {
+          "title": "2026 Demo Day Dates",
+          "link": "https://www.ycombinator.com/blog/2026-demo-days/",
+          "pubDate": "Thu, 18 Dec 2025 19:44:54 GMT",
+          "summary": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead."
+        },
+        {
+          "title": "Meesho Goes Public",
+          "link": "https://www.ycombinator.com/blog/meesho-goes-public/",
+          "pubDate": "Wed, 10 Dec 2025 04:32:10 GMT",
+          "summary": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses.\n\nCongrats to Vidit and Sanjeev on a decade of relentless building and listening to users!"
+        },
+        {
+          "title": "Congratulations to Groww",
+          "link": "https://www.ycombinator.com/blog/groww/",
+          "pubDate": "Wed, 12 Nov 2025 03:47:51 GMT",
+          "summary": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud."
+        },
+        {
+          "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+          "link": "https://www.ycombinator.com/blog/billiontoone/",
+          "pubDate": "Thu, 06 Nov 2025 15:52:00 GMT",
+          "summary": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test."
+        },
+        {
+          "title": "Meet YC's Newest Visiting Partners",
+          "link": "https://www.ycombinator.com/blog/ycs-newest-visiting-partners/",
+          "pubDate": "Tue, 14 Oct 2025 17:17:44 GMT",
+          "summary": "We're excited to announce that nine exceptional founders are joining us as Visiting Partners at YC: Matt Riley, Harshita Arora, Grey Baker, Christopher Golda, Raphael Schaad, Christina Gilbert, Francois Chaubard, Vivian Shen, and James Evans."
+        }
+      ],
+      "items_count": 10
+    },
+    {
       "category": "hr_media",
       "name": "HBR",
       "url": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
@@ -296,8 +512,149 @@
         }
       ],
       "items_count": 10
+    },
+    {
+      "category": "china",
+      "name": "36Kr",
+      "url": "https://36kr.com/feed",
+      "priority": 2,
+      "items": [
+        {
+          "title": "增长停滞两年后，H&M重组全球架构，大中华区降级｜独家",
+          "link": "https://36kr.com/p/3850942780838912?f=rss",
+          "pubDate": "2026-06-14 13:38:42  +0800",
+          "summary": "<p><span style=\"letter-spacing: 0px;\">文｜贺哲馨</span></p>\n  <p><span style=\"letter-spacing: 0px;\">编辑｜乔芊</span></p>\n  <p><span style=\"letter-spacing: 0px;\">36氪独家获悉，瑞典快时尚巨头H&amp;M正在推进一场波及全球的组织架构调整：原本按地理划分的9大区域业务板块被打散，重新拆分为26个销售市场，并以市场表现为依据归入四个新设立的“洲级”事业部管辖。</span><br></p>\n  <p>大中华区在这轮调整中降级为26个销售市场之一，归属新成立的亚太洲级事业部（Continent Asia Pacific）管理。原大中华区总裁司懿德（Saed El-Achkar）将出任该事业部董事总经理（Managing Director），任命预计在6月25日集团半年报发布前后正式对外公布，新架构于7月1日落地运转。</p>\n  <p>除大中华区外，亚太事业部还管辖东南亚（总部吉隆坡）、东北亚（东京）、印度（班加罗尔）、澳大利亚和新西兰（悉尼）四个"
+        },
+        {
+          "title": "高瓴出手了一家消费级柔性机器人公司，要把“大白”从电影搬进现实家庭｜硬氪首发",
+          "link": "https://36kr.com/p/3851572421432324?f=rss",
+          "pubDate": "2026-06-14 09:30:00  +0800",
+          "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，消费级柔性机器人公司SoulX日前已完成数千万元天使轮融资，投资方为高瓴创投，向阳资本担任独家财务顾问。资金将重点投入产品持续迭代、技术研发，并加快供应链与规模化交付体系搭建。首款机器人产品MoYa将于2026年下半年正式发布。</p>\n  <p>SoulX隶属于深圳市弘火智能科技有限公司，团队长期专注于柔性机器人技术与睡眠、压力与家庭健康关护。公司以睡眠场景为切入点，自主研发了睡眠安抚机器人MoYa。该产品融合机器人技术、神经科学与心理学，采用无摄像头设计，通过模拟拥抱帮助用户缓解身心压力。</p>\n  <p>家庭场景下的情感与健康关护，长期面临一个“人机关系”设计上的根本问题：在需要身心双重安抚的场景里，机器应该以怎样的方式“在场”？</p>\n  <p>过去几年，不同产品从多个维度给出答案。智能床垫、白噪音机擅长改善环境与生理舒适度；可穿戴设备精于睡眠数据的连续监测；毛绒玩具在情绪投射与安全感的建立上有天然优势；新兴的AI对话机器人则在更自然的表达，促进沟通方面快速迭代。</p>\n  <p>触觉安抚传递物"
+        },
+        {
+          "title": "曼联，要被卖了",
+          "link": "https://36kr.com/p/3851350342325504?f=rss",
+          "pubDate": "2026-06-13 16:37:21  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"600,400\" src=\"https://img.36krcdn.com/hsossms/20260613/v2_e0c77006185f4bd984e08da061c95864@5579416_oswg342733oswg600oswg400_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图片来源：视觉中国</p>\n  <p>作者/余梦莹</p>\n  <p>报道/投资界PEdaily</p>\n  <p>史上最盛大世界杯正在上演。</p>\n  <p>48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。</p>\n  <p>赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，<strong>掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。</strong></p>\n  <"
+        },
+        {
+          "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+          "link": "https://36kr.com/p/3846972367866119?f=rss",
+          "pubDate": "2026-06-13 14:00:00  +0800",
+          "summary": "<p>在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑》。白皮书基于新通三十年积累的百万级家庭服务数据及36氪研究院对2030年全球新兴产业集群的前瞻研判，倡导回归全生命周期的长期主义，为留学家庭提供一份客观、中立的未来就业生存指南。</p>\n  <h2><strong>从“向外破局”到“向内扎根”：中国留学生三十年心理变迁史</strong></h2>\n  <p>中国留学行业三十年，其底层逻辑是一部中产家庭的教育焦虑与价值观重塑史。留学意义经历了五个阶段的变迁——从生存驱动、打破信息垄断的拓荒破冰，到追逐名校光环的晋升通道，再到就业预期前置的工具理性内卷，继而转入风险规避与心理议题凸显的疫情重塑期，直至当下AI浪潮中意义感赤字、情感支撑成为刚需的新阶段。"
+        },
+        {
+          "title": "“宁王系”，排队 IPO",
+          "link": "https://36kr.com/p/3851106394117383?f=rss",
+          "pubDate": "2026-06-13 12:59:03  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1080,460\" src=\"https://img.36krcdn.com/hsossms/20260613/v2_58350c4bd51f4d4996cf27cd413e3d9a@5579416_oswg103747oswg1080oswg460_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">越来越多CVC在路上</p>\n  <p>作者 |&nbsp;冯晓亭&nbsp;</p>\n  <p>&nbsp;编辑 | 吾人&nbsp;</p>\n  <p>来源 |&nbsp;融中财经&nbsp;</p>\n  <p>宁德时代，又出手了。</p>\n  <p>近日，中恒电气发布关于控股股东签署《战略投资合作框架协议》事项的进展公告。公告显示，公司控股股东杭州中恒科技投资有限公司（简称“中恒科技投资”）引进宁德时代新能源科技股份有限公司（简称“宁德时代”）的战略投资事宜正在有序推进中，宁德时代"
+        },
+        {
+          "title": "读懂SpaceX的两万亿故事：为什么马斯克每一手棋，永远都可以提前摆好？",
+          "link": "https://36kr.com/p/3851073239372809?f=rss",
+          "pubDate": "2026-06-13 12:08:19  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1080,608\" src=\"https://img.36krcdn.com/hsossms/20260613/v2_92aaa336bcb4400e8d6697c9d789b56c@5579416_oswg209725oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">飞向宇宙、浩瀚无垠</p>\n  <p><strong>作者｜曹思颀</strong></p>\n  <p><strong>编辑｜靖宇</strong></p>\n  <p>6 月 12 日，在 SpaceX 正式挂牌当天，马斯克选择前往得州的星舰基地，和数百名员工一起，远程敲响了纳斯达克的开市钟。</p>\n  <p>在现场，他用熟悉的那股自嘲范儿说：「如果当年有人告诉我会有今天，我大概率觉得那个人嗑嗨了。因为当时我自己都认为这家公司会黄。」</p>\n  <p>这一天，SpaceX 正式登陆纳"
+        },
+        {
+          "title": "突发！Anthropic全球停用Claude 5",
+          "link": "https://36kr.com/p/3851015329027336?f=rss",
+          "pubDate": "2026-06-13 11:00:16  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1080,463\" src=\"https://img.36krcdn.com/hsossms/20260613/v2_74565134293746cf8b34869e6309d618@5579416_oswg82577oswg1080oswg463_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">究竟为何，Anthropic突然下线了地表最强Claude？</p>\n  <p><strong>【导读】上线72小时，最强Claude Fable 5被一纸禁令全球下架，连Anthropic自家外籍员工都不许碰。</strong></p>\n  <p>太突然了！</p>\n  <p>就在刚刚，Anthropic官宣——</p>\n  <p>全球禁用外籍人士对Claude Fable 5和Mythos 5的所有访问权限。</p>\n  <p>无论是在美国境内还是境外，就连Anthropic的外籍员工"
+        },
+        {
+          "title": "36氪首发 | 核心材料成本降至进口材料五分之一，电致变色技术厂商获投，车规级产线建设中",
+          "link": "https://36kr.com/p/3850904887268611?f=rss",
+          "pubDate": "2026-06-13 09:04:10  +0800",
+          "summary": "<p>硬氪获悉，中科电墨近日完成数千万元Pre-A轮融资，由西安龙鼎投资独家投资。本轮融资将主要用于车规级电致变色产线建设、核心材料研发迭代以及汽车领域市场拓展。</p>\n  <p>伴随新能源汽车向智能化、舒适化方向升级，汽车玻璃正从传统结构件逐步演变为集隔热、防晒、隐私保护和交互体验于一体的功能件。尤其是全景天幕快速普及后，调光玻璃开始成为车企提升产品差异化的重要配置之一。</p>\n  <p>目前市场主流调光技术主要包括PDLC（液晶调光）、SPD（悬浮粒子调光）以及EC（电致变色）三种路线。PDLC和SPD主要依靠光散射实现遮蔽效果，普遍存在雾度较高、隔热能力有限、驱动电压较高等问题。而电致变色技术则通过材料发生氧化还原反应，实现玻璃透光率变化，不仅能够实现连续调光，同时具备低雾度、低能耗以及隔绝红外热辐射等优势，被认为是下一代智能玻璃的重要技术路线之一。</p>\n  <p>中科电墨成立于2023年，专注于电致变色核心材料及器件研发。公司首席科学家马明明博士长期从事导电高分子材料研究，于2017年成功研发出相关核心材料体系。通过引入自主设计的导电聚合物材料，中科电墨突破了长期由海外"
+        },
+        {
+          "title": "SpaceX 2万亿美元市值这一夜，回望中国商业航天十年冷暖",
+          "link": "https://36kr.com/p/3850902095336449?f=rss",
+          "pubDate": "2026-06-13 09:02:18  +0800",
+          "summary": "<p>6月12日晚，SpaceX以史上最大估值完成IPO，股价冲高至176美元，截至目前市值已经突破2万亿美元。 马斯克成为历史上第一位万亿美元身价的富豪。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1080,608\" src=\"https://img.36krcdn.com/hsossms/20260613/v2_3e347a3fd2bf4c729355071525e08d5c@5920579_oswg57991oswg1080oswg608_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">马斯克在得克萨斯“星际基地”（Starbase）敲钟</p>\n  <p>其实在SpaceX敲钟之前，大洋彼岸的行业水温早已接近沸腾。</p>\n  <p><strong>过去半年，商业航天成为国内一级市场最热的赛道之一。</strong>投资人排队约见创始人，地方政府争抢项目落地，一些过去很少关注航天的基金，也开始研究火箭、"
+        },
+        {
+          "title": "9点1氪｜SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍；胖东来回应“员工不值这么多钱”等言论；FIFA联名款labubu世界杯销量暴涨30倍",
+          "link": "https://36kr.com/p/3850898430989577?f=rss",
+          "pubDate": "2026-06-13 09:01:24  +0800",
+          "summary": "<h2><strong>今日热点导览</strong></h2>\n  <p>Kimi与一国有银行合作，全球首张AI原生信用卡开放预约</p>\n  <p>韩美半导体将使用500亿韩元投资于SpaceX</p>\n  <p>SK海力士回应本月发生第二起火灾</p>\n  <p>杭州小龙虾降价超50%</p>\n  <p>金价连跌，批发商集中补货</p>\n  <h2><strong>TOP3大新闻</strong></h2>\n  <p><strong>SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍</strong></p>\n  <p>当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来规模最大的IPO，发行价定为135美元，对应市值达1.77万亿美元。该股开盘价150美元，午盘涨幅一度突破30%触及176.53美元，随后股价震荡回落收盘报160.99美元，涨幅19.22%，跻身美国市值第六大企业，总市值达到2.1万亿美元。马斯克的个人财富随之升至约1.05万亿美元，成为全球首位净资产超过万亿美元的富翁。这相当于瑞士全年GDP，根据彭博"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "consulting",
+      "name": "BCG (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Boston+Consulting+Group%22+future+of+work&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Deloitte (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Deloitte%22+human+capital+trends&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Accenture (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Accenture%22+talent+%22future+of+work%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "vc",
+      "name": "a16z (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Andreessen+Horowitz%22+OR+%22a16z%22+AI+agent&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "think_tank",
+      "name": "Brookings (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Brookings%22+AI+labor+market&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "think_tank",
+      "name": "WEF (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22World+Economic+Forum%22+%22future+of+jobs%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "hr_media",
+      "name": "Mercer (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Mercer%22+total+rewards+OR+compensation&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "hr_media",
+      "name": "WTW (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Willis+Towers+Watson%22+compensation+pay&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
     }
   ],
-  "success_count": 4,
-  "failure_count": 2
+  "success_count": 8,
+  "failure_count": 11
 }

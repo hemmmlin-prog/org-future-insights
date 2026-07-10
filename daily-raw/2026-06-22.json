@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-06-22T07:05:38.303973+08:00",
+  "snapshot_time": "2026-06-22T06:01:39.434145+08:00",
   "fetcher_version": "0.1",
-  "sources_count": 20,
+  "sources_count": 19,
   "sources": [
     {
       "category": "consulting",
@@ -79,12 +79,6 @@
       "priority": 3,
       "items": [
         {
-          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-          "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-          "pubDate": "Sun, 21 Jun 2026 23:00:00 GMT",
-          "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
-        },
-        {
           "title": "New usage analytics and updated spend controls for enterprises",
           "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
           "pubDate": "Thu, 18 Jun 2026 17:00:00 GMT",
@@ -137,6 +131,12 @@
           "link": "https://openai.com/index/preply",
           "pubDate": "Fri, 12 Jun 2026 00:00:00 GMT",
           "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+        },
+        {
+          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
         }
       ],
       "items_count": 10
@@ -703,15 +703,6 @@
       "items_count": 10
     },
     {
-      "category": "vc",
-      "name": "Founders Bay",
-      "url": "https://newsletter.foundersbay.com/feed",
-      "priority": 2,
-      "items": [],
-      "items_count": 0,
-      "error": "fetch fail: HTTP Error 403: Forbidden"
-    },
-    {
       "category": "consulting",
       "name": "BCG (Google News)",
       "url": "https://news.google.com/rss/search?q=%22Boston+Consulting+Group%22+future+of+work&hl=en-US&gl=US",
@@ -727,7 +718,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "category": "consulting",
@@ -736,7 +727,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "category": "vc",
@@ -745,7 +736,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "category": "think_tank",
@@ -754,7 +745,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "category": "think_tank",
@@ -763,7 +754,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "category": "hr_media",
@@ -772,7 +763,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
       "category": "hr_media",
@@ -781,9 +772,9 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
     }
   ],
   "success_count": 10,
-  "failure_count": 10
+  "failure_count": 9
 }

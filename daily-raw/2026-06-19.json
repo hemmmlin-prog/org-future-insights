@@ -1,7 +1,7 @@
 {
-  "snapshot_time": "2026-06-19T18:31:21.320285+08:00",
+  "snapshot_time": "2026-06-19T06:11:28.415949+08:00",
   "fetcher_version": "0.1",
-  "sources_count": 20,
+  "sources_count": 19,
   "sources": [
     {
       "category": "consulting",
@@ -10,22 +10,16 @@
       "priority": 3,
       "items": [
         {
-          "title": "Putting AI to work: The operational excellence imperative",
-          "link": "https://www.mckinsey.com/capabilities/operations/our-insights/putting-ai-to-work-the-operational-excellence-imperative",
-          "pubDate": "Fri, 19 Jun 2026",
-          "summary": "Our survey uncovers how operational excellence becomes the hidden accelerator of AI at scale."
+          "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+          "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+          "pubDate": "Thu, 18 Jun 2026",
+          "summary": "The global beauty market is expected to grow by 5 percent annually through 2030. But major disruptions are underway, driven by expanding definitions of beauty, fluid shopping behavior, and social commerce."
         },
         {
           "title": "What corporate leaders can learn from start-up founders",
           "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/what-corporate-leaders-can-learn-from-start-up-founders",
           "pubDate": "Thu, 18 Jun 2026",
           "summary": "Alurx Founder and CEO Julia Stewart discusses her journey from public company CEO to health tech entrepreneur—and how corporate leaders can build confidence to transform their companies with AI."
-        },
-        {
-          "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
-          "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
-          "pubDate": "Thu, 18 Jun 2026",
-          "summary": "The global beauty market is expected to grow by 5 percent annually through 2030. But major disruptions are underway, driven by expanding definitions of beauty, fluid shopping behavior, and social commerce."
         },
         {
           "title": "An update on Asia–Pacific consumer sentiment: Outlooks diverge and spending is more selective",
@@ -46,16 +40,16 @@
           "summary": "The British fashion retailer’s chief technology officer discusses why agentic AI represents ‘a structural shift’ in how consumers engage with brands."
         },
         {
-          "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
-          "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
-          "pubDate": "Thu, 18 Jun 2026",
-          "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable."
-        },
-        {
           "title": "Rewiring Talent to Value in the age of AI",
           "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/rewiring-talent-to-value-in-the-age-of-ai",
           "pubDate": "Thu, 18 Jun 2026",
           "summary": "As humans enter a new era with AI agents as coworkers, companies need to update their framework for defining their most valuable roles. Here’s how to get started."
+        },
+        {
+          "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
+          "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
+          "pubDate": "Thu, 18 Jun 2026",
+          "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable."
         },
         {
           "title": "The symbiotic enterprise",
@@ -68,6 +62,12 @@
           "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company",
           "pubDate": "Thu, 18 Jun 2026",
           "summary": "As AI makes software faster and cheaper to build, the real competitive edge shifts to how it’s used—pushing leaders to rethink what work looks like and how teams spend their time."
+        },
+        {
+          "title": "The future of Ohio: Playing to win in the next economy",
+          "link": "https://www.mckinsey.com/industries/social-sector/our-insights/the-future-of-ohio-playing-to-win-in-the-next-economy",
+          "pubDate": "Wed, 17 Jun 2026",
+          "summary": "Ohio has a proud legacy as a strong builder economy, but playing to win in the new arenas of competition requires a fresh and more diverse approach."
         }
       ],
       "items_count": 10
@@ -133,10 +133,10 @@
           "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
         },
         {
-          "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-          "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
           "pubDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-          "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
+          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
         }
       ],
       "items_count": 10
@@ -217,64 +217,64 @@
       "priority": 3,
       "items": [
         {
-          "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-          "link": "https://arxiv.org/abs/2606.19464",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19464v1 Announce Type: new \nAbstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohi"
+          "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
+          "link": "https://arxiv.org/abs/2606.18271",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18271v1 Announce Type: new \nAbstract: As Earth Observation data generation outpaces downlink bandwidth and human-in-the-loop processing, a widening gap has emerged between onboard collection and actionable ground intelligence. This paper presents NAVI-Orbital, a software system deployed on a Low Earth Orbit (LEO) spacecraft. On April 16, 2026, NAVI-Orbital achieved what is, to the authors' knowledge, the first in-orbit demonstration of a vision-language model performing autonomous mul"
         },
         {
-          "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-          "link": "https://arxiv.org/abs/2606.19469",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19469v1 Announce Type: new \nAbstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in"
+          "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
+          "link": "https://arxiv.org/abs/2606.18385",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18385v1 Announce Type: new \nAbstract: Vision-Language Models (VLMs) remain prone to hallucinations, producing fluent but visually unfaithful outputs. Existing chain-of-thought and retrieval-augmented methods only partially address this, as they neither enforce step-level citation grounding nor route verification failures back to retrieval for correction. We present CaVe-VLM-CoT, a modular reflection-based agentic-RAG framework that enforces evidence-grounded reasoning through a five-s"
         },
         {
-          "title": "Diffusion Language Models: An Experimental Analysis",
-          "link": "https://arxiv.org/abs/2606.19475",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19475v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, difference"
+          "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
+          "link": "https://arxiv.org/abs/2606.18413",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18413v1 Announce Type: new \nAbstract: Automated AI agents are increasingly capable, yet many scientific and professional tasks require human judgment and contextual expertise. We study shared-workspace human-AI teams, where AI agents and human collaborators must coordinate responsibilities before submitting a final answer. Using the Collaborative Gym environment with DiscoveryBench tasks, we examine when adding simulated human collaborators improves performance and when process loss t"
         },
         {
-          "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-          "link": "https://arxiv.org/abs/2606.19494",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19494v1 Announce Type: new \nAbstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. "
+          "title": "CEO-Bench: Can Agents Play the Long Game?",
+          "link": "https://arxiv.org/abs/2606.18543",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18543v1 Announce Type: new \nAbstract: Language model agents are becoming proficient executors at isolated, short-horizon tasks such as software engineering and customer service. Yet real-world challenges require a combination of sophisticated skills that remain largely untested in agents: (1) navigating long horizons amid uncertainty; (2) acquiring information in noisy environments; (3) adapting to a changing world; (4) orchestrating multiple moving parts toward a coherent goal. We in"
         },
         {
-          "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
-          "link": "https://arxiv.org/abs/2606.19501",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19501v1 Announce Type: new \nAbstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measure the resulting false alarms. We introduce DeXposure-Claw, a forecast-grounded agentic supervision system that routes LLM decisions through structured evidence: (1) DeXposure-FM, a"
+          "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+          "link": "https://arxiv.org/abs/2606.18557",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18557v1 Announce Type: new \nAbstract: A rule-based logic solver resolves every instance in our benchmark in under 50 microseconds with 100% accuracy; the best frontier language model reaches 65% at best and drops to 23.5% under rendering-robust evaluation (worst case over four surface renderings). We introduce DeFAb (Defeasible Abduction Benchmark), a dataset and generation pipeline that converts four decades of publicly funded knowledge bases into formally grounded instances for defe"
         },
         {
-          "title": "LLM Doesn't Know What It Doesn't Know: Detecting Epistemic Blind Spots via Cross-Model Attribution Divergence on Clinical Tabular Data",
-          "link": "https://arxiv.org/abs/2606.19509",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19509v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly applied to structured clinical data, yet whether they can recognize the limits of their own knowledge on such tasks remains unexplored. We study this question through the lens of cross-model attribution divergence with the goal of reducing epistemic uncertainty for structured tasks, comparing Qwen 2.5 7B and XGBoost on a prediction task via attribution divergence analysis. We report four findings. Firs"
+          "title": "Optimizing Lithium Production Decisions under Geological, Demand, and Pricing Uncertainties: A POMDP Framework for Multi-Objective Decision Making",
+          "link": "https://arxiv.org/abs/2606.18598",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18598v1 Announce Type: new \nAbstract: Decision making in lithium production is challenging, whether from an investor's perspective or a strategic production standpoint. Determining which mines to open and when to open them involves not only geological and price uncertainties, but also complexities around the choice of extraction method, from direct lithium extraction to hard rock mining. Prior work explored models of this problem and different methods to optimize mining decisions; the"
         },
         {
-          "title": "REVEAL++: Differentiable Phenotypic Grouping for Vision-Language Retinal Modeling of Alzheimer's Disease Risk",
-          "link": "https://arxiv.org/abs/2606.19522",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19522v1 Announce Type: new \nAbstract: The retina offers a noninvasive window into neurodegenerative disease, capturing subtle structural patterns associated with a risk of future cognitive decline. Vision-language alignment frameworks such as REVEAL have shown that pairing retinal fundus images with structured clinical risk narratives improves early prediction of Alzheimer's disease (AD). A key design choice in these approaches is the use of phenotypic grouping, where individuals with"
+          "title": "ForecastBench-Sim: A Simulated-World Forecasting Benchmark",
+          "link": "https://arxiv.org/abs/2606.18686",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18686v1 Announce Type: new \nAbstract: Forecasting benchmarks for general-purpose AI systems usually inherit the constraints of the real world: outcomes resolve slowly, tail events are rare, and counterfactual questions are difficult to score. We introduce ForecastBench-Sim, a simulated-world forecasting benchmark built on game rollouts from Freeciv, a turn-based strategy game modelled on the Civilization series. Forecasters receive a fixed world report (a structured snapshot of the cu"
         },
         {
-          "title": "Emergent Alignment",
-          "link": "https://arxiv.org/abs/2606.19527",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19527v1 Announce Type: new \nAbstract: Can Large Language Models (LLMs) discern when their own outputs are misaligned with human ethics? And can they self-correct? We endow an LLM with a conscience step that reviews its own reasoning and outputs, and we extend the training loss with an alignment component using Direct Preference Optimization (DPO) to steer the model away from non-ethical outputs. The result is an online technique to align models in a wide range of applications: trainin"
+          "title": "What Must Generalist Agents Remember?",
+          "link": "https://arxiv.org/abs/2606.18746",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18746v1 Announce Type: new \nAbstract: This paper develops a formal account of what generalist agents must store in memory in order to act near-optimally across multiple environments and goals. It shows that when two domains share an observational bottleneck but require incompatible optimal actions, any uniformly near-optimal policy must induce distinct memory distributions at that bottleneck. The result yields a separation theorem: sufficiently successful agents cannot rely only on cu"
         },
         {
-          "title": "ITNet: A Learnable Integral Transform That Subsumes Convolution, Attention, and Recurrence",
-          "link": "https://arxiv.org/abs/2606.19538",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19538v1 Announce Type: new \nAbstract: Convolutional networks, recurrent networks, and transformers each encode different inductive biases -- locality, sequential memory, and content-dependent pairwise interaction -- and have remained mathematically distinct since their inception. We show that this fragmentation reflects not a fundamental diversity in how signals should be processed, but rather incomplete views of a single underlying mathematical object: a learnable integral transform."
+          "title": "R2D-RL: A RoboCup 2D Soccer Environment for Multi-Agent Reinforcement Learning",
+          "link": "https://arxiv.org/abs/2606.18786",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18786v1 Announce Type: new \nAbstract: Robot soccer is a challenging testbed for multi-agent reinforcement learning because it combines partial observability, cooperative and adversarial interaction, sparse rewards, and long-horizon tactical behavior. RoboCup 2D Soccer Simulation (RCSS2D) provides a mature robot-soccer platform, but its competition-oriented server-client architecture is difficult to use directly with modern Python-based MARL workflows. We introduce R2D-RL, a reinforcem"
         },
         {
-          "title": "Uncertainty Decomposition for Clarification Seeking in LLM Agents",
-          "link": "https://arxiv.org/abs/2606.19559",
-          "pubDate": "Fri, 19 Jun 2026 00:00:00 -0400",
-          "summary": "arXiv:2606.19559v1 Announce Type: new \nAbstract: Recent position papers argue that the classical aleatoric/epistemic uncertainty framework is insufficient for interactive large language model (LLM) agents and call for underspecification-aware, decomposed, and communicable uncertainty representations that can unlock new agent capabilities such as proactive clarification seeking and shared mental-model building. Practical deployment constraints -- black-box APIs, interactive latency budgets, and t"
+          "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+          "link": "https://arxiv.org/abs/2606.18803",
+          "pubDate": "Thu, 18 Jun 2026 00:00:00 -0400",
+          "summary": "arXiv:2606.18803v1 Announce Type: new \nAbstract: Bringing Large Language Models (LLMs) into industrial ride-hailing dispatch as semantic feature extractors over platform-scale behavioral logs is a compelling but under-explored data systems problem. Production matching pipelines remain dominated by structured numerical features, yet decisive behavioral signals (e.g., a driver's habitual aversion to certain regions) are inherently contextual and naturally expressible as LLM-generated user profiles"
         }
       ],
       "items_count": 10
@@ -700,18 +700,6 @@
       "priority": 2,
       "items": [
         {
-          "title": "硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万",
-          "link": "https://36kr.com/p/3859926114161665?f=rss",
-          "pubDate": "2026-06-19 18:01:25  +0800",
-          "summary": "<p>硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。</p>\n  <p>ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP大厂，AI团队来自智谱等头部大模型公司。</p>\n  <p>当下，陪伴机器人赛道已经涌入大量玩家，许多公司追求“更聪明”，董晓楠表示，ZuzuZoos更在意如何让AI角色真正为用户提供情绪体验，于是选择了一条差异化路径：不只是把AI机器人做成“会聊天的电子宠物”，而是尝试把AI、潮玩与IP世界观结合，创造一个有“活人感”和持续生命力的硅基伙伴。</p>\n  <p>“潮玩的底色本就带有反叛精神，消费"
-        },
-        {
-          "title": "安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向",
-          "link": "https://36kr.com/p/3859469888508933?f=rss",
-          "pubDate": "2026-06-19 10:16:23  +0800",
-          "summary": "<p>36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。</p>\n  <p>过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型优化进一步释放性能空间。</p>\n  <p>安踏此次推出的“折纸科技”，正是这一趋势下的最新尝试。</p>\n  <p>根据安踏介绍，该项目由安踏创新实验室联合牛津大学、天津大学及浙江大学相关研究团队共同研发。与传统依赖材料软硬度实现缓震不同，折纸科技试图利用特定折叠结构实现受力形变与能量管理，从而构建一套新的中底缓震方案。</p>\n  <p>其核心思路源于折纸工程学（Origami Engineering）。</p>\n  <p>作为一门融合数学、材料学与结构力学的交叉学科，折纸工程近年来已被广泛应用于航空航天、机器人、医疗器械等领域。通过特定的折叠几何结构，材料能够在有限空间内实"
-        },
-        {
           "title": "科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心",
           "link": "https://36kr.com/p/3858803016881154?f=rss",
           "pubDate": "2026-06-18 22:57:40  +0800",
@@ -758,18 +746,21 @@
           "link": "https://36kr.com/p/3856708724315400?f=rss",
           "pubDate": "2026-06-18 09:28:16  +0800",
           "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，具身智能企业穹彻智能（Noematrix）近日完成新一轮数亿元融资，本轮融资由无锡数据集团领投，投资方包括上海交通大学AI未来基金（创业基金）、上海创之智科技有限公司（上海创智学院全资子公司）、一村资本等。&nbsp;</p>\n  <p>这也是公司近半年来完成的又一轮融资。此前穹彻智能已获得多家机构加持，包括Prosperity7 Ventures、红杉中国、C Capital、阿里巴巴和Sea Limited等。</p>\n  <p>穹彻智能是硬氪长期关注的企业。公司成立于2023年11月，长期专注具身智能基础模型与系统的自主研发，已发布有核心产品“穹彻具身大脑”（Noematrix Brain），并围绕其构建了覆盖数据采集、模型训练到部署验证、具身机器人应用全流程的软硬件产品体系。</p>\n  <p>具身智能的行业叙事正在经历一次静默的转向。过去两年，赛道内备受追捧的能力是“完成一个动作”，抓取、搬运、行走等任务在实验室或演示台上被反复验证。但自今年以来，一个新的衡量尺度正在浮现：机器人能否在真实物理环境中"
+        },
+        {
+          "title": "36氪「2026最具价值成长企业100」正式发布",
+          "link": "https://36kr.com/p/3857980507919622?f=rss",
+          "pubDate": "2026-06-18 09:09:18  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,480\" src=\"https://img.36krcdn.com/hsossms/20260618/v2_d44f88b31738421594c403c7cbabbe64@5889148_oswg292792oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>&nbsp;</p>\n  <p><strong>时代从不被旁观者定义，它只发生在那些正在成长的人身上。</strong></p>\n  <p>今天，当人们讨论华为、字节跳动、大疆、Tesla或OpenAI时，很容易忽略这样一个事实：在成为行业领导者之前，它们都曾是一家成长中的创业公司。</p>\n  <p>在初期，没有天然的市场地位，没有成熟的商业体系，也未必被所有人看好。但通过持续的技术突破和产品迭代，它们一步步从“挑战者”变成了“定义者”。</p>\n  <p>"
+        },
+        {
+          "title": "中科院博士冲上市，市值超105亿港币",
+          "link": "https://36kr.com/p/3857959588418823?f=rss",
+          "pubDate": "2026-06-18 09:00:00  +0800",
+          "summary": "<p>本文约1900字，建议阅读4分钟</p>\n  <p>作者&nbsp;|&nbsp;彭孝秋</p>\n  <p>6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。</p>\n  <p>上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2.2%。这是一家由中国科学院自动化研究所科学家创办的公司，过去三年累计亏掉约5.83亿元（净亏损口径）。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"900,145\" src=\"https://img.36krcdn.com/hsossms/20260618/v2_3237579b3ea840d38302b64c40c60b24@430412560_oswg4040oswg900oswg145_img_000?x-oss-process=image/format,jpg/interlace,1"
         }
       ],
       "items_count": 10
-    },
-    {
-      "category": "vc",
-      "name": "Founders Bay",
-      "url": "https://newsletter.foundersbay.com/feed",
-      "priority": 2,
-      "items": [],
-      "items_count": 0,
-      "error": "fetch fail: HTTP Error 403: Forbidden"
     },
     {
       "category": "consulting",
@@ -787,7 +778,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
     },
     {
       "category": "consulting",
@@ -805,7 +796,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
     },
     {
       "category": "think_tank",
@@ -823,7 +814,7 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
     },
     {
       "category": "hr_media",
@@ -841,9 +832,9 @@
       "priority": 2,
       "items": [],
       "items_count": 0,
-      "error": "fetch fail: <urlopen error timed out>"
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
     }
   ],
   "success_count": 11,
-  "failure_count": 9
+  "failure_count": 8
 }

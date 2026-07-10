@@ -1,0 +1,180 @@
+{
+  "snapshot_time": "2026-07-06T06:11:45.087566+08:00",
+  "fetcher_version": "0.1",
+  "sources_count": 19,
+  "sources": [
+    {
+      "category": "consulting",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "tech",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "tech",
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "academia",
+      "name": "arXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "academia",
+      "name": "NBER WP",
+      "url": "https://www.nber.org/rss/new.xml",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "academia",
+      "name": "HBS Working Knowledge",
+      "url": "https://hbswk.hbs.edu/rss/all.xml",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "think_tank",
+      "name": "RAND",
+      "url": "https://www.rand.org/blog.xml",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "vc",
+      "name": "Sequoia",
+      "url": "https://www.sequoiacap.com/feed/",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "vc",
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/blog/rss.xml",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "hr_media",
+      "name": "HBR",
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "china",
+      "name": "36Kr",
+      "url": "https://36kr.com/feed",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "consulting",
+      "name": "BCG (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Boston+Consulting+Group%22+future+of+work&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "consulting",
+      "name": "Deloitte (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Deloitte%22+human+capital+trends&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "consulting",
+      "name": "Accenture (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Accenture%22+talent+%22future+of+work%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "vc",
+      "name": "a16z (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Andreessen+Horowitz%22+OR+%22a16z%22+AI+agent&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "think_tank",
+      "name": "Brookings (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Brookings%22+AI+labor+market&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "think_tank",
+      "name": "WEF (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22World+Economic+Forum%22+%22future+of+jobs%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "hr_media",
+      "name": "Mercer (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Mercer%22+total+rewards+OR+compensation&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "hr_media",
+      "name": "WTW (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Willis+Towers+Watson%22+compensation+pay&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ],
+  "success_count": 0,
+  "failure_count": 19
+}

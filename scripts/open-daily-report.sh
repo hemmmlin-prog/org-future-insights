@@ -22,7 +22,7 @@ if [ -f "$FLAG_FILE" ]; then
 fi
 
 # ── 确定最新可视化日报 ──
-PROJECT_DIR="/Users/emmah/Desktop/AI学习/Qoder文档/Emmafolder/组织演变"
+PROJECT_DIR="/Users/emmah/org-future-insights"
 VISUAL_FILE="$PROJECT_DIR/daily-reports/${TODAY}-visual.md"
 
 if [ -f "$VISUAL_FILE" ]; then

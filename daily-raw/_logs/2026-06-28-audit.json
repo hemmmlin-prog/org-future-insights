@@ -1,7 +1,7 @@
 {
-  "date": "2026-06-23",
-  "timestamp": "2026-06-24T11:41:36",
-  "auto_file": "daily-reports/2026-06-23-auto.md",
+  "date": "2026-06-28",
+  "timestamp": "2026-06-28T12:49:40",
+  "auto_file": "daily-reports/2026-06-28-auto.md",
   "pass_count": 4,
   "total_checks": 6,
   "all_passed": false,
@@ -9,7 +9,7 @@
     {
       "check": "5 类多源覆盖 ≥ 3",
       "passed": true,
-      "detail": "命中 6/5 类 (academia, china, consulting, hr_media, tech, vc)"
+      "detail": "命中 6/5 类 (academia, china, consulting, tech, think_tank, vc)"
     },
     {
       "check": "反方对冲完整",
@@ -29,7 +29,7 @@
     {
       "check": "总字数范围",
       "passed": false,
-      "detail": "内容 5846 字符（目标 2500-3500 字）"
+      "detail": "内容 6422 字符（目标 2500-3500 字）"
     },
     {
       "check": "信号类目多样",

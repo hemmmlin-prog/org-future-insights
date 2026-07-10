@@ -19,3 +19,7 @@ Thumbs.db
 # IDE
 .idea/
 .vscode/
+
+# Qoder wiki & notify markers（自动生成，不入库）
+.qoder/repowiki/
+daily-raw/_logs/.notify-*

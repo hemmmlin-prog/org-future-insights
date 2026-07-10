@@ -18,7 +18,7 @@ from pathlib import Path
 
 from bailian.client import chat, DEFAULT_MODEL
 
-WORKSPACE = Path("/Users/emmah/Desktop/AI学习/Qoder文档/Emmafolder/组织演变")
+WORKSPACE = Path(__file__).resolve().parent.parent  # 仓库根目录（bailian/ 上一级），随仓库位置自动适配
 RUNTIME = Path.home() / "org-future-insights"
 RAW_DIR = RUNTIME / "daily-raw"
 LOG_DIR = RAW_DIR / "_logs"

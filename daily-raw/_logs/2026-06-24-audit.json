@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-23",
-  "timestamp": "2026-06-24T11:41:36",
-  "auto_file": "daily-reports/2026-06-23-auto.md",
-  "pass_count": 4,
+  "date": "2026-06-24",
+  "timestamp": "2026-06-24T11:44:55",
+  "auto_file": "daily-reports/2026-06-24-auto.md",
+  "pass_count": 5,
   "total_checks": 6,
   "all_passed": false,
   "results": [
     {
       "check": "5 类多源覆盖 ≥ 3",
       "passed": true,
-      "detail": "命中 6/5 类 (academia, china, consulting, hr_media, tech, vc)"
+      "detail": "命中 7/5 类 (academia, china, consulting, hr_media, tech, think_tank, vc)"
     },
     {
       "check": "反方对冲完整",
@@ -24,17 +24,17 @@
     {
       "check": "金句来源可溯",
       "passed": true,
-      "detail": "5/5 条金句可溯源"
+      "detail": "4/5 条金句可溯源"
     },
     {
       "check": "总字数范围",
       "passed": false,
-      "detail": "内容 5846 字符（目标 2500-3500 字）"
+      "detail": "内容 6121 字符（目标 2500-3500 字）"
     },
     {
       "check": "信号类目多样",
-      "passed": false,
-      "detail": "信号来自 0 类信源 ()"
+      "passed": true,
+      "detail": "信号来自 2 类信源 (china, tech)"
     }
   ]
 }
