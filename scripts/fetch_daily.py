@@ -128,7 +128,7 @@ def fetch_rss(url: str) -> list[dict]:
     try:
         with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
             content = resp.read()
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
+    except (urllib.error.URLError, urllib.error.HTTPError, OSError, TimeoutError) as e:  # OSError 涵盖 Py3.9 的 socket.timeout，避免单源超时崩溃整个抓取进程
         return [{"_error": f"fetch fail: {e}"}]
 
     items = []

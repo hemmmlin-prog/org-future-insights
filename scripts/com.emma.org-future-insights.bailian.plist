@@ -5,7 +5,7 @@
     <key>Label</key>
     <string>com.emma.org-future-insights.bailian</string>
 
-    <!-- 06:30 跑：抓取已在 06:00 由原 plist 完成 -->
+    <!-- 07:30 跑：抓取已在 06:00 由原 plist 完成 -->
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
@@ -23,7 +23,7 @@
     <key>StartCalendarInterval</key>
     <dict>
         <key>Hour</key>
-        <integer>6</integer>
+        <integer>7</integer>
         <key>Minute</key>
         <integer>30</integer>
     </dict>
