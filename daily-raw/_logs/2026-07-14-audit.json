@@ -1,0 +1,40 @@
+{
+  "date": "2026-07-14",
+  "timestamp": "2026-07-14T07:32:52",
+  "auto_file": "daily-reports/2026-07-14-auto.md",
+  "pass_count": 6,
+  "total_checks": 6,
+  "all_passed": true,
+  "results": [
+    {
+      "check": "5 类多源覆盖 ≥ 3",
+      "passed": true,
+      "detail": "命中 7/5 类 (academia, china, consulting, hr_media, tech, think_tank, vc)"
+    },
+    {
+      "check": "反方对冲完整",
+      "passed": true,
+      "detail": "3/3 条信号有反方对冲"
+    },
+    {
+      "check": "HR 三大支柱 ≥ 2",
+      "passed": true,
+      "detail": "命中 2/3 支柱 (发展, 回报)"
+    },
+    {
+      "check": "金句来源可溯",
+      "passed": true,
+      "detail": "5/5 条金句可溯源"
+    },
+    {
+      "check": "总字数范围",
+      "passed": true,
+      "detail": "内容 3786 字符（目标 2500-3500 字）"
+    },
+    {
+      "check": "信号类目多样",
+      "passed": true,
+      "detail": "信号来自 2 类信源 (McKinsey, tech)"
+    }
+  ]
+}
