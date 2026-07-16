@@ -9,42 +9,42 @@
 
 | 板块 | 你在这里能得到什么 | 入口 |
 |---|---|---|
-| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-07-08-visual.md) |
+| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-07-16-visual.md) |
 | 🏢 **公司 & 关键人** | OpenAI / GitHub / Samsung / YC 等顶尖公司 + CEO/VC 言论追踪 | [👉 进入](companies/README.md) |
 | 🎓 **报告 & 研究** ⭐ | McKinsey / NBER / Sequoia 等权威报告及研究论文（**HR 同事最常用**） | [👉 进入](research/README.md) |
 | 📊 **转型案例** | AI 转型成功 ✅ vs 失败 ❌ 案例库 + 中国硬科技创业融资 | [👉 进入](cases/README.md) |
 | 📚 **延伸阅读** | HBR / Sequoia / OpenAI 深度长文 + 编辑导读 | [👉 进入](readings/README.md) |
 | 🧭 **HR 词典** | 12+ HR/组织新概念中英对照（agentic / orchestrator / mindset...） | [👉 进入](dictionary/glossary.md) |
-| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-07-08.md) |
-| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-07-08.md) |
+| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-07-16.md) |
+| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-07-16.md) |
 
 ---
 
-### 🔥 今日精华（2026-07-08）
+### 🔥 今日精华（2026-07-16）
 
-> 抓取窗口：2026-07-08 06:03 · 信源覆盖：8 源成功 / 80 条 items / 命中 consulting + tech + academia + vc + hr_media + china
-> 完整阅读：[👉 可视化版](daily-reports/2026-07-08-visual.md) · [👉 纯文字版](daily-reports/2026-07-08-auto.md)
+> 抓取窗口：2026-07-16 06:00 · 信源覆盖：10 源成功 / 76 条 items / 命中 consulting + tech + academia + vc + hr_media + china
+> 完整阅读：[👉 可视化版](daily-reports/2026-07-16-visual.md) · [👉 纯文字版](daily-reports/2026-07-16-auto.md)
 
 ### 三条核心信号
 
-1. **🤖 AI 赢家从"模型采购者"转向"运营编排者"**——McKinsey《The operating model advantage》：AI 表现前 10% 企业中 83% 重构了决策权分配；OpenAI 测算组织响应每延迟 1 天 ROI 降 4.7%。HR 应培养"业务裁判员/流程架构师/编排人才评估者"，Mindset > Skillset。 [详情](daily-reports/2026-07-08-visual.md)
-2. **💸 地下 AI 使用引发薪酬总成本（TCC）结构性失真**——OpenAI 披露 74% 企业 ChatGPT 使用未被 HR 系统登记；HR 需新增"工具杠杆系数（TLR）"维度，建立"影子生产力"审计机制。 [详情](daily-reports/2026-07-08-visual.md)
-3. **🫂 强经济裁员催生"Care Time Squeeze"危机**——42% 的 35–54 岁员工兼顾育儿与养老，裁员使其离职率飙至 22%。看护支持须从福利升级为组织韧性基础设施，纳入岗位胜任力与 RIF 决策矩阵。 [详情](daily-reports/2026-07-08-visual.md)
+1. **🤖 AI 编排（Orchestration）成为组织新核心能力**——McKinsey《The organization of the future》：领先企业设立"AI 编排层"专门协调人类团队与 AI 智能体协作；OpenAI 发布企业级智能体框架，强调"人在环上"（human-on-the-loop）而非"人在环中"；部署编排层的企业任务效率提升 40%。HR 应把中层管理者从"任务分配者"转向"人机协作编排者"。 [详情](daily-reports/2026-07-16-visual.md)
+2. **🔧 技能重构（Reskilling）进入深水区**——WEF × BCG：2026 年全球 40% 核心岗位任务组合发生实质性变化；亚马逊、微软将"AI 协作能力"纳入全员绩效考核；arXiv 指出人机协作重构周期比预期长 2-3 倍。HR 需建立"任务级"动态技能图谱，把 reskilling 从"一次性培训"转为"持续能力运营"。 [详情](daily-reports/2026-07-16-visual.md)
+3. **⚖️ 治理框架（Governance）成为 AI 规模化前提**——RAND 警告缺乏治理框架的 AI 部署将放大组织偏见与合规风险；欧盟 AI 法案进入执行阶段，企业需建立 AI 使用审计与问责机制；多家机构建议设"AI 伦理委员会"由 HR/法务/技术三方共管。HR 应主动参与治理，将伦理与合规嵌入人才管理全流程。 [详情](daily-reports/2026-07-16-visual.md)
 
 ### 高价值素材亮点
-- McKinsey《The operating model advantage》·《A microscope on small businesses》· OpenAI《Designing Organisations That Can Keep Up With AI》· HBR《Performance Management Needs New Metrics in the AI Era》· arXiv《SwarmResearch》· 字节 AI Workflow Steward 岗位 · [完整 8 板块](daily-reports/2026-07-08-visual.md)
+- McKinsey《The organization of the future》· OpenAI 企业级智能体部署框架（human-on-the-loop）· WEF × BCG 全球技能重构报告 · RAND AI 治理风险警告 · arXiv 人机协作学习曲线研究 · 欧盟 AI 法案执行落地 · [完整 8 板块](daily-reports/2026-07-16-visual.md)
 
 ---
 
-### 💼 本周 HR 行动速查（截至 7-08）
+### 💼 本周 HR 行动速查（截至 7-16）
 
 | 优先级 | 行动 | 时间窗 | 依据 |
 |---|---|---|---|
-| 🔴 **高** | 建立"影子生产力"审计：普查未登记 AI 工具使用，导出 TOP10 高频场景，引入 TLR（工具杠杆系数）修正 TCC 模型 | 本周 | 信号 2 |
-| 🔴 **高** | 在高绩效岗位能力词典新增 "Orchestrator Competency" 三级指标，识别"业务裁判员/流程架构师" | 本周 | 信号 1 |
-| 🟠 中 | 将"看护中断容忍度"纳入岗位胜任力模型，建立跨部门"看护替补池"（替补者 TCC +15% 溢价） | 本月 | 信号 3 |
-| 🟠 中 | 设计人-AI 协作 SLO，明确"何时叫停 AI 流程"的判断触发点而非操作深度 | 本月 | 信号 1 |
-| 🟢 长期 | 在 RIF 决策矩阵增设"看护依赖度"权重（20%），避免高关怀需求员工集中暴露于裁撤风险 | 本季 | 信号 3 |
+| 🔴 **高** | 设立"AI 编排层"角色定义，把中层管理者能力模型从"任务分配"升级为"人机协作编排者"（human-on-the-loop） | 本周 | 信号 1 |
+| 🔴 **高** | 建立"任务级"技能地图，区分可迁移 vs 需重建能力，启动持续 reskilling 运营机制 | 本周 | 信号 2 |
+| 🟠 中 | 将"AI 协作能力"纳入全员绩效考核维度，参考亚马逊 / 微软实践 | 本月 | 信号 2 |
+| 🟠 中 | 推动设立"AI 伦理委员会"（HR + 法务 + 技术三方共管），建立 AI 使用审计与问责机制 | 本月 | 信号 3 |
+| 🟢 长期 | 将伦理与合规护栏嵌入人才管理全流程，对齐欧盟 AI 法案执行要求 | 本季 | 信号 3 |
 
 ---
 
@@ -83,7 +83,7 @@
 
 - **更新频率**：每天凌晨 06:00 自动抓取最新素材，上午由 HR / Agent 触发深度分析
 - **数据来源**：100% 公开权威源，本地运行不上传任何云端
-- **版本**：v0.5.2（2026-07-08）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
+- **版本**：v0.5.3（2026-07-16）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
 
 ---
 
