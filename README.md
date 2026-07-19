@@ -9,42 +9,42 @@
 
 | 板块 | 你在这里能得到什么 | 入口 |
 |---|---|---|
-| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-07-16-visual.md) |
+| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-07-19-visual.md) |
 | 🏢 **公司 & 关键人** | OpenAI / GitHub / Samsung / YC 等顶尖公司 + CEO/VC 言论追踪 | [👉 进入](companies/README.md) |
 | 🎓 **报告 & 研究** ⭐ | McKinsey / NBER / Sequoia 等权威报告及研究论文（**HR 同事最常用**） | [👉 进入](research/README.md) |
 | 📊 **转型案例** | AI 转型成功 ✅ vs 失败 ❌ 案例库 + 中国硬科技创业融资 | [👉 进入](cases/README.md) |
 | 📚 **延伸阅读** | HBR / Sequoia / OpenAI 深度长文 + 编辑导读 | [👉 进入](readings/README.md) |
 | 🧭 **HR 词典** | 12+ HR/组织新概念中英对照（agentic / orchestrator / mindset...） | [👉 进入](dictionary/glossary.md) |
-| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-07-16.md) |
-| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-07-16.md) |
+| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-07-19.md) |
+| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-07-19.md) |
 
 ---
 
-### 🔥 今日精华（2026-07-16）
+### 🔥 今日精华（2026-07-19）
 
-> 抓取窗口：2026-07-16 06:00 · 信源覆盖：10 源成功 / 76 条 items / 命中 consulting + tech + academia + vc + hr_media + china
-> 完整阅读：[👉 可视化版](daily-reports/2026-07-16-visual.md) · [👉 纯文字版](daily-reports/2026-07-16-auto.md)
+> 抓取窗口：2026-07-19 06:04 · 信源覆盖：10 源成功 / 100 条 items / 命中 consulting + tech + academia + think_tank + vc + hr_media + china
+> 完整阅读：[👉 可视化版](daily-reports/2026-07-19-visual.md) · [👉 纯文字版](daily-reports/2026-07-19-auto.md)
 
 ### 三条核心信号
 
-1. **🤖 AI 编排（Orchestration）成为组织新核心能力**——McKinsey《The organization of the future》：领先企业设立"AI 编排层"专门协调人类团队与 AI 智能体协作；OpenAI 发布企业级智能体框架，强调"人在环上"（human-on-the-loop）而非"人在环中"；部署编排层的企业任务效率提升 40%。HR 应把中层管理者从"任务分配者"转向"人机协作编排者"。 [详情](daily-reports/2026-07-16-visual.md)
-2. **🔧 技能重构（Reskilling）进入深水区**——WEF × BCG：2026 年全球 40% 核心岗位任务组合发生实质性变化；亚马逊、微软将"AI 协作能力"纳入全员绩效考核；arXiv 指出人机协作重构周期比预期长 2-3 倍。HR 需建立"任务级"动态技能图谱，把 reskilling 从"一次性培训"转为"持续能力运营"。 [详情](daily-reports/2026-07-16-visual.md)
-3. **⚖️ 治理框架（Governance）成为 AI 规模化前提**——RAND 警告缺乏治理框架的 AI 部署将放大组织偏见与合规风险；欧盟 AI 法案进入执行阶段，企业需建立 AI 使用审计与问责机制；多家机构建议设"AI 伦理委员会"由 HR/法务/技术三方共管。HR 应主动参与治理，将伦理与合规嵌入人才管理全流程。 [详情](daily-reports/2026-07-16-visual.md)
+1. **📊 AI 投资 ROI 从"模型调用次数"转向"有用工作量"**——OpenAI CFO Sarah Friar《A scorecard for the AI age》提出四维评估框架（每美元有用工作量 / 单次成功任务成本 / 系统依赖性 / 单位算力回报）；GitHub 指出"写代码成本降了，拥有代码的成本没降"。HR 需联合 IT/业务定义"有用工作量"的岗位级指标，把系统所有权、文档责任纳入技术岗晋升硬条件。 [详情](daily-reports/2026-07-19-visual.md)
+2. **🫂 强经济裁员从"成本优化"转向"心智重置"**——HBS 指出经济向好期仍高频 RIF；McKinsey《The CEO's role in transformation》揭示转型失败主因是激励错配/部门孤岛/风险规避。HR 应把裁员沟通升级为"新能力契约"，公开能力冗余类型并配套内部转岗的心智适配测评。（反方：Sequoia 主张靠赋予实时数据+决策权而非减员释放产能） [详情](daily-reports/2026-07-19-visual.md)
+3. **🕵️ 地下 AI 使用（Underground AI Use）演变为 TCC 关键变量**——GitHub 证实无统一提示词库时 Copilot 审查误报率激增；OpenAI 案例显示 37% 销售代表自调提示词绕过合规。HR 须将"AI 工具使用合规性"纳入总薪酬成本（TCC）核算，按月申报自主部署工具数/替代 FTE 数/额外法务安全投入。（反方：HBR 警示强制登记会催生更隐蔽的 Shadow AI） [详情](daily-reports/2026-07-19-visual.md)
 
 ### 高价值素材亮点
-- McKinsey《The organization of the future》· OpenAI 企业级智能体部署框架（human-on-the-loop）· WEF × BCG 全球技能重构报告 · RAND AI 治理风险警告 · arXiv 人机协作学习曲线研究 · 欧盟 AI 法案执行落地 · [完整 8 板块](daily-reports/2026-07-16-visual.md)
+- OpenAI《A scorecard for the AI age》（Sarah Friar）· GitHub《The cost of owning code》· McKinsey《The CEO's role in transformation》· HBS 强经济裁员研究 · Sequoia《From Hierarchy to Intelligence》· HBR《Stop AI from Eroding Your Brand》· 36Kr 智谱 AI ARR 破 10 亿美元 · [完整 8 板块](daily-reports/2026-07-19-visual.md)
 
 ---
 
-### 💼 本周 HR 行动速查（截至 7-16）
+### 💼 本周 HR 行动速查（截至 7-19）
 
 | 优先级 | 行动 | 时间窗 | 依据 |
 |---|---|---|---|
-| 🔴 **高** | 设立"AI 编排层"角色定义，把中层管理者能力模型从"任务分配"升级为"人机协作编排者"（human-on-the-loop） | 本周 | 信号 1 |
-| 🔴 **高** | 建立"任务级"技能地图，区分可迁移 vs 需重建能力，启动持续 reskilling 运营机制 | 本周 | 信号 2 |
-| 🟠 中 | 将"AI 协作能力"纳入全员绩效考核维度，参考亚马逊 / 微软实践 | 本月 | 信号 2 |
-| 🟠 中 | 推动设立"AI 伦理委员会"（HR + 法务 + 技术三方共管），建立 AI 使用审计与问责机制 | 本月 | 信号 3 |
-| 🟢 长期 | 将伦理与合规护栏嵌入人才管理全流程，对齐欧盟 AI 法案执行要求 | 本季 | 信号 3 |
+| 🔴 **高** | 在 HRIS 新增"AI 工具自主部署数"字段，要求各部门 7/26 前完成首期填报，并关联被替代 FTE 编号 | 本周 | 信号 3 |
+| 🟠 中 | 与 IT 上线"提示词合规检查"，嵌入钉钉/Teams 审批流，对含客户数据的合同/简历处理请求自动拦截 | 本月 | 信号 3 |
+| 🟠 中 | 设计"Mindset > Skillset"评估量表（Growth Mindset Index + AI 协作意愿 + 跨域迁移力），嵌入 Q3 绩效校准 | 本月 | 信号 2 |
+| 🟡 中低 | 组织"代码/工作流所有权"工作坊，产出《内部 AI 资产责任制 SOP》草案 | 本季 | 信号 1 |
+| 🟢 长期 | 启动"AI 时代 TCC 模型"建模，整合显性人力成本 + AI 采购费 + 数据治理投入 + 合规罚金 | 本年 | 信号 3 |
 
 ---
 
@@ -83,7 +83,7 @@
 
 - **更新频率**：每天凌晨 06:00 自动抓取最新素材，上午由 HR / Agent 触发深度分析
 - **数据来源**：100% 公开权威源，本地运行不上传任何云端
-- **版本**：v0.5.3（2026-07-16）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
+- **版本**：v0.5.4（2026-07-19）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
 
 ---
 
