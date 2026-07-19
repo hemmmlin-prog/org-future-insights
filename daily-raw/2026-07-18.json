@@ -1,0 +1,780 @@
+{
+  "snapshot_time": "2026-07-18T06:03:48.933946+08:00",
+  "fetcher_version": "0.1",
+  "sources_count": 19,
+  "sources": [
+    {
+      "category": "consulting",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Pricing in distribution: A strategic growth engine",
+          "link": "https://www.mckinsey.com/industries/industrials/our-insights/pricing-in-distribution-a-strategic-growth-engine",
+          "pubDate": "Fri, 17 Jul 2026",
+          "summary": "Pricing is a critical value creation lever for distributors to respond to market challenges. Here are four capabilities critical to unlocking pricing’s power."
+        },
+        {
+          "title": "Will you fly—or freeze? How founders can build enduring companies beyond $10 billion",
+          "link": "https://www.mckinsey.com/industries/private-capital/our-insights/will-you-fly-or-freeze-how-founders-can-build-enduring-companies-beyond-10-billion-dollars",
+          "pubDate": "Fri, 17 Jul 2026",
+          "summary": "Many founder-led companies freeze at the $1 billion to $10 billion valuation stage. Those that scale reinvent their business, people—and themselves—at five key inflection points."
+        },
+        {
+          "title": "Amid volatility, oil and gas M&A abounds. Here’s how to capture full value",
+          "link": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/amid-volatility-oil-and-gas-m-and-a-abounds-heres-how-to-capture-full-value",
+          "pubDate": "Thu, 16 Jul 2026",
+          "summary": "Envisioning the deal’s full potential and sequencing integration initiatives makes the most of the current wave of oil and gas mergers and combinations."
+        },
+        {
+          "title": "What the 2026 World Cup reveals about the next generation of sports fans",
+          "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/what-the-2026-world-cup-reveals-about-the-next-generation-of-sports-fans",
+          "pubDate": "Thu, 16 Jul 2026",
+          "summary": "This year’s tournament offers a window into consumers’ changing behaviors, desire for community, and focus on identity—especially among Latino fans. Are business leaders paying attention?"
+        },
+        {
+          "title": "How B.TECH transformed into a technology-powered retailer",
+          "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
+          "pubDate": "Thu, 16 Jul 2026",
+          "summary": "The Egyptian electronics retailer partnered with McKinsey to reinvent customer commerce through AI-powered pricing, fulfillment, and fintech—unlocking rapid growth and new digital revenue streams."
+        },
+        {
+          "title": "The future of B2B sales: How growth champions rewire their playbooks with AI",
+          "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-future-of-b2b-sales-how-growth-champions-rewire-their-playbooks-with-ai",
+          "pubDate": "Thu, 16 Jul 2026",
+          "summary": "AI pilots are everywhere, but value is not. Growth leaders rewire commercial impact journeys with agentic AI, enabling sellers to deepen customer relations and create real change."
+        },
+        {
+          "title": "The CEO’s role in transformation",
+          "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
+          "pubDate": "Wed, 15 Jul 2026",
+          "summary": "Transformations often falter due to internal dynamics that divide organizations, such as misaligned incentives, siloed efforts, and risk aversion. CEOs are uniquely positioned to address these challenges by tackling the root causes of collective-action problems and uniting their organizations around bold aspirations. Join Meagan Hill, Mathew Lee, and Kurt Strovink as they explore the role of the CEO in driving enterprise-wide transformation and embedding lasting change into the fabric of their o"
+        },
+        {
+          "title": "How AI is reshaping the future of the AEC industry",
+          "link": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
+          "pubDate": "Wed, 15 Jul 2026",
+          "summary": "AI is poised to rewire the architecture, engineering, and construction sector. Firms that move quickly to reimagine workflows, improve data use, and automate work sites will thrive."
+        },
+        {
+          "title": "How can the public sector meet the AI moment?",
+          "link": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+          "pubDate": "Wed, 15 Jul 2026",
+          "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered."
+        },
+        {
+          "title": "The future of delivering software as a medical device",
+          "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+          "pubDate": "Wed, 15 Jul 2026",
+          "summary": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "A scorecard for the AI age",
+          "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
+          "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
+        },
+        {
+          "title": "Why teens deserve access to safe AI",
+          "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+          "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+        },
+        {
+          "title": "How Cars24 scales conversations and builds faster with OpenAI",
+          "link": "https://openai.com/index/cars24",
+          "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+          "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
+        },
+        {
+          "title": "The US is advancing AI safety through state and federal action",
+          "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+          "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
+          "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+        },
+        {
+          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
+          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+        },
+        {
+          "title": "How to manage AI investments in the agentic era",
+          "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
+          "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+        },
+        {
+          "title": "How sales teams use ChatGPT Work",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+          "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+        },
+        {
+          "title": "How data science teams use ChatGPT Work",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+        },
+        {
+          "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "link": "https://openai.com/index/deutsche-telekom",
+          "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+          "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
+        },
+        {
+          "title": "Getting started with ChatGPT",
+          "link": "https://openai.com/academy/getting-started",
+          "pubDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+          "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "priority": 2,
+      "items": [
+        {
+          "title": "The cost of saying yes has changed",
+          "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+          "pubDate": "Fri, 17 Jul 2026 16:46:47 +0000",
+          "summary": "<p>The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era.</p>\n<p>The post <a href=\"https://github.blog/engineering/the-cost-of-saying-yes-has-changed/\">The cost of saying yes has changed</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+          "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
+          "pubDate": "Wed, 15 Jul 2026 17:29:31 +0000",
+          "summary": "<p>New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/\">GitHub for Beginners: Your roadmap to mastering the GitHub essentials</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+          "pubDate": "Fri, 10 Jul 2026 15:57:47 +0000",
+          "summary": "<p>How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/\">Better tools made Copilot code review worse. Here&#8217;s how we actually improved it.</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How GitHub gave every repository a durable owner",
+          "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+          "pubDate": "Thu, 09 Jul 2026 16:29:37 +0000",
+          "summary": "<p>GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/\">How GitHub gave every repository a durable owner</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+          "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+          "pubDate": "Wed, 08 Jul 2026 21:11:56 +0000",
+          "summary": "<p>Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/\">Automating cross-repo documentation with GitHub Agentic Workflows</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub availability report: June 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+          "pubDate": "Wed, 08 Jul 2026 19:35:51 +0000",
+          "summary": "<p>In June, we experienced six incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-june-2026/\">GitHub availability report: June 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+          "pubDate": "Wed, 08 Jul 2026 16:00:00 +0000",
+          "summary": "<p>Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/\">How GitHub Copilot enables zero DNS configuration for GitHub Pages</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+          "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+          "pubDate": "Tue, 07 Jul 2026 16:00:00 +0000",
+          "summary": "<p>New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies.</p>\n<p>The post <a href=\"https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/\">Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How GitHub used secret scanning to reach inbox zero",
+          "link": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+          "pubDate": "Thu, 02 Jul 2026 16:00:00 +0000",
+          "summary": "<p>GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months.</p>\n<p>The post <a href=\"https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/\">How GitHub used secret scanning to reach inbox zero</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "6 security settings every GitHub maintainer should enable this week",
+          "link": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
+          "pubDate": "Wed, 01 Jul 2026 15:59:29 +0000",
+          "summary": "<p>These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before.</p>\n<p>The post <a href=\"https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/\">6 security settings every GitHub maintainer should enable this week</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "arXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+          "link": "https://arxiv.org/abs/2607.14093",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14093v1 Announce Type: new \nAbstract: This paper presents a novel three level hierarchical learning architecture for autonomous UAV swarms performing search and rescue operations. Unlike conventional approaches that apply a single learning paradigm across all hierarchy levels, the proposed architecture integrates three qualitatively different learning mechanisms corresponding to the biological hierarchy of reflexes, skills, and reasoning such as Hebbian neuroplasticity for individual "
+        },
+        {
+          "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+          "link": "https://arxiv.org/abs/2607.14095",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14095v1 Announce Type: new \nAbstract: Retrieval Augmented Generation (RAG) has proven to be a widely successful process at improving the quality of outputs from a Large Language Model (LLM) for wider context. However, RAG systems typically retrieve context from flat document stores, which struggles when queries require hierarchical or relational reasoning across structured knowledge. I present HG-RAG (Hierarchy-Guided RAG), a framework that performs graph-traversal over a hierarchical"
+        },
+        {
+          "title": "IMEX Interaction-Based Model Explanation",
+          "link": "https://arxiv.org/abs/2607.14096",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14096v1 Announce Type: new \nAbstract: In predictive modeling, the ability to explain why a model produces a given target prediction has become increasingly important [5, 10]. Black-box models do not provide a transparent description of the internal mechanisms that generate the prediction, making even accurate predictions difficult to interpret and validate. In critical contexts, predictive accuracy alone is not a sufficient validation metric if the reasons underlying model decisions r"
+        },
+        {
+          "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+          "link": "https://arxiv.org/abs/2607.14097",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14097v1 Announce Type: new \nAbstract: We introduce RegNetAgents, an AI-oriented multi-agent framework for structured, query-driven regulatory candidate identification across heterogeneous gene regulatory networks. The system enables unified analysis of bulk tumor and single-cell-derived ARACNe networks by integrating TCGA-derived cancer networks with large-scale single-cell regulatory networks from the GREmLN project. For a given focal gene, the framework performs dual-network classif"
+        },
+        {
+          "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
+          "link": "https://arxiv.org/abs/2607.14115",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14115v1 Announce Type: new \nAbstract: Inspired by how humans communicate spatial information, language-guided geo-localization has gained significant traction for its intuitive and practical value. Despite this progress, most methods still rely on a static, one-shot retrieval paradigm, which fails to handle the ambiguity and incompleteness inherent in real-world natural language descriptions. We propose a paradigm shift to reasoning retrieval and introduce Dialogue Place Recognition ("
+        },
+        {
+          "title": "Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+          "link": "https://arxiv.org/abs/2607.14126",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14126v1 Announce Type: new \nAbstract: Type 1 Diabetes (T1D) is a chronic, life-threatening autoimmune condition characterized by the complete destruction of insulin-producing pancreatic beta cells. While Artificial Pancreas Systems (APS) powered by Reinforcement Learning (RL) have shown promise in automating insulin delivery, their ``black-box'' nature makes it hard for patients and doctors to trust them fully. This paper presents LLM-T1D, a promising approach that combines the precis"
+        },
+        {
+          "title": "Human AI Construction of Bayesian Networks for Operational Decision Support -- A Virtual Survey Approach",
+          "link": "https://arxiv.org/abs/2607.14141",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14141v1 Announce Type: new \nAbstract: Bayesian Belief Networks (BBNs) are powerful tools for decision-making under uncertainty. However, building their structures and estimating parameters are difficult. Currently, researchers must choose between relying on expert judgement or using large datasets to learn the structure and parameters of the network. We propose a new methodology using Large Language Models to bridge the gap between expert opinion and data-driven learning. This approac"
+        },
+        {
+          "title": "Capability from Access Structure, Not Scale: Lower Bounds and Pre-Registered Tests for Hybrid Sequence Models",
+          "link": "https://arxiv.org/abs/2607.14144",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14144v1 Announce Type: new \nAbstract: The Platonic Representation Hypothesis (PRH) holds that as models scale, representations of heterogeneous networks converge toward a shared model of reality. We propose its sequel and boundary, the Capability Convergence Hypothesis (CCH): under a fixed per-token inference budget, representational convergence does not entail capability convergence. Capability instead converges toward a class, the access-complete hybrid: any architecture holding bot"
+        },
+        {
+          "title": "ToolAnchor: Anchoring Counterfactual Context to Boost Agentic Tool-use Capability",
+          "link": "https://arxiv.org/abs/2607.14145",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14145v1 Announce Type: new \nAbstract: Tool-augmented large language model agents excel at long-horizon tasks, yet they are typically post-trained on fixed toolsets. When tasks demand new tools, these agents struggle to incorporate them effectively, and retraining from scratch is often impractical. We identify the core obstacle in such toolset expansion problem as behavioral inertia: the tendency of agents to fall back on familiar tools and established reasoning patterns despite having"
+        },
+        {
+          "title": "Enhancing Small Language Models Reasoning through Knowledge Graph Grounding",
+          "link": "https://arxiv.org/abs/2607.14149",
+          "pubDate": "Fri, 17 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.14149v1 Announce Type: new \nAbstract: Although large language models (LLMs) have set benchmarks for zero-shot reasoning, their deployment remains cost-prohibitive and environmentally taxing. Small Language Models (SLMs) offer a sustainable alternative, but prone to errors, on tasks requiring complex, multi-hop logical grounding. We investigate a neuro-symbolic agentic framework to enhance the reasoning capabilities of SLMs, specifically Gemma 3 (1B, 4B) and Llama 3.2 (3B), using the C"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "NBER WP",
+      "url": "https://www.nber.org/rss/new.xml",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: HTTP Error 403: Forbidden"
+    },
+    {
+      "category": "academia",
+      "name": "HBS Working Knowledge",
+      "url": "https://hbswk.hbs.edu/rss/all.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Inside One Startup's Journey to Break Down Hiring (and Funding) Barriers",
+          "link": "https://hbswk.hbs.edu/item/inside-one-startups-journey-to-break-down-hiring-and-funding-barriers?cid=wk-rss",
+          "pubDate": "2024-11-12T09:59:10Z",
+          "summary": ""
+        },
+        {
+          "title": "What Wartime Service Taught These Historic Leaders",
+          "link": "https://hbswk.hbs.edu/item/what-wartime-service-taught-these-historic-leaders?cid=wk-rss",
+          "pubDate": "2024-11-08T11:39:18Z",
+          "summary": ""
+        },
+        {
+          "title": "How Private Investors Can Help Solve Africa's Climate Crisis",
+          "link": "https://hbswk.hbs.edu/item/how-private-investors-can-help-solve-africas-climate-crisis?cid=wk-rss",
+          "pubDate": "2024-11-08T10:24:08Z",
+          "summary": ""
+        },
+        {
+          "title": "Building the Road to 'Small Business Utopia' with AI and Fintech",
+          "link": "https://hbswk.hbs.edu/item/building-the-road-to-small-business-utopia-with-ai-and-fintech?cid=wk-rss",
+          "pubDate": "2024-11-05T11:35:35Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Can Help Leaders Communicate, But Can't Make Employees Listen",
+          "link": "https://hbswk.hbs.edu/item/ai-can-help-leaders-communicate-but-cant-make-employees-listen?cid=wk-rss",
+          "pubDate": "2024-11-05T08:46:59Z",
+          "summary": ""
+        },
+        {
+          "title": "Layoffs Surging in a Strong Economy? Advice for Navigating Uncertain Times",
+          "link": "https://hbswk.hbs.edu/item/layoffs-surging-in-strong-economy-advice-for-navigating-uncertain-times?cid=wk-rss",
+          "pubDate": "2024-11-01T13:41:06Z",
+          "summary": ""
+        },
+        {
+          "title": "Can a Coffee Shop in Utah Help Solve Underemployment for People with Disabilities?",
+          "link": "https://hbswk.hbs.edu/item/cold-call-can-a-coffee-shop-in-utah-help-solve-underemployment-for-people-with-disabilities?cid=wk-rss",
+          "pubDate": "2024-10-29T10:21:47Z",
+          "summary": ""
+        },
+        {
+          "title": "Latino Voters Have Grown More Politically Divided. That’s Not Surprising.",
+          "link": "https://hbswk.hbs.edu/item/democrats-are-losing-latino-voters-thats-not-surprising?cid=wk-rss",
+          "pubDate": "2024-10-29T13:42:03Z",
+          "summary": ""
+        },
+        {
+          "title": "Charting the US-China Trade War: What Does 'Made in Vietnam' Mean?",
+          "link": "https://hbswk.hbs.edu/item/charting-the-us-china-trade-war-whats-made-in-vietnam?cid=wk-rss",
+          "pubDate": "2024-10-24T10:00:03Z",
+          "summary": ""
+        },
+        {
+          "title": "With Millions of Workers Juggling Caregiving, Employers Need to Rethink Support",
+          "link": "https://hbswk.hbs.edu/item/with-millions-of-workers-juggling-caregiving-employers-need-to-rethink?cid=wk-rss",
+          "pubDate": "2024-10-29T15:53:04Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "think_tank",
+      "name": "RAND",
+      "url": "https://www.rand.org/blog.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/bilateral-ai-partnerships-alone-wont-secure-australia.html",
+          "pubDate": "2026-07-14T09:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Making Health Insurance More Affordable: Q&A with Christine Eibner",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/making-health-insurance-more-affordable-qa-with-christine-eibner.html",
+          "pubDate": "2026-07-09T09:30:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html",
+          "pubDate": "2026-07-02T14:15:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Los Angeles' Homelessness Strategy Needs a Next Act",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/los-angeles-homelessness-strategy-needs-a-next-act.html",
+          "pubDate": "2026-06-30T15:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Israel's Isolation Is Deepening Fast. It Doesn't Have to Be This Way.",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/israels-isolation-is-deepening-fast-it-doesnt-have.html",
+          "pubDate": "2026-06-27T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "The Texas Screwworm Cases Are a Wake-Up Call for U.S. Biosecurity",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/the-texas-screwworm-cases-are-a-wake-up-call-for-us.html",
+          "pubDate": "2026-06-26T16:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Why Human Intelligence Matters More in an AI World",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/why-human-intelligence-matters-more-in-an-ai-world.html",
+          "pubDate": "2026-06-22T18:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "The RAND School Is Rethinking Higher Ed: Q&A with Nancy Staudt",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/the-rand-school-is-rethinking-higher-ed-qa-with-nancy.html",
+          "pubDate": "2026-06-16T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Will We Know If AI Takes Over? Q&A with Benjamin Boudreaux",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/will-we-know-if-ai-takes-over-qa-with-benjamin-boudreaux.html",
+          "pubDate": "2026-06-10T13:45:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Rebuilding Trust in Global Biosecurity",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/rebuilding-trust-in-global-biosecurity.html",
+          "pubDate": "2026-06-10T13:00:00Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Sequoia",
+      "url": "https://www.sequoiacap.com/feed/",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes",
+          "link": "https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/",
+          "pubDate": "Thu, 16 Jul 2026 17:00:13 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/\">Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Sable: Closing the Diffusion Gap",
+          "link": "https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/",
+          "pubDate": "Thu, 16 Jul 2026 16:00:02 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/\">Partnering with Sable: Closing the Diffusion Gap</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Probook: AI for the Trades",
+          "link": "https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/",
+          "pubDate": "Tue, 23 Jun 2026 13:00:09 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/\">Partnering with Probook: AI for the Trades</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Listen to the Market",
+          "link": "https://sequoiacap.com/article/listen-to-the-market/",
+          "pubDate": "Mon, 01 Jun 2026 20:32:11 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/listen-to-the-market/\">Listen to the Market</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "All Systems Nominal – Nominal Spotlight",
+          "link": "https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/",
+          "pubDate": "Thu, 21 May 2026 15:35:44 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/\">All Systems Nominal &#8211; Nominal Spotlight</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "AI Ascent 2026",
+          "link": "https://sequoiacap.com/article/ai-ascent-2026/",
+          "pubDate": "Fri, 08 May 2026 16:47:31 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/ai-ascent-2026/\">AI Ascent 2026</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Standard Intelligence: Training General Intelligence in Pixel Space",
+          "link": "https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/",
+          "pubDate": "Thu, 30 Apr 2026 14:00:29 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/\">Standard Intelligence: Training General Intelligence in Pixel Space</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience",
+          "link": "https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/",
+          "pubDate": "Mon, 27 Apr 2026 14:15:11 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-ineffable-intelligence-a-superlearner-for-the-era-of-experience/\">Partnering with Ineffable Intelligence: A Superlearner for the Era of Experience</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Auctor",
+          "link": "https://sequoiacap.com/article/partnering-with-auctor/",
+          "pubDate": "Wed, 15 Apr 2026 16:00:05 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-auctor/\">Partnering with Auctor</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "From Hierarchy to Intelligence",
+          "link": "https://sequoiacap.com/article/from-hierarchy-to-intelligence/",
+          "pubDate": "Tue, 31 Mar 2026 15:11:54 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/from-hierarchy-to-intelligence/\">From Hierarchy to Intelligence</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/blog/rss.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Christopher Golda and Grey Baker Join YC as General Partners",
+          "link": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/",
+          "pubDate": "Tue, 16 Jun 2026 16:14:22 GMT",
+          "summary": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners."
+        },
+        {
+          "title": "Diana Hu Is YC's Newest Managing Partner",
+          "link": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
+          "pubDate": "Thu, 11 Jun 2026 17:01:59 GMT",
+          "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator.\n\nFew people have built a startup from zero and also shipped tech to 100 million people. Diana has done both."
+        },
+        {
+          "title": "Harshita Arora Joins YC as General Partner",
+          "link": "https://www.ycombinator.com/blog/welcome-harshita/",
+          "pubDate": "Mon, 06 Apr 2026 16:00:00 GMT",
+          "summary": "We're thrilled to announce that Harshita Arora is joining Y Combinator as a General Partner.  She brings deep fintech and infrastructure experience, a founder's instinct for product, and the perspective of someone who's been building companies since she was a teenager."
+        },
+        {
+          "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+          "link": "https://www.ycombinator.com/blog/adding-canada-back/",
+          "pubDate": "Thu, 05 Feb 2026 17:00:00 GMT",
+          "summary": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation."
+        },
+        {
+          "title": "Congratulations to EquipmentShare on Going Public",
+          "link": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare/",
+          "pubDate": "Fri, 23 Jan 2026 15:59:00 GMT",
+          "summary": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone."
+        },
+        {
+          "title": "Announcing the YC AI Stack",
+          "link": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/",
+          "pubDate": "Fri, 16 Jan 2026 20:40:39 GMT",
+          "summary": "We've partnered with nearly two dozen companies to offer students who attend YC events a suite of over $25,000 in free credits for AI devtools."
+        },
+        {
+          "title": "2026 Demo Day Dates",
+          "link": "https://www.ycombinator.com/blog/2026-demo-days/",
+          "pubDate": "Thu, 18 Dec 2025 19:44:54 GMT",
+          "summary": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead."
+        },
+        {
+          "title": "Meesho Goes Public",
+          "link": "https://www.ycombinator.com/blog/meesho-goes-public/",
+          "pubDate": "Wed, 10 Dec 2025 04:32:10 GMT",
+          "summary": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses.\n\nCongrats to Vidit and Sanjeev on a decade of relentless building and listening to users!"
+        },
+        {
+          "title": "Congratulations to Groww",
+          "link": "https://www.ycombinator.com/blog/groww/",
+          "pubDate": "Wed, 12 Nov 2025 03:47:51 GMT",
+          "summary": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud."
+        },
+        {
+          "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+          "link": "https://www.ycombinator.com/blog/billiontoone/",
+          "pubDate": "Thu, 06 Nov 2025 15:52:00 GMT",
+          "summary": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "hr_media",
+      "name": "HBR",
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Why Extreme Heat Is a Business Issue",
+          "link": "/2026/07/why-extreme-heat-is-a-business-issue",
+          "pubDate": "2026-07-17T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "How Highly Effective Global Teams Collaborate Across Cultures",
+          "link": "/2026/07/how-highly-effective-global-teams-collaborate-across-cultures",
+          "pubDate": "2026-07-17T14:30:21Z",
+          "summary": ""
+        },
+        {
+          "title": "Research Roundup: The Death of the Cover Letter, Boring Meetings, Wide Salary Ranges, and More",
+          "link": "/2026/07/research-roundup-the-death-of-the-cover-letter-boring-meetings-wide-salary-ranges-and-more",
+          "pubDate": "2026-07-16T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Leadership Summit 2026: AT&T CEO John Stankey on Developing Technology and Talent in the AI Era",
+          "link": "/podcast/2026/07/leadership-summit-2026-att-ceo-john-stankey-on-developing-technology-and-talent-in-the-ai-era",
+          "pubDate": "2026-07-16T15:02:31Z",
+          "summary": ""
+        },
+        {
+          "title": "Stop AI from Eroding Your Brand",
+          "link": "/2026/07/stop-ai-from-eroding-your-brand",
+          "pubDate": "2026-07-16T12:05:50Z",
+          "summary": ""
+        },
+        {
+          "title": "4 Hidden Traps of Team Dynamics",
+          "link": "/2026/07/4-hidden-traps-of-team-dynamics",
+          "pubDate": "2026-07-15T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Are You Biased Toward Job Candidates Who Reply Quickly?",
+          "link": "/2026/07/are-you-biased-toward-job-candidates-who-reply-quickly",
+          "pubDate": "2026-07-15T13:16:18Z",
+          "summary": ""
+        },
+        {
+          "title": "The Best Teams Know When to Work Alone",
+          "link": "/2026/07/the-best-teams-know-when-to-work-alone",
+          "pubDate": "2026-07-14T13:28:34Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Can Measure How ESG Really Impacts the Bottom Line",
+          "link": "/2026/07/ai-can-measure-how-esg-really-impacts-the-bottom-line",
+          "pubDate": "2026-07-14T12:05:46Z",
+          "summary": ""
+        },
+        {
+          "title": "The New Rules for Becoming an Enterprise Leader",
+          "link": "/podcast/2026/07/the-new-rules-for-becoming-an-enterprise-leader",
+          "pubDate": "2026-07-14T10:49:00Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "china",
+      "name": "36Kr",
+      "url": "https://36kr.com/feed",
+      "priority": 2,
+      "items": [
+        {
+          "title": "氪星晚报｜阿里1688将推出AI时代B2B交易互联互通开放标准；英特尔与Google Cloud宣布深化战略合作；铁路部门试点提前60天预约购票服务",
+          "link": "https://36kr.com/p/3896564485572489?f=rss",
+          "pubDate": "2026-07-17 21:01:42  +0800",
+          "summary": "<h2><strong>大公司：</strong></h2>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3899467569104512\"><strong>成大生物：流感病毒裂解疫苗（高剂量）进入I期临床试验</strong></a></p>\n  <p>36氪获悉，成大生物公告，公司全资子公司成大生物(本溪)研发的流感病毒裂解疫苗（高剂量）已获国家药监局临床试验批准，并完成I期临床试验筹备工作，正式进入I期临床试验阶段。该疫苗抗原含量为常规剂量四倍，适用于60岁以上老年人群及高风险人群，国内尚无同类产品获批上市，有望填补市场空白。</p>\n  <p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://36kr.com/newsflashes/3899337546712969\"><strong>苏宁易购携手人工智能合作伙伴，布局家用服务机器人</strong></a></p>\n  <p>36氪获悉"
+        },
+        {
+          "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
+          "link": "https://36kr.com/p/3899556701128578?f=rss",
+          "pubDate": "2026-07-17 18:51:22  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1212,810\" src=\"https://img.36krcdn.com/hsossms/20260717/v2_605a8a8a4b8640158de83a7aa88b025f@6381723_oswg84170oswg1212oswg810_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1\"></p>\n  <p><strong>7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。</strong>森博科技董事长于林义<strong>在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。</strong></p>\n  <p><strong>本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年"
+        },
+        {
+          "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
+          "link": "https://36kr.com/p/3899597215745664?f=rss",
+          "pubDate": "2026-07-17 18:45:58  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"900,480\" src=\"https://img.36krcdn.com/hsossms/20260717/v2_11cad3dae776450b9505ddcb5be2a14b@5889148_oswg528857oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">&nbsp;</p>\n  <p>人工智能正在进入一个新的产业周期。</p>\n  <p>过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。</p>\n  <p>市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到93"
+        },
+        {
+          "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+          "link": "https://36kr.com/p/3899439565325953?f=rss",
+          "pubDate": "2026-07-17 15:55:26  +0800",
+          "summary": "<p>随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。</p>\n  <p>7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。</p>\n  <p>据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试平台，可同步完成多台设备性能检测，并通过智能系统辅助进行产品状态监测和故障识别。</p>\n  <p>按照规划，量产的星载激光通信终端通信速率覆盖5Gbps至100Gbps，具备体积小、功耗低、抗干扰能力强等特点，可适配不同类型低轨卫星星座。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"712,530\" src=\"https://img.36krc"
+        },
+        {
+          "title": "我们有多久，没长久地喜欢过一个东西了？",
+          "link": "https://36kr.com/p/3899428949132932?f=rss",
+          "pubDate": "2026-07-17 15:46:38  +0800",
+          "summary": "<p>我们有多久没有长久地喜欢过一个东西了？</p>\n  <p>在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。</p>\n  <p>但在这个热闹又健忘的环境里，却存在着反常的例外——<strong>一个不说话，甚至从不微笑的潮流手办，竟然被人们安静地喜爱了整整二十年。 &nbsp;</strong></p>\n  <p>为什么不同年龄、不同背景的人，都愿意和她建立情感链接？为什么每个人眼里的她，好像都不太一样，却又都觉得她始终陪伴着自己？</p>\n  <p><strong>带着这些疑问，我们一起重新回看MOLLY这个潮流手办的20年。</strong></p>\n  <h2><strong>不被定义的“不讨好”</strong></h2>\n  <p>北京798的展厅里，人比想象中还要多。</p>\n  <p>仔细观察看展人潮，你会发现他们来自不同的世界：<strong>有60多岁的奶奶，牛仔裤、白T恤，看起来特别潮流，</strong>她已经喜欢MOLLY十多年了。走"
+        },
+        {
+          "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
+          "link": "https://36kr.com/p/3899398088509319?f=rss",
+          "pubDate": "2026-07-17 15:13:05  +0800",
+          "summary": "<p>[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、上行边缘差点（&lt;20Mbps）占比仅0.1%。优异的现网测评结果标志着联通好网络在北京区域已经从5G-A全城点亮迈向全域大上行的发展新阶段。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1990,660\" src=\"https://img.36krcdn.com/hsossms/20260717/v2_f3e09491e03042b7a249906c12161a42@517825446_oswg1556881oswg1990oswg660_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"></p>\n  <p class=\"img-des"
+        },
+        {
+          "title": "震业新材完成超亿元A轮融资，招商致远、玉柴股份、海富产业基金领投｜36氪首发",
+          "link": "https://36kr.com/p/3898476192941697?f=rss",
+          "pubDate": "2026-07-17 13:41:21  +0800",
+          "summary": "<p>36氪获悉，ADI金属材料企业震业新材近期完成超亿元A轮融资。</p>\n  <p>本轮融资由招商致远资本、玉柴股份、海富产业基金领投，中金资本、江苏省沿海集团、黄海金控跟投，所融资金将主要用于ADI材料产线扩建、核心工艺迭代研发，以及乘用车、商用车、工程机械等下游场景的商业化落地。</p>\n  <p>震业新材告诉36氪：“在ADI行业，1200MPa抗拉强度、4%延伸率是行业通用性能标准。延伸率达到5%~6%以上，才算真正意义的高韧性结构材料，这也是行业关键技术分水岭，高强韧性可满足齿轮、底盘、重载传动等核心安全件的抗冲击、抗疲劳、不断裂要求。”</p>\n  <p>而行业主流厂商的技术水平，普遍停留在QTD 900-8（900MPa抗拉强度、8%延伸率）、QTD1200-3（1200MPa抗拉强度、3%延伸率）QTD 1400-1（1400MPa抗拉强度、1%延伸率）、QTD 1600-1（1600MPa抗拉强度、1%延伸率），也就是说，高强度下延伸率极低，无法适配高端重载、精密齿轮核心工况。 “</p>\n  <p>震业新材在2024年实现关键技术突破，具备了量产 QTD 120"
+        },
+        {
+          "title": "36氪首发 | 港科大博士创业做机器人全身触觉系统，红杉、瓴智、智元共同押注",
+          "link": "https://36kr.com/p/3899128277452681?f=rss",
+          "pubDate": "2026-07-17 10:39:17  +0800",
+          "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，全身多模态融合触觉解决方案公司模感科技（MoSense）近日完成数千万元天使轮融资，投资方包括红杉中国、高瓴创投及智元机器人。本轮融资资金将主要用于加速研发、团队扩充、算力投入及量产测试体系建设。</p>\n  <p>模感科技成立于2026年5月，总部注册于上海，在深圳前海设有研发中心，聚焦机器人全身多模态触觉感知系统研发。公司正式成立仅一个月便获得头部美元基金及人形厂商的共同押注。</p>\n  <p>随着人形机器人逐步从展示场景走向工业制造、物流搬运及家庭服务等真实复杂人物场景，机器人对环境的全面泛化感知能力正成为制约落地的重要瓶颈。相比视觉能够获取环境信息，触觉负责感知接触、受力、摩擦等物理交互状态，是机器人完成稳定操作和自主决策的重要基础。</p>\n  <p>不过，目前行业中的触觉方案大多集中部署于灵巧手或夹爪指尖指腹等局部位置，仅能应对局部精细操作需求。在复杂场景下，机器人身体其他部位仍然缺乏触觉反馈，难以形成完整的物理交互能力。同时，多种传统技术路线还"
+        },
+        {
+          "title": "36氪首发 | 前蔚来、华为智驾核心成员联手创业具身世界模型，三个月内完成数亿元融资",
+          "link": "https://36kr.com/p/3899081603483525?f=rss",
+          "pubDate": "2026-07-17 09:52:16  +0800",
+          "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，具身智能世界模型公司日冕开物（北京日冕机器人有限公司）近期完成连续两轮种子轮融资，融资合计金额达数亿元人民币，由鼎峰科创、远图未来、百度风投、沃衍资本、武岳峰科创、万林国际共同参与投资。同时，新一轮融资也在同步交割中。</p>\n  <p>此前融资资金主要用于自研世界模型 LaMPA 的研发迭代、强化学习体系建设，以及数据闭环和产品交付能力的持续完善。</p>\n  <p>日冕开物成立于2026年3月，聚焦物理世界基础模型研发，希望打造能够理解物理世界、预测环境变化并驱动机器人执行任务的基础模型，帮助机器人从单一场景能力，逐步迈向跨场景泛化。</p>\n  <p><strong>日冕创始团队均为清华自动驾驶背景，主导过行业首批智驾世界模型研发落地以及首批具身强化学习与交付工作。</strong>创始人肖中阳博士，曾主导智驾行业首个复杂交互场景的世界模型交付，该模型已搭载超过70万辆蔚来汽车；团队基座模型负责人，“华为天才少年”钟元鑫博士，曾主导华为新一代智驾世界模型"
+        },
+        {
+          "title": "36氪首发 | 这家人形机器人ODM厂商获千万融资，飞荣达、索辰科技接连下注",
+          "link": "https://36kr.com/p/3899057634363266?f=rss",
+          "pubDate": "2026-07-17 09:26:47  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1202,684\" src=\"https://img.36krcdn.com/hsossms/20260717/v2_50b87c3fce99434187077587e61d999f@6221844_oswg477499oswg1202oswg684_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源/企业</p>\n  <blockquote>\n   <p>本文约<strong>2400</strong>字，建议阅读<strong>6</strong>分钟</p>\n  </blockquote>\n  <p>作者丨欧雪</p>\n  <p>编辑丨袁斯来</p>\n  <p>硬氪获悉，人形机器人ODM方案商半醒具身（BXI Robotics）于近期完成千万元级新一轮融资，投资方为A股上市公司索辰科技。本轮资金将主要用于下一代人形机器人研发及海外市场拓展。此前，"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "consulting",
+      "name": "BCG (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Boston+Consulting+Group%22+future+of+work&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Deloitte (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Deloitte%22+human+capital+trends&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Accenture (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Accenture%22+talent+%22future+of+work%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "vc",
+      "name": "a16z (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Andreessen+Horowitz%22+OR+%22a16z%22+AI+agent&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "think_tank",
+      "name": "Brookings (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Brookings%22+AI+labor+market&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "category": "think_tank",
+      "name": "WEF (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22World+Economic+Forum%22+%22future+of+jobs%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "hr_media",
+      "name": "Mercer (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Mercer%22+total+rewards+OR+compensation&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "hr_media",
+      "name": "WTW (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Willis+Towers+Watson%22+compensation+pay&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    }
+  ],
+  "success_count": 10,
+  "failure_count": 9
+}
