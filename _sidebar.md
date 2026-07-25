@@ -74,7 +74,8 @@
   - [📖 12 个核心术语](dictionary/glossary.md)
 
 - 📈 数据看板
-  - [2026-06-14 · 关键数据速查](dashboard/2026-06-14-snapshot.md)
+  - [2026-07-25 · 关键数据速查 ⭐](dashboard/2026-07-25-snapshot.md)
+  - [2026-06-14 · 历史快照](dashboard/2026-06-14-snapshot.md)
 
 - 📅 行业议程
   - [2026 H2 · 全球 HR 大会日历](events/2026-h2-calendar.md)

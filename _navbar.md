@@ -7,5 +7,5 @@
 - [📊 案例](cases/README.md)
 - [📚 阅读](readings/README.md)
 - [🧭 词典](dictionary/glossary.md)
-- [📈 数据](dashboard/2026-06-14-snapshot.md)
+- [📈 数据](dashboard/2026-07-25-snapshot.md)
 - [📅 议程](events/2026-h2-calendar.md)
