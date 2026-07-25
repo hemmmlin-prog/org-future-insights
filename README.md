@@ -9,42 +9,42 @@
 
 | 板块 | 你在这里能得到什么 | 入口 |
 |---|---|---|
-| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-07-19-visual.md) |
+| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-07-25-visual.md) |
 | 🏢 **公司 & 关键人** | OpenAI / GitHub / Samsung / YC 等顶尖公司 + CEO/VC 言论追踪 | [👉 进入](companies/README.md) |
 | 🎓 **报告 & 研究** ⭐ | McKinsey / NBER / Sequoia 等权威报告及研究论文（**HR 同事最常用**） | [👉 进入](research/README.md) |
 | 📊 **转型案例** | AI 转型成功 ✅ vs 失败 ❌ 案例库 + 中国硬科技创业融资 | [👉 进入](cases/README.md) |
 | 📚 **延伸阅读** | HBR / Sequoia / OpenAI 深度长文 + 编辑导读 | [👉 进入](readings/README.md) |
 | 🧭 **HR 词典** | 12+ HR/组织新概念中英对照（agentic / orchestrator / mindset...） | [👉 进入](dictionary/glossary.md) |
-| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-07-19.md) |
-| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-07-19.md) |
+| 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/auto-2026-07-25.md) |
+| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-07-25.md) |
 
 ---
 
-### 🔥 今日精华（2026-07-19）
+### 🔥 今日精华（2026-07-25）
 
-> 抓取窗口：2026-07-19 06:04 · 信源覆盖：10 源成功 / 100 条 items / 命中 consulting + tech + academia + think_tank + vc + hr_media + china
-> 完整阅读：[👉 可视化版](daily-reports/2026-07-19-visual.md) · [👉 纯文字版](daily-reports/2026-07-19-auto.md)
+> 抓取窗口：2026-07-25 06:10 · 信源覆盖：11 源成功 / 110 条 items / 命中 consulting + tech + academia + think_tank + vc + hr_media + china
+> 完整阅读：[👉 可视化版](daily-reports/2026-07-25-visual.md) · [👉 纯文字版](daily-reports/2026-07-25-auto.md)
 
 ### 三条核心信号
 
-1. **📊 AI 投资 ROI 从"模型调用次数"转向"有用工作量"**——OpenAI CFO Sarah Friar《A scorecard for the AI age》提出四维评估框架（每美元有用工作量 / 单次成功任务成本 / 系统依赖性 / 单位算力回报）；GitHub 指出"写代码成本降了，拥有代码的成本没降"。HR 需联合 IT/业务定义"有用工作量"的岗位级指标，把系统所有权、文档责任纳入技术岗晋升硬条件。 [详情](daily-reports/2026-07-19-visual.md)
-2. **🫂 强经济裁员从"成本优化"转向"心智重置"**——HBS 指出经济向好期仍高频 RIF；McKinsey《The CEO's role in transformation》揭示转型失败主因是激励错配/部门孤岛/风险规避。HR 应把裁员沟通升级为"新能力契约"，公开能力冗余类型并配套内部转岗的心智适配测评。（反方：Sequoia 主张靠赋予实时数据+决策权而非减员释放产能） [详情](daily-reports/2026-07-19-visual.md)
-3. **🕵️ 地下 AI 使用（Underground AI Use）演变为 TCC 关键变量**——GitHub 证实无统一提示词库时 Copilot 审查误报率激增；OpenAI 案例显示 37% 销售代表自调提示词绕过合规。HR 须将"AI 工具使用合规性"纳入总薪酬成本（TCC）核算，按月申报自主部署工具数/替代 FTE 数/额外法务安全投入。（反方：HBR 警示强制登记会催生更隐蔽的 Shadow AI） [详情](daily-reports/2026-07-19-visual.md)
+1. **📈 AI 让"连续财务规划"规模化，HR 需与财务深度协同**——McKinsey：AI 使大规模连续财务规划变得可行，组织可更早识别风险、更快评估权衡、在业绩差距扩大前干预。HR 应与财务部门紧密协作，确保员工具备 AI 工具能力并为组织变革做准备。（反方：NBER 指出 AI 实际落地仍面临数据隐私与安全问题） [详情](daily-reports/2026-07-25-visual.md)
+2. **🏥 AI 嵌入工作流把技术转化为企业价值（医疗实证）**——McKinsey：Montefiore Einstein 医院系统通过强化数字工具、现代化系统、全流程嵌入 AI，成为患者可及性、运营可靠性与业务增长的驱动力。HR 需关注能管理/优化 AI 系统的专业人才需求并配套培训。（反方：HBR 警示医疗 AI 的伦理与法律风险需审慎处理） [详情](daily-reports/2026-07-25-visual.md)
+3. **🚀 AI 在中小企业普及推动创新增长**——OpenAI 推出 ChatGPT for Small Businesses，帮助创业者建立 AI 技能、自动化工作并借 ChatGPT Work 增长。HR 应关注中小企业 AI 采用需求，提供培训与支持。（反方：RAND 指出中小企业采用 AI 面临技术与资金双重挑战） [详情](daily-reports/2026-07-25-visual.md)
 
 ### 高价值素材亮点
-- OpenAI《A scorecard for the AI age》（Sarah Friar）· GitHub《The cost of owning code》· McKinsey《The CEO's role in transformation》· HBS 强经济裁员研究 · Sequoia《From Hierarchy to Intelligence》· HBR《Stop AI from Eroding Your Brand》· 36Kr 智谱 AI ARR 破 10 亿美元 · [完整 8 板块](daily-reports/2026-07-19-visual.md)
+- McKinsey《AI-enabled continuous financial planning》· Montefiore Einstein AI 医疗转型案例 · OpenAI《ChatGPT for Small Businesses》· NBER AI 数据隐私研究 · RAND 中小企业 AI 采用挑战 · 36Kr 字节/阿里健康 AI 实践 · [完整 8 板块](daily-reports/2026-07-25-visual.md)
 
 ---
 
-### 💼 本周 HR 行动速查（截至 7-19）
+### 💼 本周 HR 行动速查（截至 7-25）
 
 | 优先级 | 行动 | 时间窗 | 依据 |
 |---|---|---|---|
-| 🔴 **高** | 在 HRIS 新增"AI 工具自主部署数"字段，要求各部门 7/26 前完成首期填报，并关联被替代 FTE 编号 | 本周 | 信号 3 |
-| 🟠 中 | 与 IT 上线"提示词合规检查"，嵌入钉钉/Teams 审批流，对含客户数据的合同/简历处理请求自动拦截 | 本月 | 信号 3 |
-| 🟠 中 | 设计"Mindset > Skillset"评估量表（Growth Mindset Index + AI 协作意愿 + 跨域迁移力），嵌入 Q3 绩效校准 | 本月 | 信号 2 |
-| 🟡 中低 | 组织"代码/工作流所有权"工作坊，产出《内部 AI 资产责任制 SOP》草案 | 本季 | 信号 1 |
-| 🟢 长期 | 启动"AI 时代 TCC 模型"建模，整合显性人力成本 + AI 采购费 + 数据治理投入 + 合规罚金 | 本年 | 信号 3 |
+| 🔴 **高** | 与财务部门共建"AI 连续财务规划"试点，明确 HR 侧的 AI 工具培训与变革配套 | 本周 | 信号 1 |
+| 🟠 中 | 盘点能管理/优化 AI 系统的专业人才缺口（尤其医疗/受监管行业），制定招聘+培训方案 | 本月 | 信号 2 |
+| 🟠 中 | 建立 AI 落地的数据隐私/安全与伦理合规检查点，纳入人才与流程管理 | 本月 | 信号 1+2 |
+| 🟡 中低 | 面向中小业务单元推广 AI 技能建设，参考 ChatGPT for Small Businesses 模式 | 本季 | 信号 3 |
+| 🟢 长期 | 建立"人类优势"能力模型（复杂决策/伦理判断/跨域理解），对冲纯技能量化偏差 | 本年 | 信号 2 |
 
 ---
 
@@ -83,7 +83,7 @@
 
 - **更新频率**：每天凌晨 06:00 自动抓取最新素材，上午由 HR / Agent 触发深度分析
 - **数据来源**：100% 公开权威源，本地运行不上传任何云端
-- **版本**：v0.5.4（2026-07-19）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
+- **版本**：v0.5.6（2026-07-25）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
 
 ---
 
