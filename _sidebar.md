@@ -4,6 +4,16 @@
   - [🏠 今日洞察](README.md)
 
 - 📅 每日日报
+  - [2026-07-25 · 自动版](daily-reports/2026-07-25-auto.md)
+  - [2026-07-25 · 可视化](daily-reports/2026-07-25-visual.md)
+  - [2026-07-23 · 自动版](daily-reports/2026-07-23-auto.md)
+  - [2026-07-23 · 可视化](daily-reports/2026-07-23-visual.md)
+  - [2026-07-22 · 自动版](daily-reports/2026-07-22-auto.md)
+  - [2026-07-22 · 可视化](daily-reports/2026-07-22-visual.md)
+  - [2026-07-21 · 自动版](daily-reports/2026-07-21-auto.md)
+  - [2026-07-21 · 可视化](daily-reports/2026-07-21-visual.md)
+  - [2026-07-24 · 自动版](daily-reports/2026-07-24-auto.md)
+  - [2026-07-24 · 可视化](daily-reports/2026-07-24-visual.md)
   - [2026-07-19 · 自动版](daily-reports/2026-07-19-auto.md)
   - [2026-07-19 · 可视化](daily-reports/2026-07-19-visual.md)
   - [2026-07-18 · 自动版](daily-reports/2026-07-18-auto.md)
