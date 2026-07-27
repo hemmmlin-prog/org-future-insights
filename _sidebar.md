@@ -4,6 +4,7 @@
   - [🏠 今日洞察](README.md)
 
 - 📅 每日日报
+  - [2026-07-27 · 自动版](daily-reports/2026-07-27-auto.md)
   - [2026-07-25 · 自动版](daily-reports/2026-07-25-auto.md)
   - [2026-07-25 · 可视化](daily-reports/2026-07-25-visual.md)
   - [2026-07-24 · 自动版](daily-reports/2026-07-24-auto.md)
