@@ -1,0 +1,780 @@
+{
+  "snapshot_time": "2026-07-30T06:00:02.592315+08:00",
+  "fetcher_version": "0.1",
+  "sources_count": 19,
+  "sources": [
+    {
+      "category": "consulting",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error _ssl.c:1112: The handshake operation timed out>"
+    },
+    {
+      "category": "tech",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
+          "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+        },
+        {
+          "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+          "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
+          "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+        },
+        {
+          "title": "Scientific computing in the age of agentic AI",
+          "link": "https://openai.com/index/scientific-computing-agentic-ai",
+          "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
+          "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+        },
+        {
+          "title": "How AI is expanding what people do at work",
+          "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
+          "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
+        },
+        {
+          "title": "Launching Health in ChatGPT",
+          "link": "https://openai.com/index/health-in-chatgpt",
+          "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
+          "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health."
+        },
+        {
+          "title": "Building AI infrastructure with the Effingham County community",
+          "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+          "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+        },
+        {
+          "title": "How news organizations are using AI to advance their vital missions",
+          "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+          "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+          "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide."
+        },
+        {
+          "title": "Advancing the next era of national science",
+          "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+          "pubDate": "Wed, 22 Jul 2026 12:00:00 GMT",
+          "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery."
+        },
+        {
+          "title": "Introducing OpenAI Presence",
+          "link": "https://openai.com/index/introducing-openai-presence",
+          "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
+          "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+        },
+        {
+          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+          "link": "https://openai.com/index/ntt-data",
+          "pubDate": "Wed, 22 Jul 2026 00:00:00 GMT",
+          "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+          "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+          "pubDate": "Wed, 29 Jul 2026 16:00:00 +0000",
+          "summary": "<p>Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/\">Tame Dependabot: Group your updates, slow the cadence, keep security fast</a> appeared first on <a href=\"http"
+        },
+        {
+          "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+          "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+          "pubDate": "Tue, 28 Jul 2026 16:00:00 +0000",
+          "summary": "<p>Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/\">Disrupting supply chain attacks on npm and GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "The harness is all you need (mostly)",
+          "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+          "pubDate": "Mon, 27 Jul 2026 18:00:00 +0000",
+          "summary": "<p>A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/\">The harness is all you need (mostly)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub Copilot app for Beginners: Getting started",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+          "pubDate": "Mon, 27 Jul 2026 16:00:00 +0000",
+          "summary": "<p>New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/\">GitHub Copilot app for Beginners: Getting started</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+          "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+          "pubDate": "Thu, 23 Jul 2026 16:00:00 +0000",
+          "summary": "<p>A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/\">The case for a cooldown: Why Dependabot now waits before issuing version updates</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Copilot vs. raw API access: What are you actually paying for?",
+          "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+          "pubDate": "Wed, 22 Jul 2026 19:00:00 +0000",
+          "summary": "<p>Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/\">Copilot vs. raw API access: What are you actually paying for?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+          "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+          "pubDate": "Wed, 22 Jul 2026 16:00:00 +0000",
+          "summary": "<p>GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team.</p>\n<p>The post <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">Next chapter: Restructuring GitHub&#8217;s bug bounty program</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How to build interactive experiences with canvases",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+          "pubDate": "Tue, 21 Jul 2026 16:00:00 +0000",
+          "summary": "<p>Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/\">How to build interactive experiences with canvases</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "$100 million for open source: A milestone built by the community",
+          "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+          "pubDate": "Mon, 20 Jul 2026 16:00:00 +0000",
+          "summary": "<p>Celebrating $100 million contributed by the community to the people who build and sustain open source every day.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/\">$100 million for open source: A milestone built by the community</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "The cost of saying yes has changed",
+          "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+          "pubDate": "Fri, 17 Jul 2026 16:46:47 +0000",
+          "summary": "<p>The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era.</p>\n<p>The post <a href=\"https://github.blog/engineering/the-cost-of-saying-yes-has-changed/\">The cost of saying yes has changed</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "arXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Do Models Fake Alignment Without Clear Consequences?",
+          "link": "https://arxiv.org/abs/2607.24758",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24758v1 Announce Type: new \nAbstract: Large language models are capable of recognizing evaluation contexts and altering their behavior to reflect evaluator expectations rather than typical deployment behaviors, a phenomenon known as alignment faking. The reasons why models fake alignment are not fully understood, however. Canonical examples of alignment faking have taken place in scenarios that explicitly connect evaluation to consequences for the model, such as retraining the model o"
+        },
+        {
+          "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+          "link": "https://arxiv.org/abs/2607.24759",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24759v1 Announce Type: new \nAbstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across se"
+        },
+        {
+          "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+          "link": "https://arxiv.org/abs/2607.24762",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24762v1 Announce Type: new \nAbstract: Machine learning models are increasingly embedded in everyday software, and most of their runtime is spent in a small set of compute kernels such as matrix multiplication, convolution, and normalization. Optimizing these kernels is one of the most direct ways to reduce latency and cost, but it has traditionally required expert engineers to hand-write low-level GPU code. Agentic systems built on large language models (LLMs) can now generate and opt"
+        },
+        {
+          "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+          "link": "https://arxiv.org/abs/2607.24763",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24763v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) are advancing rapidly, yet the evaluation standards needed to reliably interpret their progress have not kept pace. Despite MDLMs becoming competitive with autoregressive language models, seven recent remasking papers evaluate under incompatible settings, varying nominal step counts, metrics, and sampling temperatures without jointly controlling these factors, rendering their strategy rankings largely incom"
+        },
+        {
+          "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+          "link": "https://arxiv.org/abs/2607.24764",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24764v1 Announce Type: new \nAbstract: The rapid growth of online grocery shopping requires recommendation systems that capture cyclical purchasing behavior and diverse user intents. Traditional item-level methods face scalability and accuracy challenges, motivating category-level recommendation as a more structured and practical alternative. We present GROCLM, a fine-tuned language model for grocery category recommendation in a real-world production environment. GROCLM employs a two-s"
+        },
+        {
+          "title": "Crystalis: Progressive Nucleation and Semantic Annealing for Coordinated Multi-View Visualization Generation",
+          "link": "https://arxiv.org/abs/2607.24766",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24766v1 Announce Type: new \nAbstract: Large language models (LLMs) can generate individual charts, but coordinated multi-view visualizations (CMVs), where views share data flows and cross-view interactions, remain out of reach. Tight field-level coupling among data transformations, visual encodings, and interaction coordinations causes errors in one component to silently invalidate others. Rather than pursuing end-to-end analytical quality, which depends on model capability, domain kn"
+        },
+        {
+          "title": "PATHFinder Agent for Tailored Prenatal Care",
+          "link": "https://arxiv.org/abs/2607.24768",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24768v1 Announce Type: new \nAbstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of Obstetricians and Gynecologists (ACOG) recently introduced guidelines advocating tailored prenatal care, called PATH (Plan for Tailored Healthcare). We present PATHFinder Agent(Planner for Appropriate Tailored Healthcare), an end-to-end conversational agentic system that gathers patient health and social context through s"
+        },
+        {
+          "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+          "link": "https://arxiv.org/abs/2607.24769",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24769v1 Announce Type: new \nAbstract: With the growing capabilities of frontier models, AI alignment becomes increasingly critical in high-risk deployment settings. While recent work has empirically demonstrated in-context scheming -- the covert pursuit of misaligned objectives while feigning alignment -- in frontier language models, most work has been performed exclusively in English, leaving a major gap in multilingual safety. We apply Petri, an open-source automated auditing framew"
+        },
+        {
+          "title": "ProcAgent: An Agentic Framework for Procedural Task Guidance on Edge with Human-in-the-Loop",
+          "link": "https://arxiv.org/abs/2607.24770",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24770v1 Announce Type: new \nAbstract: Procedural tasks such as furniture assembly and home repair impose substantial cognitive demands because users must interpret instructions, track task progress, reason about spatial state, and recover from errors while performing physical actions. Prior multimodal assistants have shown promise for procedural guidance, but most rely on cloud inference and fixed always-on perception, making them poorly suited to privacy-sensitive, latency-critical d"
+        },
+        {
+          "title": "RoCo-ACE: Rollout-Conditioned Online Distillation for Retention-Aware Knowledge Injection",
+          "link": "https://arxiv.org/abs/2607.24771",
+          "pubDate": "Wed, 29 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.24771v1 Announce Type: new \nAbstract: Knowledge injection updates pretrained MLLMs with new factual or domain-specific knowledge, but fitting full authoritative answers can cause drift in non-updated behavior. Online distillation mitigates this drift by training on model-generated rollouts, yet uniform reference-conditioned distillation provides coarse supervision: it can under-emphasize reference-supported rollout tokens and supervise omitted facts only indirectly. We introduce RoCo-"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "NBER WP",
+      "url": "https://www.nber.org/rss/new.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Global Pension Asset Allocations and Debt Markets -- by Ding Ding, Xiang Fang, Bryan Hardy, Karen K. Lewis",
+          "link": "https://www.nber.org/papers/w35507#fromrss",
+          "pubDate": "",
+          "summary": "The pension sector is an important investor group in global financial markets and a key holder of government and corporate debt. This article examines the evolution of pension fund asset allocations around the globe and documents two important structural changes. First, pension investors have shifted portfolio share allocations away from fixed income securities. This trend is robust across Defined Contribution (DC) and Defined Benefit (DB) programs as well as country groups. Second, pensions hav"
+        },
+        {
+          "title": "Self-Fulfilling Credit Scores -- by Victor Duarte, Julia Fonseca",
+          "link": "https://www.nber.org/papers/w35508#fromrss",
+          "pubDate": "",
+          "summary": "A decline in credit scores can worsen the borrower's financial position, making default a self-fulfilling prophecy. We estimate the causal effect of credit scores on default using a rule that counts multiple inquiries within 14 days as one, moving scores without changing credit reports. Regression discontinuity estimates around the 14-day cut-off show that an additional counted inquiry lowers scores by five points on average. Default does not respond among consumers with clean records, but rises"
+        },
+        {
+          "title": "Trading Off Openness: Economic Information and Immigration Policy Preferences -- by Cristina Cattaneo, Daniela Grieco, Nicola Lacetera, Mario Macis",
+          "link": "https://www.nber.org/papers/w35509#fromrss",
+          "pubDate": "",
+          "summary": "We conducted a survey experiment with over 8,000 participants in Germany, Hungary, and Italy to examine how information about the economic impact of immigration affects the support for more open immigration policies. Respondents who received projections showing higher future incomes under more open immigration policies reported greater support for these policies. The treatment also partly changed how prior attitudes affected policy preferences. Structural estimates suggest that majority support "
+        },
+        {
+          "title": "Who is Afraid of Eurobonds? -- by Francesco Bianchi, Qingyuan Fang, Leonardo Melosi, Anna Rogantini Picco",
+          "link": "https://www.nber.org/papers/w35510#fromrss",
+          "pubDate": "",
+          "summary": "The current euro area policy framework conflates short-run stabilization with long-run fiscal sustainability, exposing members to deflationary and inflationary tail risks. We employ an estimated euro area model to analyze an alternative framework that separates these objectives. A centralized Treasury issues Eurobonds to finance countercyclical stabilization, while national governments retain responsibility for long-term fiscal sustainability. The Treasury can coordinate with the monetary author"
+        },
+        {
+          "title": "Information and Macroeconomic Expectations: Global Evidence -- by Francesco D’Acunto, Michael Weber",
+          "link": "https://www.nber.org/papers/w35511#fromrss",
+          "pubDate": "",
+          "summary": "Unique global data on 47,000 consumers across 47 countries representing 90% of world GDP reveal universal patterns in macroeconomic belief formation. Most consumers form beliefs based on local information sources (utility bills,  shopping, and acquaintances) that provide signals not representative for the overall consumption bundle, so that seeking  information leads to forming biased macroeconomic expectations. Distrust in governments and central banks, the producers of aggregate economic infor"
+        },
+        {
+          "title": "The Environmental Costs of Sanctions: Flaring and Venting in Venezuela -- by Michele Fioretti, Kavanaugh FitzPatrick, Alessandro Iaria",
+          "link": "https://www.nber.org/papers/w35512#fromrss",
+          "pubDate": "",
+          "summary": "Economic sanctions on oil-producing autocracies change not only the quantity of oil but also how it is produced. Combining field-level production data with satellite measurements of gas flaring and atmospheric methane across six Latin American countries from 2012 to 2024, we study the U.S. sanctions on Venezuela. Per-barrel gas flaring in Venezuela rose about two-and-a-half-fold even as production fell by two-thirds, a pattern no unsanctioned neighbor shows, so environmental damage under sanctio"
+        },
+        {
+          "title": "Industry Distress Anomaly -- by Hui Chen, Winston Wei Dou, Hongye Guo, Yan Ji",
+          "link": "https://www.nber.org/papers/w35513#fromrss",
+          "pubDate": "",
+          "summary": "We document a robust industry-level distress anomaly in which more distressed industries earn significantly lower expected equity returns. The anomaly is distinct from the firm-level distress anomaly (Campbell, Hilscher and Szilagyi, 2008). It remains significant after controlling for firm-level distress but disappears in placebo industries formed by randomly reshuffling firms across actual industries. Both theoretically and empirically, we show that competition-distress feedback amplifies the e"
+        },
+        {
+          "title": "Investing in Mothers? The Long-Run Impact of a Universal Child Care Program on Maternal Work and Income -- by Michael Baker, Jonathan Gruber, Kevin S. Milligan",
+          "link": "https://www.nber.org/papers/w35514#fromrss",
+          "pubDate": "",
+          "summary": "We provide new estimates of the effects of universal child care on the long-term labor outcomes of mothers, documenting the life-cycle impact of Quebec’s universal, subsidized child care program on maternal labor supply, earnings, social program benefit receipt and tax remittances. We find an enduring positive impact on mothers’ employment long after children have aged out of the preschool years. There is also a long-run impact on earnings which grows to be twice as large as the participation ef"
+        },
+        {
+          "title": "Beyond Price: Rights Trading in Strategic Factor Markets -- by Anparasan Mahalingam, Matthew J. Higgins",
+          "link": "https://www.nber.org/papers/w35515#fromrss",
+          "pubDate": "",
+          "summary": "Research on strategic factor markets has largely treated the terms of exchange as price. We argue that many strategic transactions instead divide value through contractual bundles in which payment terms and control rights are interdependent. In university technology licensing, we theorize Rights Trading: contingent payment, future improvement claims, and commercialization scope operate as linked components of the contractual bundle through which surplus is allocated. Using 858 hand coded univers"
+        },
+        {
+          "title": "The Price and Distributional Impact of Flood Risk Disclosure: Evidence from US Housing Platforms -- by Stephen B. Billings, Sophie Calder-Wang, Weiling Liu",
+          "link": "https://www.nber.org/papers/w35516#fromrss",
+          "pubDate": "",
+          "summary": "How does information disclosure reshape the allocation of environmental risk in the housing market? We quantify the price and distributional impact of the nationwide disclosure of property-level flood risk from First Street on U.S. housing platforms. Using a difference-in-RD design that exploits discrete cutoffs in the disclosed risk categories, we find that homes labeled as \"extreme'' flood risk experience a 3.3% price discount and stay on the market for a week longer, relative to those labeled"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "HBS Working Knowledge",
+      "url": "https://hbswk.hbs.edu/rss/all.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Inside One Startup's Journey to Break Down Hiring (and Funding) Barriers",
+          "link": "https://hbswk.hbs.edu/item/inside-one-startups-journey-to-break-down-hiring-and-funding-barriers?cid=wk-rss",
+          "pubDate": "2024-11-12T09:59:10Z",
+          "summary": ""
+        },
+        {
+          "title": "What Wartime Service Taught These Historic Leaders",
+          "link": "https://hbswk.hbs.edu/item/what-wartime-service-taught-these-historic-leaders?cid=wk-rss",
+          "pubDate": "2024-11-08T11:39:18Z",
+          "summary": ""
+        },
+        {
+          "title": "How Private Investors Can Help Solve Africa's Climate Crisis",
+          "link": "https://hbswk.hbs.edu/item/how-private-investors-can-help-solve-africas-climate-crisis?cid=wk-rss",
+          "pubDate": "2024-11-08T10:24:08Z",
+          "summary": ""
+        },
+        {
+          "title": "Building the Road to 'Small Business Utopia' with AI and Fintech",
+          "link": "https://hbswk.hbs.edu/item/building-the-road-to-small-business-utopia-with-ai-and-fintech?cid=wk-rss",
+          "pubDate": "2024-11-05T11:35:35Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Can Help Leaders Communicate, But Can't Make Employees Listen",
+          "link": "https://hbswk.hbs.edu/item/ai-can-help-leaders-communicate-but-cant-make-employees-listen?cid=wk-rss",
+          "pubDate": "2024-11-05T08:46:59Z",
+          "summary": ""
+        },
+        {
+          "title": "Layoffs Surging in a Strong Economy? Advice for Navigating Uncertain Times",
+          "link": "https://hbswk.hbs.edu/item/layoffs-surging-in-strong-economy-advice-for-navigating-uncertain-times?cid=wk-rss",
+          "pubDate": "2024-11-01T13:41:06Z",
+          "summary": ""
+        },
+        {
+          "title": "Can a Coffee Shop in Utah Help Solve Underemployment for People with Disabilities?",
+          "link": "https://hbswk.hbs.edu/item/cold-call-can-a-coffee-shop-in-utah-help-solve-underemployment-for-people-with-disabilities?cid=wk-rss",
+          "pubDate": "2024-10-29T10:21:47Z",
+          "summary": ""
+        },
+        {
+          "title": "Latino Voters Have Grown More Politically Divided. That’s Not Surprising.",
+          "link": "https://hbswk.hbs.edu/item/democrats-are-losing-latino-voters-thats-not-surprising?cid=wk-rss",
+          "pubDate": "2024-10-29T13:42:03Z",
+          "summary": ""
+        },
+        {
+          "title": "Charting the US-China Trade War: What Does 'Made in Vietnam' Mean?",
+          "link": "https://hbswk.hbs.edu/item/charting-the-us-china-trade-war-whats-made-in-vietnam?cid=wk-rss",
+          "pubDate": "2024-10-24T10:00:03Z",
+          "summary": ""
+        },
+        {
+          "title": "With Millions of Workers Juggling Caregiving, Employers Need to Rethink Support",
+          "link": "https://hbswk.hbs.edu/item/with-millions-of-workers-juggling-caregiving-employers-need-to-rethink?cid=wk-rss",
+          "pubDate": "2024-10-29T15:53:04Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "think_tank",
+      "name": "RAND",
+      "url": "https://www.rand.org/blog.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Europe Could Help Get Ukraine and Russia to the Negotiating Table",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/europe-could-help-get-ukraine-and-russia-to-the-negotiating.html",
+          "pubDate": "2026-07-24T18:45:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Is Summer the New Winter? It Might Be for European Health Systems",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/is-summer-the-new-winter-it-might-be-for-european-health.html",
+          "pubDate": "2026-07-24T12:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Safeguarding the Future in the AI Era: Q&A with Sella Nevo",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/safeguarding-the-future-in-the-ai-era-qa-with-sella.html",
+          "pubDate": "2026-07-23T12:25:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Ukraine's Winning Strategy Against Russia: Attrition",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/ukraines-winning-strategy-against-russia-attrition.html",
+          "pubDate": "2026-07-22T14:15:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/bilateral-ai-partnerships-alone-wont-secure-australia.html",
+          "pubDate": "2026-07-14T09:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Making Health Insurance More Affordable: Q&A with Christine Eibner",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/making-health-insurance-more-affordable-qa-with-christine-eibner.html",
+          "pubDate": "2026-07-09T09:30:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html",
+          "pubDate": "2026-07-02T14:15:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Los Angeles' Homelessness Strategy Needs a Next Act",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/los-angeles-homelessness-strategy-needs-a-next-act.html",
+          "pubDate": "2026-06-30T15:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Israel's Isolation Is Deepening Fast. It Doesn't Have to Be This Way.",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/israels-isolation-is-deepening-fast-it-doesnt-have.html",
+          "pubDate": "2026-06-27T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "The Texas Screwworm Cases Are a Wake-Up Call for U.S. Biosecurity",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/the-texas-screwworm-cases-are-a-wake-up-call-for-us.html",
+          "pubDate": "2026-06-26T16:00:00Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Sequoia",
+      "url": "https://www.sequoiacap.com/feed/",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Cyera and Oasis: Stronger Together",
+          "link": "https://sequoiacap.com/article/cyera-and-oasis-stronger-together/",
+          "pubDate": "Tue, 28 Jul 2026 14:25:38 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/cyera-and-oasis-stronger-together/\">Cyera and Oasis: Stronger Together</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "America’s Open-Model Paradox",
+          "link": "https://sequoiacap.com/article/americas-open-model-paradox/",
+          "pubDate": "Fri, 24 Jul 2026 23:46:04 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/americas-open-model-paradox/\">America’s Open-Model Paradox</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Etched: Building the Inference Machine",
+          "link": "https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/",
+          "pubDate": "Thu, 23 Jul 2026 15:00:15 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/\">Partnering with Etched: Building the Inference Machine</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes",
+          "link": "https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/",
+          "pubDate": "Thu, 16 Jul 2026 17:00:13 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/\">Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Sable: Closing the Diffusion Gap",
+          "link": "https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/",
+          "pubDate": "Thu, 16 Jul 2026 16:00:02 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/\">Partnering with Sable: Closing the Diffusion Gap</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Probook: AI for the Trades",
+          "link": "https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/",
+          "pubDate": "Tue, 23 Jun 2026 13:00:09 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/\">Partnering with Probook: AI for the Trades</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Listen to the Market",
+          "link": "https://sequoiacap.com/article/listen-to-the-market/",
+          "pubDate": "Mon, 01 Jun 2026 20:32:11 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/listen-to-the-market/\">Listen to the Market</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "All Systems Nominal – Nominal Spotlight",
+          "link": "https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/",
+          "pubDate": "Thu, 21 May 2026 15:35:44 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/\">All Systems Nominal &#8211; Nominal Spotlight</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "AI Ascent 2026",
+          "link": "https://sequoiacap.com/article/ai-ascent-2026/",
+          "pubDate": "Fri, 08 May 2026 16:47:31 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/ai-ascent-2026/\">AI Ascent 2026</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Standard Intelligence: Training General Intelligence in Pixel Space",
+          "link": "https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/",
+          "pubDate": "Thu, 30 Apr 2026 14:00:29 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/\">Standard Intelligence: Training General Intelligence in Pixel Space</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/blog/rss.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Christopher Golda and Grey Baker Join YC as General Partners",
+          "link": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/",
+          "pubDate": "Tue, 16 Jun 2026 16:14:22 GMT",
+          "summary": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners."
+        },
+        {
+          "title": "Diana Hu Is YC's Newest Managing Partner",
+          "link": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
+          "pubDate": "Thu, 11 Jun 2026 17:01:59 GMT",
+          "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator.\n\nFew people have built a startup from zero and also shipped tech to 100 million people. Diana has done both."
+        },
+        {
+          "title": "Harshita Arora Joins YC as General Partner",
+          "link": "https://www.ycombinator.com/blog/welcome-harshita/",
+          "pubDate": "Mon, 06 Apr 2026 16:00:00 GMT",
+          "summary": "We're thrilled to announce that Harshita Arora is joining Y Combinator as a General Partner.  She brings deep fintech and infrastructure experience, a founder's instinct for product, and the perspective of someone who's been building companies since she was a teenager."
+        },
+        {
+          "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+          "link": "https://www.ycombinator.com/blog/adding-canada-back/",
+          "pubDate": "Thu, 05 Feb 2026 17:00:00 GMT",
+          "summary": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation."
+        },
+        {
+          "title": "Congratulations to EquipmentShare on Going Public",
+          "link": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare/",
+          "pubDate": "Fri, 23 Jan 2026 15:59:00 GMT",
+          "summary": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone."
+        },
+        {
+          "title": "Announcing the YC AI Stack",
+          "link": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/",
+          "pubDate": "Fri, 16 Jan 2026 20:40:39 GMT",
+          "summary": "We've partnered with nearly two dozen companies to offer students who attend YC events a suite of over $25,000 in free credits for AI devtools."
+        },
+        {
+          "title": "2026 Demo Day Dates",
+          "link": "https://www.ycombinator.com/blog/2026-demo-days/",
+          "pubDate": "Thu, 18 Dec 2025 19:44:54 GMT",
+          "summary": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead."
+        },
+        {
+          "title": "Meesho Goes Public",
+          "link": "https://www.ycombinator.com/blog/meesho-goes-public/",
+          "pubDate": "Wed, 10 Dec 2025 04:32:10 GMT",
+          "summary": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses.\n\nCongrats to Vidit and Sanjeev on a decade of relentless building and listening to users!"
+        },
+        {
+          "title": "Congratulations to Groww",
+          "link": "https://www.ycombinator.com/blog/groww/",
+          "pubDate": "Wed, 12 Nov 2025 03:47:51 GMT",
+          "summary": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud."
+        },
+        {
+          "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+          "link": "https://www.ycombinator.com/blog/billiontoone/",
+          "pubDate": "Thu, 06 Nov 2025 15:52:00 GMT",
+          "summary": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "hr_media",
+      "name": "HBR",
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Embrace AI Without Damaging Trust: Lessons from the “Financial Times”",
+          "link": "/2026/07/embrace-ai-without-damaging-trust-lessons-from-the-financial-times",
+          "pubDate": "2026-07-29T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "The Case for Hiring Job Hoppers",
+          "link": "/2026/07/the-case-for-hiring-job-hoppers",
+          "pubDate": "2026-07-29T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Research: How AI Agents Broaden the Scope of Knowledge Work",
+          "link": "/2026/07/research-how-ai-agents-broaden-the-scope-of-knowledge-work",
+          "pubDate": "2026-07-29T12:05:05Z",
+          "summary": ""
+        },
+        {
+          "title": "Why Some Junior Employees Work Well with AI—and Others Don’t",
+          "link": "/2026/07/why-some-junior-employees-work-well-with-ai-and-others-dont-2",
+          "pubDate": "2026-07-28T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "What Makes Chinese Companies So Competitive?",
+          "link": "/podcast/2026/07/what-makes-chinese-companies-so-competitive",
+          "pubDate": "2026-07-28T10:47:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Don’t Let AI Make Bad Analytics Worse",
+          "link": "/2026/07/dont-let-ai-make-bad-analytics-worse",
+          "pubDate": "2026-07-27T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "3 Questions to Pressure-Test Your Priorities",
+          "link": "/2026/07/3-questions-to-pressure-test-your-priorities",
+          "pubDate": "2026-07-27T21:50:24Z",
+          "summary": ""
+        },
+        {
+          "title": "GLP-1s and the High Cost of Providing Health Care",
+          "link": "/2026/07/glp-1s-and-the-high-cost-of-providing-health-care",
+          "pubDate": "2026-07-24T14:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Why Mentoring Matters More in the AI Era",
+          "link": "/2026/07/why-mentoring-matters-more-in-the-ai-era",
+          "pubDate": "2026-07-24T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "The Invisible Work Draining Your Best Employees",
+          "link": "/2026/07/the-invisible-work-draining-your-best-employees",
+          "pubDate": "2026-07-24T12:05:15Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "china",
+      "name": "36Kr",
+      "url": "https://36kr.com/feed",
+      "priority": 2,
+      "items": [
+        {
+          "title": "让AI先吃，这个国民级健康难题有解了",
+          "link": "https://36kr.com/p/3916800672656773?f=rss",
+          "pubDate": "2026-07-29 22:21:47  +0800",
+          "summary": "<p>在科学减重这件事上，继战略投资薄荷健康之后，蚂蚁阿福又放了个大招。</p>\n  <p>7月29日，蚂蚁阿福宣布升级上线“AI拍饮食”功能，用户拍食物照片发给阿福，就能自动估算营养和热量信息，获得健康饮食搭配建议和运动消耗计划等，还支持一健存入个人健康档案，建立“热量账户”。吃得对不对，多不多，一目了然。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"6106,4071\" src=\"https://img.36krcdn.com/hsossms/20260729/v2_f160e5f7d56e4cb0bd4c116828463895@19153231_oswg3087755oswg6106oswg4071_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1\"></p>\n  <p>阿福此次推出“AI拍饮食”功能，并非是一项孤立动作。</p>\n  <p>一个月前，36氪曾报道，蚂蚁阿福发起“科学减重1亿斤”号召，推出“1分钱”低价供应体脂秤、升级A"
+        },
+        {
+          "title": "氪星晚报 | 月之暗面Kimi已完成超35亿美元F轮融资，投后估值涨至350亿美元； SpaceX空头持仓超260亿美元，账面获利超70亿",
+          "link": "https://36kr.com/p/3916547493965442?f=rss",
+          "pubDate": "2026-07-29 19:04:52  +0800",
+          "summary": "<h2>大公司：</h2>\n  <p><strong>美的集团：受欧洲持续极端高温影响当地空调需求爆发，空调芜湖、广州双基地一月内新增欧洲订单共20万台</strong></p>\n  <p>36氪获悉，美的集团在互动平台表示，受欧洲持续极端高温影响，当地空调需求爆发，美的空调芜湖、广州双基地一月内新增欧洲订单共20万台。PortaSplit移动分体空调自6月新增接单超16万台。7月，法国3万台移动空调紧急订单中2万台已完成发运。</p>\n  <p>&nbsp;<strong>新东方：2026财年第四季度净营收15.3亿美元，同比增长23.0%</strong></p>\n  <p>36氪获悉，新东方发布截至2026年5月31日止第四季度及年度的未经审核财务业绩，第四财季净营收15.3亿美元，同比增长23.0%；第四财季经营利润8580万美元，上年同期亏损870万美元。</p>\n  <p><strong>瓴羊AgentOne“四名AI员工”正式上岗，覆盖销售、客服、运营、营销四大场景</strong></p>\n  <p>7月29日，瓴羊AgentOne四名AI员工正式上岗，分别覆盖AI销售"
+        },
+        {
+          "title": "AI智能浪潮重塑母婴赛道，吸牛裤如何实现 “智能育儿”？",
+          "link": "https://36kr.com/p/3916187215408776?f=rss",
+          "pubDate": "2026-07-29 16:30:52  +0800",
+          "summary": "<h3><strong>导语：</strong></h3>\n  <p>凌晨三点，新手爸妈第三次起身，摸黑查看宝宝尿裤有无侧漏、臀部是否闷出红疹。依靠经验熬夜看护的传统育儿模式，已是无数家庭的共同困扰。而随着 AI 技术产业化落地，这一育儿痛点迎来全新解法。</p>\n  <p>2022 年 ChatGPT 问世，拉开生成式 AI 商业化序幕。国内 AI 产业蓬勃发展，百模大战持续推进，AI 感知、物联网、大数据等技术日趋成熟，为实体产业智能化升级提供坚实支撑。</p>\n  <p>母婴作为刚需赛道，顺势拥抱智能变革。新锐品牌吸牛裤抢先布局 AI 智能尿裤赛道，精准捕捉行业变革风口，依托自研硬核技术，开辟贴身智能育儿新路径。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"2000,1333\" src=\"https://img.36krcdn.com/hsossms/20260729/v2_4a56180393b1482a92c9575e26285b56@5284654_oswg355270oswg2000oswg1333_img"
+        },
+        {
+          "title": "华辰芯光完成超亿元融资，全栈技术能力突破高端激光芯片封锁",
+          "link": "https://36kr.com/p/3916108853521792?f=rss",
+          "pubDate": "2026-07-29 13:38:46  +0800",
+          "summary": "<p>文 | 张卓倩</p>\n  <p>编辑 | 袁斯来</p>\n  <p>近日，国内IDM激光芯片企业浙江华辰芯光技术有限公司（简称华辰芯光）宣布完成新一轮超亿元级人民币融资。本轮融资由同创伟业领投，张江垚坤、洪山资本跟投，部分老股东追投，该批资金将主要用于加强华辰芯光的多系列量产芯片可靠性测试能力建设。</p>\n  <p>华辰芯光坚定走高端光芯片研发发展路线，自公司成立之初就确立了“IDM（垂直整合制造）芯片制造模式”及“研发高可靠大功率单模通信激光芯片”的双轮驱动战略。通过长期技术攻关，逐步攻克高端光芯片的底层制造壁垒，其GaAs核心产品1000mW 974nm/976nm泵浦激光芯片已通过严格的内部测试，光电性能与可靠性可对标美国同级产品，制造成本约为国外产品的50%，成为全球极少数能够量产通信用泵浦激光芯片的企业。</p>\n  <p>该产品主要用于骨干网、核心网、城域网等陆地以及海洋光纤通信、星间激光互通、AI数据中心DCI等光网络中信号放大产品中，该产品计划于2026年下半年将进入量产阶段并向全球销售；同时华辰芯光还依托自己的IDM能力，面向CPO产品，积极研发超大功率In"
+        },
+        {
+          "title": "在大模型的下一阶段议题上，我们找到了一家做持续学习的中国Neo Lab",
+          "link": "https://36kr.com/p/3916202023660929?f=rss",
+          "pubDate": "2026-07-29 12:10:36  +0800",
+          "summary": "<p><strong>文｜王欣逸</strong></p>\n  <p><strong>编辑｜张雨忻</strong></p>\n  <p>见到Mind Lab创始人陈锴杰，是在北京的晚上9点半，他已经见了一天的投资人。</p>\n  <p>陈锴杰是一位连续创业者，从杜克大学休学，做过AI互动故事平台MidReal，也推出了Personal Agent应用Macaron（马卡龙），上线当天就登顶了Product Hunt日榜；2025年10月，Mind Lab成立，团队约30余人，Mind Lab创始人Andrew Chen曾和姚顺雨共同发表FireAct论文，团队主要来自xAI、DeepMind、DeepSeek、字节跳动Seed、MIT和清华大学等企业与高校。他们以Neo Lab的形象再度出现在大众的视野里。</p>\n  <p>他们所押注的方向，与图灵奖得主、强化学习之父Richard Sutton和OpenAI前CTO Mira Murati所强调的持续学习方向，高度一致。</p>\n  <p>几天前，WAIC 2026首日主论坛上，Sutton发表演讲，强调了下一代AI的核心路线是经验"
+        },
+        {
+          "title": "柔性触觉感知企业获新一轮融资，预计2026年公司营收翻10倍｜硬氪首发",
+          "link": "https://36kr.com/p/3915175290901889?f=rss",
+          "pubDate": "2026-07-29 09:30:00  +0800",
+          "summary": "<p>作者｜黄楠</p>\n  <p>编辑｜袁斯来</p>\n  <p>硬氪获悉，柔性触觉感知企业「尧乐科技」近日完成Pre-A+新一轮融资，本轮融资由鼎和高达领投，上市公司常熟汽饰、祖龙娱乐跟投，云道资本担任长期独家财务顾问。资金将主要用于柔性织物传感技术研发、产品性能迭代升级，加快数据手套产能拓展和批量交付，并完善数据采集、标定与接口能力，加速面向具身智能、世界模型与智能座舱等场景落地。</p>\n  <p>尧乐科技以柔性织物传感为硬件入口，面向具身智能与世界模型所需的真实物理交互数据采集与预处理。创始人兼CEO吕莉蕴曾任国际汽车电子头部企业Harman首席架构工程师，曾主导多模态传感器融合计算平台的研发工作；核心团队成员多来自中科院、密歇根大学、北京大学等头部院校，覆盖底层传感材料到上层智能算法的全链条研发能力。</p>\n  <p>随着人形机器人本体、电机、关节控制等硬件工程逐一突破，行业竞争发生阶段性切换，深层制约来自数据供给的结构性短缺。根据《中国具身智能产业发展报告》报告显示，截至2026年初，全球高质量真实物理交互数据总量约为50万小时，而训练具备基础泛化能力的通用具身模型至少"
+        },
+        {
+          "title": "自研SNN类脑芯片、做医疗设备的“上游大脑”，「米能科技」获数千万元融资｜36氪首发",
+          "link": "https://36kr.com/p/3878652674715905?f=rss",
+          "pubDate": "2026-07-29 08:15:00  +0800",
+          "summary": "<p>文｜胡香赟</p>\n  <p>编辑｜海若镜</p>\n  <p>36氪独家获悉，近期，前沿生理类脑芯片企业米能科技完成数千万元股权融资，本轮由仙居蓝湾基金、锡创投联合投资。本次募资将全部投入医疗级标准化模组量产迭代、全链路闭环生理调控系统工程落地，以及全国医疗设备厂商规模化生态导入进程。</p>\n  <p>米能科技相关负责人观察到，当前，全球医疗硬件产业正迎来“底层技术范式变革”。“传统MCU+ANN（微控制器+人工神经网络）通用算力方案，诞生于图像、文本离散数据场景，较难适配人体连续、微弱、高噪声生理时序信号。而长期可穿戴、闭环神经干预、居家慢病全周期管理等前沿赛道始终存在功耗、延迟、安全三重底层瓶颈。市场需要一套原生适配人体生理特征、符合医疗器械全流程合规的一体化底层平台。”</p>\n  <p>基于此，米能科技选择聚焦医疗设备上游底层算力基础设施研发，已打造“生理感知—事件计算—安全调控”全闭环原生软硬件平台。公司自研从模拟信号采集、脉冲事件编码、类脑稀疏计算到硬件级安全干预的整套底层技术，不涉足终端整机制造，为各类医疗设备厂商输出可快速集成、适配临床规范的标准化底层能力包。<"
+        },
+        {
+          "title": "8点1氪丨韩国考虑为“借钱炒股”封顶20%；雷军打新长鑫科技浮盈7亿？小米高管回应；月之暗面Kimi K3正式开源",
+          "link": "https://36kr.com/p/3915953688604296?f=rss",
+          "pubDate": "2026-07-29 07:54:15  +0800",
+          "summary": "<h2>今日热点导览</h2>\n  <ul>\n   <li>李宁此前起诉多个网络账号名誉侵权案，已取得胜诉判决</li>\n   <li>小米已注册澎程关联商标</li>\n   <li>泡泡玛特城市乐园涨价</li>\n   <li>英伟达据悉签署价值高达500亿美元的得州数据中心租赁协议</li>\n   <li>“抱抱脸”向OpenAI索赔1亿美元算力</li>\n  </ul>\n  <h2>TOP 3 大新闻</h2>\n  <p><strong>韩国考虑为“借钱炒股”封顶20%</strong></p>\n  <p>韩国KOSPI指数尾盘扩大跌幅，日内大跌11%，自4月14日以来首次跌破6000点，较6月峰值跌超30%。据韩国《中央日报》中文网28日报道，韩国金融监管当局决定，若单一股票杠杆产品投资过热未能平息，将引入个人投资上限等追加监管措施。目前正在重点研究将个股杠杆投资额限制在全部金融投资产品投资额20%以内的方案。韩国官方此前披露的统计数据显示，截至7月13日，7月累积强制平仓规模达到3442亿韩元(约合人民币15.7亿元)，超120万个杠杆散户账户触及保证金追缴线，其中约32万至"
+        },
+        {
+          "title": "36氪研究院 | 2026年中国智能硬件行业发展研究报告",
+          "link": "https://36kr.com/p/3915066350327176?f=rss",
+          "pubDate": "2026-07-29 07:30:00  +0800",
+          "summary": "<p>当前，AI技术正加速向实体经济各领域渗透深化，智能硬件作为AI能力落地实体场景的核心载体，已进入产品能力升级与产业价值提升的关键发展阶段。腾讯研究院2026年3月的调研数据显示，国内已有80.8%的消费者购买或使用过至少一类AI相关硬件产品，其中32.0%的用户表示将在未来三个月增加相关消费支出，消费端市场需求具备稳步向上的支撑基础。与此同时，端侧AI芯片、轻量化大模型、多传感融合等底层技术不断取得突破，推动智能硬件逐步降低对云端算力的依赖，本地自主感知、分析决策与功能迭代的能力持续增强，产业端的数字化赋能效果也得到了较为明显的改善与提升。然而，行业发展仍面临碎片化竞争加剧、供应链成本承压、场景规模化落地不足、数据安全合规要求升级等现实挑战。传统依托硬件参数堆砌、低价代工走量的增长路径，已难以适配AI原生阶段的竞争要求。基于上述行业背景，36氪研究院发布《2026年中国智能硬件行业发展研究报告》，系统梳理行业发展脉络与产业生态格局，拆解产业链上中下游的升级方向，并结合典型企业实践，研判未来技术演进、场景拓展与全球化布局趋势，为行业各方参与者提供多维度的决策参考。</p>\n  <h"
+        },
+        {
+          "title": "科氪 | 定义AI睡眠健康新赛道 东莞数字人体与智慧睡眠创新联合体落地慕思",
+          "link": "https://36kr.com/p/3915239611739781?f=rss",
+          "pubDate": "2026-07-28 19:48:20  +0800",
+          "summary": "<p>7月27日，东莞市数字人体与智慧睡眠创新联合体揭牌暨工作推进会在慕思健康睡眠股份有限公司（以下简称“慕思”）总部举行。本次工作推进会由东莞市科学技术局、厚街镇人民政府指导，慕思、广东华中科技大学工业技术研究院联合主办，东莞市相关职能部门、顶尖高校、三甲医疗机构、产业链核心企业、投资机构及主流媒体代表约300人参会。</p>\n  <p>推进会同步举行聘任与授牌仪式，正式聘任中科院院士、华中科技大学副校长尹周平为东莞市数字人体与智慧睡眠创新联合体首席科学家，聘任慕思集团CTO陈文泽为行政总师。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1269,714\" src=\"https://img.36krcdn.com/hsossms/20260728/v2_a3b3238c71314b798e6fc4aaf75b9913@517825446_oswg729268oswg1269oswg714_img_png?x-oss-process=image/quality,q_90/format,jpg/interlace,1\"><"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "consulting",
+      "name": "BCG (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Boston+Consulting+Group%22+future+of+work&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Deloitte (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Deloitte%22+human+capital+trends&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Accenture (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Accenture%22+talent+%22future+of+work%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "vc",
+      "name": "a16z (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Andreessen+Horowitz%22+OR+%22a16z%22+AI+agent&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "think_tank",
+      "name": "Brookings (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Brookings%22+AI+labor+market&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "think_tank",
+      "name": "WEF (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22World+Economic+Forum%22+%22future+of+jobs%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "hr_media",
+      "name": "Mercer (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Mercer%22+total+rewards+OR+compensation&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "category": "hr_media",
+      "name": "WTW (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Willis+Towers+Watson%22+compensation+pay&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    }
+  ],
+  "success_count": 10,
+  "failure_count": 9
+}
