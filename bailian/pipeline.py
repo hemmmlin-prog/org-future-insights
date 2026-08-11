@@ -12,6 +12,7 @@ bailian/pipeline.py — A+B+C+D+E 全流程自动化
 - C: 可视化页面生成（本地模板，零成本）
 - D: 侧边栏自动更新（本地文件操作）
 - E: 质量审计（本地 regex 检测）
+- F: 板块入口保鲜（导航/侧边栏/README/看板快照周更，本地文件操作；须在 A/B 之后执行）
 
 用法：
     python3 -m bailian.pipeline                    # 全流程
@@ -36,6 +37,7 @@ from bailian.classify_to_modules import main as run_classify
 from bailian.generate_visual import main as run_visual
 from bailian.update_sidebar import main as run_sidebar
 from bailian.quality_audit import main as run_audit
+from bailian.update_entries import main as run_entries
 
 
 def write_pipeline_log(entry: dict):
@@ -57,6 +59,7 @@ def run(date: str | None, model: str, skip_daily: bool, skip_classify: bool,
         "visual": {"status": "skipped"},
         "sidebar": {"status": "skipped"},
         "audit": {"status": "skipped"},
+        "entries": {"status": "skipped"},
     }
 
     daily_ok = True
@@ -176,6 +179,27 @@ def run(date: str | None, model: str, skip_daily: bool, skip_classify: bool,
                 "elapsed_sec": round(time.time() - t0, 2),
             }
             print(f"⚠️  质量审计失败: {e}", file=sys.stderr)
+
+    # === F: 板块入口保鲜（依赖 A/B 产出的日报与素材池，故置于最后） ===
+    print()
+    print("=" * 60)
+    print("🧭 阶段 F：板块入口保鲜（导航/侧边栏/README/看板快照）")
+    print("=" * 60)
+    t0 = time.time()
+    try:
+        entries_result = run_entries(date=date)
+        summary["entries"] = {
+            "status": "ok",
+            **entries_result,
+            "elapsed_sec": round(time.time() - t0, 2),
+        }
+    except Exception as e:
+        summary["entries"] = {
+            "status": "fail",
+            "error": f"{type(e).__name__}: {str(e)[:300]}",
+            "elapsed_sec": round(time.time() - t0, 2),
+        }
+        print(f"⚠️  板块入口保鲜失败: {e}", file=sys.stderr)
 
     summary["finished_at"] = datetime.now().isoformat(timespec="seconds")
     summary["total_elapsed_sec"] = round((datetime.now() - started).total_seconds(), 2)

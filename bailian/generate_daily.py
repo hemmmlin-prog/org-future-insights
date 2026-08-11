@@ -44,8 +44,17 @@ def find_raw_by_date(date_str: str) -> Path:
     return f
 
 
-def serialize_items(raw: dict) -> tuple[str, int, int]:
-    """把 raw 的 sources / items 平铺为 prompt 友好的文本，返回（文本，成功源数，items 总数）"""
+# 百炼单次输入上限 30720，留出 system prompt 与模板余量后的安全预算
+MAX_PROMPT_CHARS = 24000
+# prompt 超预算时的降级梯度：(每源条数, 摘要字符数)
+DEGRADE_LADDER = [(10, 300), (8, 220), (6, 160), (5, 110), (4, 80), (3, 60)]
+
+
+def serialize_items(raw: dict, per_source: int = 10, summary_len: int = 300) -> tuple[str, int, int]:
+    """把 raw 的 sources / items 平铺为 prompt 友好的文本，返回（文本，成功源数，items 总数）
+
+    per_source / summary_len 可调，用于 prompt 超长时逐级降级（见 MAX_PROMPT_CHARS）。
+    """
     success_sources = [s for s in raw["sources"] if s.get("items_count", 0) > 0]
     total_items = sum(s["items_count"] for s in success_sources)
 
@@ -53,14 +62,13 @@ def serialize_items(raw: dict) -> tuple[str, int, int]:
     for src in success_sources:
         chunks.append(f"\n### [{src['category']}] {src['name']} ({src['items_count']} items)")
         chunks.append(f"URL: {src['url']}")
-        for i, item in enumerate(src["items"][:10], 1):  # 最多 10 条/源
+        for i, item in enumerate(src["items"][:per_source], 1):
             title = item.get("title", "").strip()
             link = item.get("link", "")
             pub = item.get("pubDate", "")
             summary = (item.get("summary") or "").strip()
-            # 摘要限制 300 字符以控制 token
-            if len(summary) > 300:
-                summary = summary[:300] + "..."
+            if len(summary) > summary_len:
+                summary = summary[:summary_len] + "..."
             chunks.append(f"\n{i}. **{title}**")
             chunks.append(f"   - 链接: {link}")
             chunks.append(f"   - 发布: {pub}")
@@ -102,15 +110,25 @@ def main(date: str | None = None, model: str = DEFAULT_MODEL) -> Path:
     print(f"📂 读取 raw: {raw_path.name}")
     raw = json.loads(raw_path.read_text())
 
-    raw_text, success_count, total_items = serialize_items(raw)
-    if total_items == 0:
-        raise RuntimeError(f"❌ {raw_path.name} 没有任何成功 items，无法生成报告")
+    system_prompt = (PROMPTS_DIR / "role_system.txt").read_text()
+    budget = MAX_PROMPT_CHARS - len(system_prompt)
+
+    # 逐级降级，确保 prompt 不超百炼输入上限
+    for per_source, summary_len in DEGRADE_LADDER:
+        raw_text, success_count, total_items = serialize_items(raw, per_source, summary_len)
+        if total_items == 0:
+            raise RuntimeError(f"❌ {raw_path.name} 没有任何成功 items，无法生成报告")
+        user_prompt = build_user_prompt(raw, raw_text, success_count, total_items)
+        if len(user_prompt) <= budget:
+            break
+        print(f"⚠️  prompt {len(user_prompt)} chars 超预算 {budget}，降级至 每源 {per_source} 条 / 摘要 {summary_len} 字")
+    else:
+        # 最激进档位仍超限 → 硬截断兜底
+        user_prompt = user_prompt[:budget]
+        print(f"⚠️  已用最激进档位仍超限，硬截断至 {budget} chars")
 
     print(f"📊 {success_count} 源成功 / {total_items} 条 items")
-
-    system_prompt = (PROMPTS_DIR / "role_system.txt").read_text()
-    user_prompt = build_user_prompt(raw, raw_text, success_count, total_items)
-    print(f"📝 system={len(system_prompt)} chars | user={len(user_prompt)} chars")
+    print(f"📝 system={len(system_prompt)} chars | user={len(user_prompt)} chars（预算 {budget}）")
 
     print(f"🚀 调用百炼 {model}（预计 30-60s）...")
     resp = chat(
