@@ -4,6 +4,8 @@
   - [🏠 今日洞察](README.md)
 
 - 📅 每日日报
+  - [2026-08-11 · 自动版](daily-reports/2026-08-11-auto.md)
+  - [2026-08-11 · 可视化](daily-reports/2026-08-11-visual.md)
   - [2026-07-31 · 自动版](daily-reports/2026-07-31-auto.md)
   - [2026-07-31 · 可视化](daily-reports/2026-07-31-visual.md)
   - [2026-07-27 · 自动版](daily-reports/2026-07-27-auto.md)
@@ -77,7 +79,8 @@
   - [📖 12 个核心术语](dictionary/glossary.md)
 
 - 📈 数据看板
-  - [2026-07-25 · 关键数据速查 ⭐](dashboard/2026-07-25-snapshot.md)
+  - [2026-08-11 · 关键数据速查 ⭐](dashboard/2026-08-11-snapshot.md)
+  - [2026-07-25 · 历史快照](dashboard/2026-07-25-snapshot.md)
   - [2026-06-14 · 历史快照](dashboard/2026-06-14-snapshot.md)
 
 - 📅 行业议程

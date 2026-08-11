@@ -1,0 +1,780 @@
+{
+  "snapshot_time": "2026-08-04T06:06:08.602855+08:00",
+  "fetcher_version": "0.1",
+  "sources_count": 19,
+  "sources": [
+    {
+      "category": "consulting",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "priority": 3,
+      "items": [
+        {
+          "title": "From drift to dynamism: Reinventing Japan to compete in a new era",
+          "link": "https://www.mckinsey.com/featured-insights/future-of-asia/from-drift-to-dynamism-reinventing-japan-to-compete-in-a-new-era",
+          "pubDate": "Fri, 31 Jul 2026",
+          "summary": "Bold actions to spur corporate dynamism can unlock transformational opportunities for Japan in a new era and reset its growth trajectory."
+        },
+        {
+          "title": "Is the AI productivity story at a turning point?",
+          "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/is-the-ai-productivity-story-at-a-turning-point",
+          "pubDate": "Fri, 31 Jul 2026",
+          "summary": "Stanford economist Erik Brynjolfsson reveals where we stand on the J-curve, how leaders can accelerate progress and create new value, and what gives him hope—and keeps him up at night."
+        },
+        {
+          "title": "Global Economics Intelligence executive summary, June 2026",
+          "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+          "pubDate": "Fri, 31 Jul 2026",
+          "summary": "Geopolitical uncertainty continues to drive energy price volatility, affecting growth, inflation, and sentiment. ECB raises rates by 25 basis points, while Brazil and Russia focus on stimulus with 25-basis-point cuts."
+        },
+        {
+          "title": "Powering AI: How real is the risk of overbuilding?",
+          "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
+          "pubDate": "Fri, 31 Jul 2026",
+          "summary": "The power infrastructure being built for data centers in the United States is unlikely to become stranded—even if compute demand falls short of current projections."
+        },
+        {
+          "title": "How utilities can rewire customer operations with agentic AI",
+          "link": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/how-utilities-can-rewire-customer-operations-with-agentic-ai",
+          "pubDate": "Thu, 30 Jul 2026",
+          "summary": "Faced with declining customer satisfaction, North American utilities are turning to agentic AI to transform the customer experience for the better while reducing costs."
+        },
+        {
+          "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+          "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+          "pubDate": "Thu, 30 Jul 2026",
+          "summary": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about people, not just technology."
+        },
+        {
+          "title": "The new advantage in the age of AI: Building in the real world",
+          "link": "https://www.mckinsey.com/industries/real-estate/our-insights/the-new-advantage-in-the-age-of-ai-building-in-the-real-world",
+          "pubDate": "Thu, 30 Jul 2026",
+          "summary": "As AI accelerates the digital economy, the real constraint is physical: housing, power, and infrastructure. Laura Hines-Pierce, co-CEO of Hines, explains why execution—not capital—will define the next era of value creation."
+        },
+        {
+          "title": "Author Talks: The daily practices that lead to exceptional performance",
+          "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-the-daily-practices-that-lead-to-exceptional-performance",
+          "pubDate": "Thu, 30 Jul 2026",
+          "summary": "What separates good from exceptional? Learning Leader Show host Ryan Hawk reveals why disciplined daily habits and purposeful ambition are the foundation of high performance."
+        },
+        {
+          "title": "The shift to 800-volt DC at data centers: Implications for providers",
+          "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers",
+          "pubDate": "Thu, 30 Jul 2026",
+          "summary": "As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers."
+        },
+        {
+          "title": "Lion Finance: Competing like a fintech, winning as a bank",
+          "link": "https://www.mckinsey.com/industries/financial-services/our-insights/lion-finance-competing-like-a-fintech-winning-as-a-bank",
+          "pubDate": "Wed, 29 Jul 2026",
+          "summary": "Archil Gachechiladze, Lion Finance and Bank of Georgia CEO, describes how focused execution and cultural change have driven the group’s strong financial performance."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "How we built a realtime system for responsive voice AI in six months",
+          "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+          "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+        },
+        {
+          "title": "Ten advances in mathematics and theoretical computer science",
+          "link": "https://openai.com/index/ten-advances-in-mathematics",
+          "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
+          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
+        },
+        {
+          "title": "Advancing responsible AI across Europe",
+          "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+          "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
+        },
+        {
+          "title": "Building abundant intelligence",
+          "link": "https://openai.com/index/building-abundant-intelligence",
+          "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
+        },
+        {
+          "title": "Univé builds an AI-ready workforce",
+          "link": "https://openai.com/index/unive",
+          "pubDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+          "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
+        },
+        {
+          "title": "Disrupting a Criminal Scam Operation",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+          "pubDate": "Fri, 31 Jul 2026 00:00:00 GMT",
+          "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT-5.6",
+          "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "pubDate": "Thu, 30 Jul 2026 10:00:00 GMT",
+          "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+        },
+        {
+          "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+          "link": "https://openai.com/index/avatarin",
+          "pubDate": "Thu, 30 Jul 2026 00:00:00 GMT",
+          "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive."
+        },
+        {
+          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
+          "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+        },
+        {
+          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
+          "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Don’t stop early: Case-folding source code at memory speed",
+          "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+          "pubDate": "Fri, 31 Jul 2026 16:00:00 +0000",
+          "summary": "<p>How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core.</p>\n<p>The post <a href=\"https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/\">Don&#8217;t stop early: Case-folding source code at memory speed</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+          "link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+          "pubDate": "Thu, 30 Jul 2026 17:30:24 +0000",
+          "summary": "<p>Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/\">Stacked sessions and pull requests in the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+          "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+          "pubDate": "Wed, 29 Jul 2026 16:00:00 +0000",
+          "summary": "<p>Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/\">Tame Dependabot: Group your updates, slow the cadence, keep security fast</a> appeared first on <a href=\"http"
+        },
+        {
+          "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+          "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+          "pubDate": "Tue, 28 Jul 2026 16:00:00 +0000",
+          "summary": "<p>Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/\">Disrupting supply chain attacks on npm and GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "The harness is all you need (mostly)",
+          "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+          "pubDate": "Mon, 27 Jul 2026 18:00:00 +0000",
+          "summary": "<p>A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/\">The harness is all you need (mostly)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub Copilot app for Beginners: Getting started",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+          "pubDate": "Mon, 27 Jul 2026 16:00:00 +0000",
+          "summary": "<p>New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/\">GitHub Copilot app for Beginners: Getting started</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+          "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+          "pubDate": "Thu, 23 Jul 2026 16:00:00 +0000",
+          "summary": "<p>A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/\">The case for a cooldown: Why Dependabot now waits before issuing version updates</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Copilot vs. raw API access: What are you actually paying for?",
+          "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+          "pubDate": "Wed, 22 Jul 2026 19:00:00 +0000",
+          "summary": "<p>Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/\">Copilot vs. raw API access: What are you actually paying for?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+          "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+          "pubDate": "Wed, 22 Jul 2026 16:00:00 +0000",
+          "summary": "<p>GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team.</p>\n<p>The post <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">Next chapter: Restructuring GitHub&#8217;s bug bounty program</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How to build interactive experiences with canvases",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+          "pubDate": "Tue, 21 Jul 2026 16:00:00 +0000",
+          "summary": "<p>Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/\">How to build interactive experiences with canvases</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "arXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "priority": 3,
+      "items": [
+        {
+          "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+          "link": "https://arxiv.org/abs/2607.28629",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI agents. Despite recent advances, unified frameworks for designing and evaluating full-stack agentic systems remain limited. This paper presents a comprehensive, layered architecture"
+        },
+        {
+          "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+          "link": "https://arxiv.org/abs/2607.28631",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28631v1 Announce Type: new \nAbstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous benchmarking protocol using an automated peer-review system that harnesses frontier large language models to assess scientific papers across four core dimensions: originality, scientific rigor, clar"
+        },
+        {
+          "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+          "link": "https://arxiv.org/abs/2607.28632",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28632v1 Announce Type: new \nAbstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for major conjecture discovery, with region search from explicit local evidence modules, reflective validation for foundationality, novelty, and potential significance, and formal validation in Lean 4 an"
+        },
+        {
+          "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+          "link": "https://arxiv.org/abs/2607.28642",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28642v1 Announce Type: new \nAbstract: Long chain-of-thought reasoning improves performance on complex problems, but it also introduces redundancy accumulation, context overflow, and error anchoring. We argue that under bounded context windows, the core bottleneck is not trajectory compression or test-time control, but the absence of a reusable intermediate interface that can replace discarded history and support continued solving. We further identify a key failure mode of outcome-rewa"
+        },
+        {
+          "title": "TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+          "link": "https://arxiv.org/abs/2607.28657",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28657v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often require carefully crafted prompts to unlock their full potential, which can be a barrier for non-expert users. This work addresses the challenge by introducing a Task-Aware Prompt Rewriter (TAPR), a model that reformulates user prompts into task-optimized prompts with the explicit goal of improving downstream LLM performance. We train TAPR using reinforcement learning with Group Relative Policy Optimization (GRPO"
+        },
+        {
+          "title": "Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+          "link": "https://arxiv.org/abs/2607.28659",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28659v1 Announce Type: new \nAbstract: Cross-domain sequential recommendation (CDSR) aims to model users' dynamic interest transitions and sequential patterns across multiple domains. Recently, generative recommendation (GR) has emerged. It first learns semantic identifiers (SIDs) from item semantics and formulates recommendation as autoregressive generation. However, existing methods face two critical issues: (1) they ignore collaborative correlations across domains during tokenizatio"
+        },
+        {
+          "title": "An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+          "link": "https://arxiv.org/abs/2607.28662",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28662v1 Announce Type: new \nAbstract: Large language models extract entities and relationships from unstructured documents fluently but inconsistently: type vocabularies fracture across documents, the same person surfaces under several name variants, relationships duplicate, and distinct individuals who share a name risk silent conflation. This paper presents the design, implementation, and empirical refinement of a production extraction layer that converts a live document stream into"
+        },
+        {
+          "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
+          "link": "https://arxiv.org/abs/2607.28674",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28674v1 Announce Type: new \nAbstract: Understanding how computational effort is allocated across individual chain-of-thought (CoT) reasoning steps remains an open challenge: existing interpretability methods rely on output-level signals or collapse processing depth into a single trajectory-level scalar, leaving step-wise effort opaque. We propose Step-Aware Reasoning Energy (SARE), a geometric framework that quantifies effort at the granularity of individual CoT steps via Centered Ker"
+        },
+        {
+          "title": "Reasoning in Real World Clinical Care: Why Large Language Models Are Not Yet Safe for Autonomous Clinical Decision Support",
+          "link": "https://arxiv.org/abs/2607.28677",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28677v1 Announce Type: new \nAbstract: LLM now pass medical licensing examinations and, in curated cases, can rival physicians at diagnostic reasoning. These developments have accelerated the use of LLMs for symptom assessment and clinical decision support in diagnostic and treatment guidance, administrative documentation, and rules-based alert enhancement. This Perspective concerns the most consequential of these applications: the autonomous triage of self-presenting, undifferentiated"
+        },
+        {
+          "title": "ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding",
+          "link": "https://arxiv.org/abs/2607.28678",
+          "pubDate": "Mon, 03 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.28678v1 Announce Type: new \nAbstract: Multimodal agents operating in long-horizon environments must build and continually update multimedia memories to support entity-consistent, temporally grounded reasoning. However, existing agentic memory approaches often discard fine-grained dentity cues under aggressive compression and segment-wise processing. They also rely heavily on vector similarity retrieval, which can surface semantically related yet identity-mismatched evidence, leading t"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "NBER WP",
+      "url": "https://www.nber.org/rss/new.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Cognitive Limitations and Long-Term Care Use in the Netherlands: Evidence from the Lifelines Cohort Study -- by Gaia Bagnasco, Pieter Bakx, Stijn Coremans, Bram Wouterse",
+          "link": "https://www.nber.org/papers/w35538#fromrss",
+          "pubDate": "",
+          "summary": "We analyze the association between cognitive impairments and long-term care use in the 65+ population in the Netherlands. For this, we use data from the Lifelines Cohort Study that are linked to administrative records available through Statistics Netherlands. We find that, among those with cognitive impairments, long-term care use is concentrated in a subgroup: 42% of those with cognitive impairments do not use any long-term care. At the same time, individuals with cognitive impairments who use "
+        },
+        {
+          "title": "The China Backlash: Quantifying the Narrative Discourse on China -- by Mert Geyiktepe, Dani Rodrik",
+          "link": "https://www.nber.org/papers/w35539#fromrss",
+          "pubDate": "",
+          "summary": "Using text-as-data methods, we quantify the U.S. discourse on China, place it in historical perspective, and compare its evolution across different sources of public narrative. Our analysis is based on a large corpus of materials drawn from public records (presidential and congressional records, newspaper articles, social media, think tank reports). We develop two measures of narrative discourse: an indicator of the frequency with which China is covered and a proxy for how positively or negative"
+        },
+        {
+          "title": "Predictive Risk Scores in the Public Sector: Experimental Evidence from Child-Protection Investigations -- by E. Jason Baron, Arkadev Ghosh, Richard Lombardo",
+          "link": "https://www.nber.org/papers/w35540#fromrss",
+          "pubDate": "",
+          "summary": "Many public-sector decisions require allocating scarce attention under uncertainty. We examine whether algorithmic risk assessments improve child-protection decisions, where supervisors decide which cases need closer scrutiny. In a randomized evaluation of 4,752 child referrals over 14 months in Northampton County, supervisors received an algorithmic risk score alongside standard case records. Access to the score increased foster-care placements and services for children at highest predicted ris"
+        },
+        {
+          "title": "Financial Interdependence and Currency Internationalization -- by Zhengyang Jiang",
+          "link": "https://www.nber.org/papers/w35541#fromrss",
+          "pubDate": "",
+          "summary": "Does financial opening necessarily lead to currency internationalization? To study the competition between incumbent and rising powers under financial interdependence, we develop a model of asset demand with microfounded network effects. Search frictions with currency-specialized intermediaries generate distinct notions of liquidity at asset-market and currency-area levels, which jointly shape the trajectory of currency competition. In the U.S.-China context, China at early stages of financial d"
+        },
+        {
+          "title": "Winners and Losers: Competition, Creative Destruction, and Labor Income Risk -- by Brice C. Green, Leonid Kogan, Dimitris Papanikolaou, Lawrence D.W. Schmidt",
+          "link": "https://www.nber.org/papers/w35542#fromrss",
+          "pubDate": "",
+          "summary": "Using U.S. administrative data, we find that technology-driven creative destruction in the product market passes through to worker earnings. The passthrough to incumbent worker earnings is both asymmetric and concentrated: profit drops from rival innovations lead to proportionally greater earnings declines and changes in the likelihood of job destruction than profit gains from their own firm’s innovations, while top workers are significantly more exposed than the average worker. We develop an en"
+        },
+        {
+          "title": "Tying Incentives to Information: Diagnosis-Contingent Contracts and Biased Beliefs in Healthcare -- by Maria Dieci, Paul Gertler, Jonathan T. Kolstad, Carlos Paramo",
+          "link": "https://www.nber.org/papers/w35543#fromrss",
+          "pubDate": "",
+          "summary": "Unnecessary treatment reflects a gap between what patients believe about their health and their true condition; people often seek and consume care for diseases they suspect, but do not know that actually have. The value a patient places on testing therefore depends on their priors about being sick, and when those beliefs are biased, the resulting testing rate might be sub-optimal and leave welfare on the table. We study diagnosis-contingent incentive contracts, which tie treatment incentives to "
+        },
+        {
+          "title": "Two Selection Problems, One Bias Term: Experimental Sign-Up Is Treatment Choice in Disguise -- by John A. List",
+          "link": "https://www.nber.org/papers/w35544#fromrss",
+          "pubDate": "",
+          "summary": "Consider a referee report containing the sentence: “Assignment to treatment was voluntary, though the authors acknowledge this as a limitation in the conclusion.” The Editor would summarily reject. Now replace “assignment to treatment” with “entry into the experimental sample,” and the sentence describes the modal published experiment. This study shows that both biases are the same mathematical object. The bias from non-random sample entry is the sorting-on-gains term from the classic selection "
+        },
+        {
+          "title": "Detecting Critical Junctures as They Unfold: Foundations, Measurement, and Applications from 120 Years of Reporting -- by Michael Callen, Gregory Levy, Saipremnath Muthukumaran, Jonathan L. Weigel, Noam Yuchtman",
+          "link": "https://www.nber.org/papers/w35545#fromrss",
+          "pubDate": "",
+          "summary": "Explaining why some countries grow rich while others remain poor requires knowing how — and when — institutions change. A large body of research argues that institutional change often occurs at critical junctures: moments when multiple institutional futures are possible, including a return to the status quo. Yet most empirical work examines critical junctures only in retrospect, risking the omission of pivotal moments when institutions were in flux but ultimately remained unchanged. We develop a"
+        },
+        {
+          "title": "Time Travel on Professional Profiles -- by Nicholas Bloom, Gideon Moore, Lisa K. Simon, Caelan Wilkie-Rogers",
+          "link": "https://www.nber.org/papers/w35546#fromrss",
+          "pubDate": "",
+          "summary": "Economists increasingly use professional profile data to reconstruct employment histories and measure skill supply. We show that these records are not fixed historical snapshots, but mutable accounts that workers revise over time. Using monthly vintages of Revelio Labs data from 2020–2026, we document that 19.7 percent of established U.S. LinkedIn users retroactively edit the title or description of a job they have already left. These “time-travel” edits are closely tied to labor market transiti"
+        },
+        {
+          "title": "Designing Around Selection: Identification and Inference Under Multi-Dimensional Unobserved Heterogeneity -- by Brent R. Hickman, John A. List, Ian Muir, Gregory K. Sun",
+          "link": "https://www.nber.org/papers/w35547#fromrss",
+          "pubDate": "",
+          "summary": "We study identification and optimal policy design in a broad class of principal-agent models. We show that the most common empirical framework within the literature is equivalent to an unstructured potential-outcomes model augmented with three specific assumptions: the Law of Demand (LoD), or treatment-effect monotonicity; extrapolative model structure (EMS), which rules out lumpy agent responses to price changes; and rank invariance (RI), which restricts unobserved heterogeneity (UH) to be one-"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "HBS Working Knowledge",
+      "url": "https://hbswk.hbs.edu/rss/all.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Inside One Startup's Journey to Break Down Hiring (and Funding) Barriers",
+          "link": "https://hbswk.hbs.edu/item/inside-one-startups-journey-to-break-down-hiring-and-funding-barriers?cid=wk-rss",
+          "pubDate": "2024-11-12T09:59:10Z",
+          "summary": ""
+        },
+        {
+          "title": "What Wartime Service Taught These Historic Leaders",
+          "link": "https://hbswk.hbs.edu/item/what-wartime-service-taught-these-historic-leaders?cid=wk-rss",
+          "pubDate": "2024-11-08T11:39:18Z",
+          "summary": ""
+        },
+        {
+          "title": "How Private Investors Can Help Solve Africa's Climate Crisis",
+          "link": "https://hbswk.hbs.edu/item/how-private-investors-can-help-solve-africas-climate-crisis?cid=wk-rss",
+          "pubDate": "2024-11-08T10:24:08Z",
+          "summary": ""
+        },
+        {
+          "title": "Building the Road to 'Small Business Utopia' with AI and Fintech",
+          "link": "https://hbswk.hbs.edu/item/building-the-road-to-small-business-utopia-with-ai-and-fintech?cid=wk-rss",
+          "pubDate": "2024-11-05T11:35:35Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Can Help Leaders Communicate, But Can't Make Employees Listen",
+          "link": "https://hbswk.hbs.edu/item/ai-can-help-leaders-communicate-but-cant-make-employees-listen?cid=wk-rss",
+          "pubDate": "2024-11-05T08:46:59Z",
+          "summary": ""
+        },
+        {
+          "title": "Layoffs Surging in a Strong Economy? Advice for Navigating Uncertain Times",
+          "link": "https://hbswk.hbs.edu/item/layoffs-surging-in-strong-economy-advice-for-navigating-uncertain-times?cid=wk-rss",
+          "pubDate": "2024-11-01T13:41:06Z",
+          "summary": ""
+        },
+        {
+          "title": "Can a Coffee Shop in Utah Help Solve Underemployment for People with Disabilities?",
+          "link": "https://hbswk.hbs.edu/item/cold-call-can-a-coffee-shop-in-utah-help-solve-underemployment-for-people-with-disabilities?cid=wk-rss",
+          "pubDate": "2024-10-29T10:21:47Z",
+          "summary": ""
+        },
+        {
+          "title": "Latino Voters Have Grown More Politically Divided. That’s Not Surprising.",
+          "link": "https://hbswk.hbs.edu/item/democrats-are-losing-latino-voters-thats-not-surprising?cid=wk-rss",
+          "pubDate": "2024-10-29T13:42:03Z",
+          "summary": ""
+        },
+        {
+          "title": "Charting the US-China Trade War: What Does 'Made in Vietnam' Mean?",
+          "link": "https://hbswk.hbs.edu/item/charting-the-us-china-trade-war-whats-made-in-vietnam?cid=wk-rss",
+          "pubDate": "2024-10-24T10:00:03Z",
+          "summary": ""
+        },
+        {
+          "title": "With Millions of Workers Juggling Caregiving, Employers Need to Rethink Support",
+          "link": "https://hbswk.hbs.edu/item/with-millions-of-workers-juggling-caregiving-employers-need-to-rethink?cid=wk-rss",
+          "pubDate": "2024-10-29T15:53:04Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "think_tank",
+      "name": "RAND",
+      "url": "https://www.rand.org/blog.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Europe Could Help Get Ukraine and Russia to the Negotiating Table",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/europe-could-help-get-ukraine-and-russia-to-the-negotiating.html",
+          "pubDate": "2026-07-24T18:45:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Is Summer the New Winter? It Might Be for European Health Systems",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/is-summer-the-new-winter-it-might-be-for-european-health.html",
+          "pubDate": "2026-07-24T12:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Safeguarding the Future in the AI Era: Q&A with Sella Nevo",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/safeguarding-the-future-in-the-ai-era-qa-with-sella.html",
+          "pubDate": "2026-07-23T12:25:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Ukraine's Winning Strategy Against Russia: Attrition",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/ukraines-winning-strategy-against-russia-attrition.html",
+          "pubDate": "2026-07-22T14:15:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/bilateral-ai-partnerships-alone-wont-secure-australia.html",
+          "pubDate": "2026-07-14T09:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Making Health Insurance More Affordable: Q&A with Christine Eibner",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/making-health-insurance-more-affordable-qa-with-christine-eibner.html",
+          "pubDate": "2026-07-09T09:30:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html",
+          "pubDate": "2026-07-02T14:15:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Los Angeles' Homelessness Strategy Needs a Next Act",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/los-angeles-homelessness-strategy-needs-a-next-act.html",
+          "pubDate": "2026-06-30T15:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Israel's Isolation Is Deepening Fast. It Doesn't Have to Be This Way.",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/israels-isolation-is-deepening-fast-it-doesnt-have.html",
+          "pubDate": "2026-06-27T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "The Texas Screwworm Cases Are a Wake-Up Call for U.S. Biosecurity",
+          "link": "https://www.rand.org/pubs/commentary/2026/06/the-texas-screwworm-cases-are-a-wake-up-call-for-us.html",
+          "pubDate": "2026-06-26T16:00:00Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Sequoia",
+      "url": "https://www.sequoiacap.com/feed/",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Cyera and Oasis: Stronger Together",
+          "link": "https://sequoiacap.com/article/cyera-and-oasis-stronger-together/",
+          "pubDate": "Tue, 28 Jul 2026 14:25:38 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/cyera-and-oasis-stronger-together/\">Cyera and Oasis: Stronger Together</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "America’s Open-Model Paradox",
+          "link": "https://sequoiacap.com/article/americas-open-model-paradox/",
+          "pubDate": "Fri, 24 Jul 2026 23:46:04 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/americas-open-model-paradox/\">America’s Open-Model Paradox</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Etched: Building the Inference Machine",
+          "link": "https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/",
+          "pubDate": "Thu, 23 Jul 2026 15:00:15 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-etched-building-the-inference-machine/\">Partnering with Etched: Building the Inference Machine</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes",
+          "link": "https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/",
+          "pubDate": "Thu, 16 Jul 2026 17:00:13 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-bunkerhill-health-ai-agents-that-improve-patient-outcomes/\">Partnering with Bunkerhill Health: AI Agents that Improve Patient Outcomes</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Sable: Closing the Diffusion Gap",
+          "link": "https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/",
+          "pubDate": "Thu, 16 Jul 2026 16:00:02 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-sable-closing-the-diffusion-gap/\">Partnering with Sable: Closing the Diffusion Gap</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Partnering with Probook: AI for the Trades",
+          "link": "https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/",
+          "pubDate": "Tue, 23 Jun 2026 13:00:09 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/partnering-with-probook-ai-for-the-trades/\">Partnering with Probook: AI for the Trades</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Listen to the Market",
+          "link": "https://sequoiacap.com/article/listen-to-the-market/",
+          "pubDate": "Mon, 01 Jun 2026 20:32:11 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/listen-to-the-market/\">Listen to the Market</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "All Systems Nominal – Nominal Spotlight",
+          "link": "https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/",
+          "pubDate": "Thu, 21 May 2026 15:35:44 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/all-systems-nominal-nominal-spotlight/\">All Systems Nominal &#8211; Nominal Spotlight</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "AI Ascent 2026",
+          "link": "https://sequoiacap.com/article/ai-ascent-2026/",
+          "pubDate": "Fri, 08 May 2026 16:47:31 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/ai-ascent-2026/\">AI Ascent 2026</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        },
+        {
+          "title": "Standard Intelligence: Training General Intelligence in Pixel Space",
+          "link": "https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/",
+          "pubDate": "Thu, 30 Apr 2026 14:00:29 +0000",
+          "summary": "<p>The post <a href=\"https://sequoiacap.com/article/standard-intelligence-training-general-intelligence-in-pixel-space/\">Standard Intelligence: Training General Intelligence in Pixel Space</a> appeared first on <a href=\"https://sequoiacap.com\">Sequoia Capital</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/blog/rss.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Christopher Golda and Grey Baker Join YC as General Partners",
+          "link": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/",
+          "pubDate": "Tue, 16 Jun 2026 16:14:22 GMT",
+          "summary": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners."
+        },
+        {
+          "title": "Diana Hu Is YC's Newest Managing Partner",
+          "link": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
+          "pubDate": "Thu, 11 Jun 2026 17:01:59 GMT",
+          "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator.\n\nFew people have built a startup from zero and also shipped tech to 100 million people. Diana has done both."
+        },
+        {
+          "title": "Harshita Arora Joins YC as General Partner",
+          "link": "https://www.ycombinator.com/blog/welcome-harshita/",
+          "pubDate": "Mon, 06 Apr 2026 16:00:00 GMT",
+          "summary": "We're thrilled to announce that Harshita Arora is joining Y Combinator as a General Partner.  She brings deep fintech and infrastructure experience, a founder's instinct for product, and the perspective of someone who's been building companies since she was a teenager."
+        },
+        {
+          "title": "Adding Canada Back to Our List of Accepted Countries of Incorporation",
+          "link": "https://www.ycombinator.com/blog/adding-canada-back/",
+          "pubDate": "Thu, 05 Feb 2026 17:00:00 GMT",
+          "summary": "After hearing feedback from Canadian founders in our network, we are adding Canada back to our list of accepted countries of incorporation."
+        },
+        {
+          "title": "Congratulations to EquipmentShare on Going Public",
+          "link": "https://www.ycombinator.com/blog/congratulations-to-equipmentshare/",
+          "pubDate": "Fri, 23 Jan 2026 15:59:00 GMT",
+          "summary": "Today, EquipmentShare (YC W15) goes public. From Missouri to 373 locations nationwide, they've built the operating system construction has been missing—built by contractors, for contractors. Congrats to Jabbok, Willy, and the EquipmentShare team on a huge milestone."
+        },
+        {
+          "title": "Announcing the YC AI Stack",
+          "link": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack/",
+          "pubDate": "Fri, 16 Jan 2026 20:40:39 GMT",
+          "summary": "We've partnered with nearly two dozen companies to offer students who attend YC events a suite of over $25,000 in free credits for AI devtools."
+        },
+        {
+          "title": "2026 Demo Day Dates",
+          "link": "https://www.ycombinator.com/blog/2026-demo-days/",
+          "pubDate": "Thu, 18 Dec 2025 19:44:54 GMT",
+          "summary": "We’re excited to share the Demo Day dates for 2026 so founders, investors, and our broader community can plan ahead."
+        },
+        {
+          "title": "Meesho Goes Public",
+          "link": "https://www.ycombinator.com/blog/meesho-goes-public/",
+          "pubDate": "Wed, 10 Dec 2025 04:32:10 GMT",
+          "summary": "Meesho goes public today. From S16 to IPO, they’ve built one of India’s largest e-commerce platforms—empowering millions of small merchants to grow their businesses.\n\nCongrats to Vidit and Sanjeev on a decade of relentless building and listening to users!"
+        },
+        {
+          "title": "Congratulations to Groww",
+          "link": "https://www.ycombinator.com/blog/groww/",
+          "pubDate": "Wed, 12 Nov 2025 03:47:51 GMT",
+          "summary": "Today, Groww, India's leading digital investing platform, goes public. Tens of millions use Groww to invest simply and confidently in stocks, mutual funds, and ETFs. As YC's first company to list in India, we couldn't be more proud."
+        },
+        {
+          "title": "BillionToOne Goes Public — The Startup That Made Genetic Testing Universal",
+          "link": "https://www.ycombinator.com/blog/billiontoone/",
+          "pubDate": "Thu, 06 Nov 2025 15:52:00 GMT",
+          "summary": "Today, BillionToOne goes public, becoming YC's fourth publicly traded biotech company. More importantly, they have built one of the most important genetic tests in the U.S. Today, 1 in 11 babies born in the US are tested with BillionToOne's fetal genetic test."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "hr_media",
+      "name": "HBR",
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: timed out"
+    },
+    {
+      "category": "china",
+      "name": "36Kr",
+      "url": "https://36kr.com/feed",
+      "priority": 2,
+      "items": [
+        {
+          "title": "从实验到产线——AI 工作流的规模化挑战与协作生态 | 2026 ChinaJoy AI未来生态大会",
+          "link": "https://36kr.com/p/3923717502072969?f=rss",
+          "pubDate": "2026-08-03 19:39:13  +0800",
+          "summary": "<p>AI工作流如何从实验室的“惊艳一刻”走向产线的“日常运转”？当生成能力不再是门槛，规模化落地的瓶颈在哪里，人又该扮演什么角色？</p>\n  <p>内容生产正在经历从“技术验证”到“产业落地”的关键跨越。单点突破易，系统协同难，真正的挑战不在于模型能否生成，而在于工作流能否稳定运转、协作生态能否有效构建。技术红利终会趋平，越过规模化这道坎之后，行业最后比拼的是对场景的理解深度与工程化的落地能力。2026 ChinaJoy AI未来生态大会上，36氪游戏与Funloom AI、阿里云、VAST、珀乐互动等行业先行者，共同带来圆桌探讨。</p>\n  <p><strong>圆桌嘉宾：</strong></p>\n  <p><strong>刘士武丨36氪游戏主编（主持）</strong></p>\n  <p><strong>吴同丨Funloom&nbsp;AI&nbsp;CEO&nbsp;</strong></p>\n  <p><strong>艾文丨阿里云智能集团公共云AI原生事业部副总经理</strong></p>\n  <p><strong>罗小我丨VAST战略负责人</strong></p>"
+        },
+        {
+          "title": "德明利今��跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+          "link": "https://36kr.com/p/3923603053686151?f=rss",
+          "pubDate": "2026-08-03 17:44:31  +0800",
+          "summary": "<p class=\"image-wrapper\"><img data-img-size-val=\"1080,458\" src=\"https://img.36krcdn.com/hsossms/20260803/v2_d4d3e685b30f4f4c904ddc0fe3c2f434@5284654_oswg693586oswg1080oswg458_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图片1</p>\n  <p>&nbsp;</p>\n  <h3><strong>今日A股收盘数据</strong></h3>\n  <p>上证指数：3809.66&nbsp;点，-0.59%</p>\n  <p>深证成指：13448.29&nbsp;点，-0.96%</p>\n  <p>创业板指：3302.55&nbsp;点，-1.24%</p>\n  <p>&nbsp;</p>\n  <h3><strong>德明利8月3日下跌9.56%</strong></h3>\n  <p><strong>349."
+        },
+        {
+          "title": "可灵观察②｜用可灵重现《霸王别姬》：电影感足了，复杂叙事如何更稳？",
+          "link": "https://36kr.com/p/3923465542364545?f=rss",
+          "pubDate": "2026-08-03 16:12:09  +0800",
+          "summary": "<p>其中高质量画面、电影感镜头、广告和商业短片是用户提及率最高的应用场景。</p>\n  <p>这次，我们进一步展开测试：如果可灵最被期待的是电影感，它能否支撑包含人物、动作和情绪的完整短片创作？</p>\n  <p>围绕“霸王别姬”主题，我们原创了测试脚本《霸王别姬·前世今生》，使用可灵3.0的首尾帧图生视频与主体绑定功能，完成了一轮压力测试。本次测试围绕人物一致性、构图与空间层次、光影与氛围塑造、动作与运镜设计四大维度展开，既保留了完成度较高的镜头，也完整记录了复杂任务中的试错过程。</p>\n  <p><strong>先说核心结论：可灵3.0更适合关键镜头的创作。</strong></p>\n  <p>模型在构图、光影、情绪氛围和人物主体一致性上表现突出，针对目标明确的短动作镜头，可以稳定产出高质量画面。若需用可灵处理复杂叙事影片，更稳妥的思路是把长动作拆成单目标的短镜头，再通过分镜设计与后期剪辑串联为完整段落。</p>\n  <p>当任务同时涉及跨空间移动、多道具与多人物打斗场景时，最终画面效果高度依赖提示词、参考图、镜头时长和拆分方法。</p>\n  <p>这次压力测试，目的是找到更稳"
+        },
+        {
+          "title": "硬氪首发 | 硅光资深团队获数千万天使轮融资，瞄准CPO/OIO下一代光互连解决方案",
+          "link": "https://36kr.com/p/3923374038265217?f=rss",
+          "pubDate": "2026-08-03 13:43:36  +0800",
+          "summary": "<p>硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。</p>\n  <p>量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optical IO(OIO)及共封装光学(CPO)的研发及应用。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1080,810\" src=\"https://img.36krcdn.com/hsossms/20260803/v2_a1cc1824150a471a80ba772bb4f40ea1@6310669_oswg96227oswg1080oswg810_img_000?x-oss-process=image/format,jpg/interlace,1\"></p>\n  <p class=\"img-desc\">图源企业</p>\n  <p>公司创始团队融合了国内外研发和制造经验，创始人李耀基拥有30余年的集成电路行业经验，曾任重庆联合微电子CUMEC工程副总裁，Cade"
+        },
+        {
+          "title": "前安克3D打印业务负责人要做B端工具产品，获数千万融资｜36氪首发",
+          "link": "https://36kr.com/p/3923371035831684?f=rss",
+          "pubDate": "2026-08-03 13:40:12  +0800",
+          "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>36氪获悉，3D打印智能制造品牌「轻量智造（LightMake）」连续完成两轮共计超2500万元人民币融资，投资机构有海目星激光老板家族办公室、南山资本、卓源亚洲、朗翰资本。本轮融资资金主要用于产品研发、供应链体系搭建以及全球市场推广。</p>\n  <p>「轻量智造」成立于2025年，团队为中高端SMB（中小型企业）与Pro C（专业个人）用户研发生产桌面化、小型的“轻量化制造工具”，初代产品LightMake为独立四头3D打印机，目前已在Kickstarter平台上众筹，定价为2399美金。</p>\n  <p>凭借极致的易用性和多色打印技术，消费级3D打印市场迎来了前所未有的爆发。海关数据显示，今年1至4月，中国3D打印机累计出口246万台，同比增长100.3%。</p>\n  <p>在巨头林立、资源高度向头部聚集的消费级3D打印红海中，新入局者想要分一杯羹并不容易。轻量智造选择了一条截然不同的道路——不做玩具，做工具。</p>\n  <p>轻量智造创始人兼CEO王志宇告诉36氪“我们不讲娱乐，我们讲的是纯粹的制造逻辑（"
+        },
+        {
+          "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+          "link": "https://36kr.com/p/3923367465266824?f=rss",
+          "pubDate": "2026-08-03 13:36:21  +0800",
+          "summary": "<p>文｜张子怡</p>\n  <p>编辑｜袁斯来</p>\n  <p>从大疆走出的 Ebike 公司 Amflow 进入赛道的时机谈不上好，那一年，不少中国Ebike厂商已选择战略性放弃或者转向美国市场。没人想到，它能将6499欧元起的高端Ebike卖出3万辆。</p>\n  <p>36氪独家获悉，从大疆独立的Ebike公司Amflow，整体营收已突破10亿元。同样从大疆诞生的Ebike助力系统品牌Avinox，已经有60多个客户，目前也已从大疆拆分独立运营。</p>\n  <p>过去三年，欧洲Ebike市场受困于高库存压力，不少整车品牌商出现过倒闭潮，市场增速显著放缓，库存去化一年又一年。但Amflow和Avinox仍然在这种惨淡中入场。</p>\n  <p>它们的诞生，带着点“任性”。</p>\n  <p>从一开始，Avinox就去切Ebike中研发门槛和难度最高的电助力山地车助力系统。他们花了3年时间才完成研发，以为好产品一定会引爆市场。2023年，Avinox团队带着产品原型去欧洲自行车展寻找和自行车整车品牌合作时，发现自行车行业和消费电子行业节奏差距非常大。有意向的客户问了一个他们没有"
+        },
+        {
+          "title": "36氪首发 | 商飞团队创业eVTOL再获数亿元融资，已进入适航关键阶段",
+          "link": "https://36kr.com/p/3923317976526208?f=rss",
+          "pubDate": "2026-08-03 12:46:57  +0800",
+          "summary": "<p>作者&nbsp;|&nbsp;乔钰杰</p>\n  <p>编辑&nbsp;|&nbsp;袁斯来</p>\n  <p>硬氪获悉，电动垂直起降飞行器（eVTOL）研发制造商「亿维特航空」近日完成数亿元A+轮融资。本轮融资由上城资本、普华资本等投资，深蓝资本担任独家财务顾问。截至目前，亿维特航空已获得国家级基金、上市公司及地方国资等多方资本支持。</p>\n  <p>亿维特航空（以下简称“亿维特”）成立于2022年，定位为载人eVTOL飞行器研发制造。公司核心团队来自中国商飞体系，包括4位正高级研究员及多位运8系列改型项目骨干，平均航空从业经验超过15年。创始人任文广曾参与运8系列、ARJ21、C919等国产飞机型号研发，拥有近20年航空器设计验证经验。</p>\n  <p class=\"image-wrapper\"><img data-img-size-val=\"1080,608\" src=\"https://img.36krcdn.com/hsossms/20260803/v2_41c43f60a4644ac5ac6d2ae7b0688269@5920579_oswg843826oswg10"
+        },
+        {
+          "title": "让Agent在协作中自进化，清华00后博士获千万元融资 | 36氪首发",
+          "link": "https://36kr.com/p/3919025939246727?f=rss",
+          "pubDate": "2026-08-03 08:10:16  +0800",
+          "summary": "<p>文 | 赵京娜</p>\n  <p>访谈 编辑 | 海若镜</p>\n  <p>36氪获悉，近日奇点逃逸完成千万级种子轮融资，由星连资本与水木创投联合领投，奇绩创坛跟投。其正在研发AI原生团队协作操作系统Nexus，让人、Agent、任务、知识和工具基于同一份组织状态持续协作，并让系统从每一次协作中有证据地变强。</p>\n  <p>奇点逃逸创始人兼CEO薛传奕，本科、博士阶段均在清华大学就读，研究方向覆盖强化学习与多智能体，曾以第一作者身份在NeurIPS、CJA等学术会议和期刊发表论文；在商汤、鉴智机器人实习期间，参与自动驾驶算法研发与实车部署。</p>\n  <p>“<strong>今天，Agent已经像能力出众的个体，但它们还没有真正进入组织</strong>，”薛传奕介绍道。</p>\n  <p>一个越来越常见的工作日可能是这样开始的：产品经理把需求交给一个Agent梳理，研发同时让另一个Agent修改代码，运营则在第三个对话窗口里研究发布方案。几个小时后，每个Agent都完成了自己的部分，也各自拥有一段完整的上下文。但当三项工作需要合并时，团队才发现，没人清楚另一个Agent做"
+        },
+        {
+          "title": "8点1氪丨蔡崇信宣布离婚，不涉及出售阿里股份；瑞幸回应员工对嘴喷奶油；IF椰子水市值从126亿暴跌到16亿",
+          "link": "https://36kr.com/p/3923043072634498?f=rss",
+          "pubDate": "2026-08-03 08:07:39  +0800",
+          "summary": "<h2>今日热点导览</h2>\n  <p>马斯克关注了DeepSeek的X账号</p>\n  <p>祥鹏航空回应航班误发过期方便面</p>\n  <p>OpenAI或将IPO推迟到明年</p>\n  <p>SpaceX首份财报即将发布</p>\n  <p>小米多款手机正式涨价</p>\n  <p>每月10万美元，特朗普“真实社交”售卖“优先访问权”</p>\n  <h2>TOP3大新闻</h2>\n  <p><strong>蔡崇信宣布离婚，不涉及出售阿里股份</strong></p>\n  <p>8月1日，阿里巴巴集团董事会主席、美国职业篮球队布鲁克林篮网主要所有者蔡崇信与妻子吴明华决定结束持续近30年的婚姻。声明称，这一决定由双方共同作出，彼此仍保持尊重，离婚过程将以友好方式进行。声明表示，蔡崇信与吴明华近年来的关系逐渐转变为共同经营事业、共同抚养子女的合作伙伴关系。虽然双方在个人生活上逐渐疏远，但商业合作关系仍将保持牢固和专业。</p>\n  <p>此外，声明明确表示，蔡崇信目前没有出售任何阿里巴巴股票的计划，其担任阿里巴巴集团董事会主席的职务也不会因离婚受到影响。此次离婚也不会改变双方在布鲁克林体"
+        },
+        {
+          "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+          "link": "https://36kr.com/p/3920595518533250?f=rss",
+          "pubDate": "2026-08-01 14:37:32  +0800",
+          "summary": "<p>如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。&nbsp;</p>\n  <p>因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，是当时国内屈指可数的大型游戏展会。&nbsp;</p>\n  <p>但二十年多后，如果有人走进2026 年的 ChinaJoy，还觉得它只是关于游戏，他大概会错过这个时代最值得看的一件事。&nbsp;</p>\n  <p>2026年，ChinaJoy 即将在7月底的上海举办第二十三届展会。&nbsp;</p>\n  <p><strong>如今的 ChinaJoy 还只是游戏展吗？</strong></p>\n  <p>它依然是全国最爱玩、最关注游戏的年轻人一年一度的线下聚会，这件事从未改变。但同时，ChinaJoy 正在悄然成为「科技 + 数字娱乐」行业一年一度的线下交汇点。&nbsp;</p>\n  <p>过去三年，科技对数字娱乐的改造速度超过了所有人的预期：AI "
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "consulting",
+      "name": "BCG (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Boston+Consulting+Group%22+future+of+work&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Deloitte (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Deloitte%22+human+capital+trends&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Accenture (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Accenture%22+talent+%22future+of+work%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 60] Operation timed out>"
+    },
+    {
+      "category": "vc",
+      "name": "a16z (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Andreessen+Horowitz%22+OR+%22a16z%22+AI+agent&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "think_tank",
+      "name": "Brookings (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Brookings%22+AI+labor+market&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "think_tank",
+      "name": "WEF (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22World+Economic+Forum%22+%22future+of+jobs%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "hr_media",
+      "name": "Mercer (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Mercer%22+total+rewards+OR+compensation&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "category": "hr_media",
+      "name": "WTW (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Willis+Towers+Watson%22+compensation+pay&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ],
+  "success_count": 10,
+  "failure_count": 9
+}
