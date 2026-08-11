@@ -169,7 +169,14 @@ def main(date: str | None = None, model: str = DEFAULT_MODEL) -> dict[str, int]:
         start_idx = batch_start + 1
         print(f"🔄 分类批 [{start_idx}-{start_idx + len(batch) - 1}] / {len(flat_items)}")
         results = classify_batch(batch, start_idx, model)
+        if not isinstance(results, list):
+            print(f"⚠️ 第 {start_idx} 批返回非列表结构，跳过")
+            continue
         for r in results:
+            # qwen 偶尔把每项返回成字符串而非对象，跳过以免整批崩溃
+            if not isinstance(r, dict):
+                print(f"⚠️ 第 {start_idx} 批含非对象项（{type(r).__name__}），已跳过")
+                continue
             idx = r.get("index")
             if idx is not None and 1 <= idx <= len(flat_items):
                 all_classifications[idx] = {
