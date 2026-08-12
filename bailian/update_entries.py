@@ -252,6 +252,131 @@ def refresh_module_readmes() -> int:
     return changed
 
 
+# ─────────────────── 5. 首页 README 今日精华刷新 ───────────────────
+
+def _parse_auto_report(date_str: str) -> dict | None:
+    """从当日 auto.md 解析首页所需字段"""
+    report = REPORT_DIR / f"{date_str}-auto.md"
+    if not report.exists():
+        return None
+    text = report.read_text()
+
+    win = re.search(r"\*\*抓取窗口\*\*：(\S+)", text)
+    cov = re.search(r"\*\*信源覆盖\*\*：(.+)", text)
+
+    signals = []
+    for blk in re.split(r"^### 信号 ?\d+ ?[：:]", text, flags=re.M)[1:]:
+        title = blk.splitlines()[0].strip()
+        fact = re.search(r"\*\*事实\*\*：(.+)", blk)
+        insight = re.search(r"\*\*HR 启示\*\*：(.+)", blk)
+        counter = re.search(r"\*\*反方对冲\*\*：(.+)", blk)
+        signals.append({
+            "title": title,
+            "fact": fact.group(1).strip() if fact else "",
+            "insight": insight.group(1).strip() if insight else "",
+            "counter": counter.group(1).strip() if counter else "",
+        })
+
+    # 行动速查表（跳过表头与分隔行）
+    actions = []
+    sect = re.search(r"## 💼 本周 HR 行动速查[^\n]*\n(.*?)(?=\n---)", text, flags=re.S)
+    if sect:
+        for line in sect.group(1).splitlines():
+            cells = [c.strip() for c in line.strip().strip("|").split("|")] if line.strip().startswith("|") else []
+            if len(cells) == 4 and "优先级" not in cells[0] and "---" not in cells[0]:
+                actions.append(cells)
+
+    # 金句出处作为素材亮点
+    sources = []
+    for m in re.finditer(r"——\s*(.+?)\s*$", text, flags=re.M):
+        s = m.group(1).strip().rstrip("*")
+        if s and s not in sources:
+            sources.append(s)
+
+    return {
+        "window": win.group(1)[:16].replace("T", " ") if win else date_str,
+        "coverage": cov.group(1).strip() if cov else "",
+        "signals": signals[:3],
+        "actions": actions[:5],
+        "sources": sources[:6],
+    }
+
+
+def refresh_homepage(date_str: str, snapshot: Path) -> bool:
+    """刷新首页 README.md 的入口链接、今日精华、三条信号、行动速查与版本日期"""
+    readme = WORKSPACE / "README.md"
+    data = _parse_auto_report(date_str)
+    if not readme.exists() or not data or not data["signals"]:
+        print("  ⚠️  首页刷新跳过（README 或当日报告缺失）")
+        return False
+
+    s = orig = readme.read_text()
+    visual = f"daily-reports/{date_str}-visual.md"
+    auto = f"daily-reports/{date_str}-auto.md"
+
+    # 1. 板块导览里的日期型入口
+    s = re.sub(r"(\| 📅 \*\*每日日报\*\*.*?\[👉 进入\]\()[^)]+(\))", rf"\1{visual}\2", s)
+    s = re.sub(r"(\| 📈 \*\*数据看板\*\*.*?\[👉 进入\]\()[^)]+(\))", rf"\1dashboard/{snapshot.name}\2", s)
+    latest_event = _latest_by_date(list((WORKSPACE / "events").glob("auto-*.md")))
+    if latest_event:
+        s = re.sub(r"(\| 📅 \*\*行业议程\*\*.*?\[👉 进入\]\()[^)]+(\))",
+                   rf"\1events/{latest_event.name}\2", s)
+
+    # 2. 今日精华 + 三条信号 + 素材亮点
+    sig_lines = []
+    for i, sig in enumerate(data["signals"], 1):
+        parts = [f"**{sig['title']}**"]
+        if sig["fact"]:
+            parts.append(f"——{sig['fact']}")
+        if sig["insight"]:
+            parts.append(f" HR 启示：{sig['insight']}")
+        if sig["counter"]:
+            parts.append(f"（反方：{sig['counter']}）")
+        sig_lines.append(f"{i}. {''.join(parts)} [详情]({visual})")
+
+    highlight = "\n".join([
+        f"### 🔥 今日精华（{date_str}）",
+        "",
+        f"> 抓取窗口：{data['window']} · 信源覆盖：{data['coverage']}",
+        f"> 完整阅读：[👉 可视化版]({visual}) · [👉 纯文字版]({auto})",
+        "",
+        "### 三条核心信号",
+        "",
+        *sig_lines,
+        "",
+        "### 高价值素材亮点",
+        f"- {' · '.join(data['sources'])} · [完整 8 板块]({visual})" if data["sources"]
+        else f"- [完整 8 板块]({visual})",
+        "",
+        "",
+    ])
+    s = re.sub(r"### 🔥 今日精华（.*?\n(?=---\n)", highlight, s, flags=re.S)
+
+    # 3. 行动速查表
+    if data["actions"]:
+        rows = "\n".join("| " + " | ".join(a) + " |" for a in data["actions"])
+        table = "\n".join([
+            f"### 💼 本周 HR 行动速查（截至 {date_str[5:].replace('-', '-')}）",
+            "",
+            "| 优先级 | 行动 | 时间窗 | 依据 |",
+            "|---|---|---|---|",
+            rows,
+            "",
+            "",
+        ])
+        s = re.sub(r"### 💼 本周 HR 行动速查（.*?\n(?=---\n)", table, s, flags=re.S)
+
+    # 4. 版本行日期
+    s = re.sub(r"(\- \*\*版本\*\*：v[\d.]+（)\d{4}-\d{2}-\d{2}(）)", rf"\g<1>{date_str}\2", s)
+
+    if s != orig:
+        readme.write_text(s)
+        print(f"  📌 首页 README.md 已刷新至 {date_str}")
+        return True
+    print("  ✅ 首页已是最新")
+    return False
+
+
 def main(date: str | None = None) -> dict:
     date_str = date or datetime.now().strftime("%Y-%m-%d")
     print(f"🧭 板块入口保鲜 · 基准日期 {date_str}")
@@ -259,8 +384,10 @@ def main(date: str | None = None) -> dict:
     nav = refresh_navbar(snapshot)
     side = refresh_sidebar_dashboard(snapshot)
     readmes = refresh_module_readmes()
+    home = refresh_homepage(date_str, snapshot)
     return {"snapshot": snapshot.name, "navbar_changed": nav,
-            "sidebar_changed": side, "readmes_changed": readmes}
+            "sidebar_changed": side, "readmes_changed": readmes,
+            "homepage_changed": home}
 
 
 if __name__ == "__main__":
