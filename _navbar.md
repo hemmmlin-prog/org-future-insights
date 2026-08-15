@@ -8,4 +8,4 @@
 - [📚 阅读](readings/README.md)
 - [🧭 词典](dictionary/glossary.md)
 - [📈 数据](dashboard/2026-08-11-snapshot.md)
-- [📅 议程](events/auto-2026-08-14.md)
+- [📅 议程](events/auto-2026-08-15.md)
