@@ -9,42 +9,42 @@
 
 | 板块 | 你在这里能得到什么 | 入口 |
 |---|---|---|
-| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-08-14-visual.md) |
+| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-08-17-visual.md) |
 | 🏢 **公司 & 关键人** | OpenAI / GitHub / Samsung / YC 等顶尖公司 + CEO/VC 言论追踪 | [👉 进入](companies/README.md) |
 | 🎓 **报告 & 研究** ⭐ | McKinsey / NBER / Sequoia 等权威报告及研究论文（**HR 同事最常用**） | [👉 进入](research/README.md) |
 | 📊 **转型案例** | AI 转型成功 ✅ vs 失败 ❌ 案例库 + 中国硬科技创业融资 | [👉 进入](cases/README.md) |
 | 📚 **延伸阅读** | HBR / Sequoia / OpenAI 深度长文 + 编辑导读 | [👉 进入](readings/README.md) |
 | 🧭 **HR 词典** | 12+ HR/组织新概念中英对照（agentic / orchestrator / mindset...） | [👉 进入](dictionary/glossary.md) |
 | 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/2026-08-11-snapshot.md) |
-| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-08-14.md) |
+| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-08-17.md) |
 
 ---
 
-### 🔥 今日精华（2026-08-14）
+### 🔥 今日精华（2026-08-17）
 
-> 抓取窗口：2026-08-14 06:02 · 信源覆盖：9 源成功 / 90 条 items / 命中类目（如 tech + academia + vc + china）
-> 完整阅读：[👉 可视化版](daily-reports/2026-08-14-visual.md) · [👉 纯文字版](daily-reports/2026-08-14-auto.md)
+> 抓取窗口：2026-08-17 06:03 · 信源覆盖：7 源成功 / 70 条 items / 命中类目（tech + academia + vc + consulting）
+> 完整阅读：[👉 可视化版](daily-reports/2026-08-17-visual.md) · [👉 纯文字版](daily-reports/2026-08-17-auto.md)
 
 ### 三条核心信号
 
-1. **企业如何利用 AI 实现长期价值创造**——根据 McKinsey 的报告《Driving value with an investor mindset》（2026-08-13），许多领导者在确保战略的执行和长期价值创造方面面临挑战。OpenAI 的研究显示，企业正在通过 ChatGPT 和 Codex 等工具采用 Agentic AI，以加速产品开发和运营智能化（2026-08-12）。此外，NBER 的一篇论文《AI Financial Advice: Supply, Demand, and Life Cycle Implications》（2026-08-14）探讨了 LLMs 在提供财务建议方面的潜力。 HR 启示：这些趋势表明，HR 需要重新评估其在组织中的角色，从传统的招聘和培训转向更广泛的业务支持，包括推动 AI 工具的采用和培训员工使用这些工具。这将有助于提高组织的整体效率和创新能力。（反方：HBR 的文章《Leadership Drift Is Stalling Your AI Strategy》（2026-08-11）指出，领导层的漂移可能会阻碍 AI 战略的实施。如果高层领导不一致或缺乏明确的方向，即使有最好的工具和技术，也可能无法实现预期的效果。） [详情](daily-reports/2026-08-14-visual.md)
-2. **AI 在金融领域的应用正在重塑行业格局**——McKinsey 的报告《How instant payments are transforming the financial landscape》（2026-08-13）指出，即时支付正在迅速改变金融行业的面貌。OpenAI 的新服务 Ultrafast mode 可以将 GPT-5.6 Sol 的速度提高到原来的 14 倍，每秒输出高达 750 个令牌（2026-08-13）。NBER 的论文《A Currency Premium Puzzle》（2026-08-14）探讨了货币溢价问题，并指出现有的资产定价模型在开放经济中表现不佳。 HR 启示：随着 AI 在金融领域的广泛应用，HR 需要关注金融科技人才的招聘和培养。同时，HR 还需要与 IT 部门合作，确保员工能够有效利用这些新技术，从而提高工作效率和客户满意度。（反方：RAND 的评论文章《AI, China, and the New Risks to U.S. Security》（2026-08-12）指出，AI 的广泛应用也带来了新的安全风险，特别是在金融领域。因此，HR 在推动 AI 应用的同时，也需要关注数据安全和隐私保护。） [详情](daily-reports/2026-08-14-visual.md)
-3. **开发者角色的转变：从编码者到编排者**——GitHub Blog 的文章《From coder to orchestrator: How agents shift the role of a developer》（2026-08-11）指出，随着 AI 代理的普及，开发者的工作重心正在从编写代码转向管理和协调这些代理。OpenAI 的研究也显示，企业正在通过 ChatGPT 和 Codex 等工具实现这一转变（2026-08-12）。arXiv 上的一篇论文《Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes》（2026-08-13）探讨了多 LLM 代理系统的动态治理。 HR 启示：HR 需要重新定义开发者的职业发展路径，提供更多关于 AI 代理管理和协调的培训。这不仅有助于提升员工的技能，还能使他们更好地适应未来的工作环境。（反方：HBR 的文章《AI Makes Building Easy. Choosing What to Build Is Harder.》（2026-08-12）指出，虽然 AI 使得构建变得容易，但选择构建什么仍然是一个挑战。因此，HR 在推动技术变革的同时，也需要关注战略规划和决策能力的培养。） [详情](daily-reports/2026-08-14-visual.md)
+1. **AI 在企业中的应用加速，HR 需要重新定义角色和技能**——OpenAI 的最新研究显示，企业正在广泛采用 AI 技术，特别是在 ChatGPT 和 Codex 方面。RingCentral 使用这些工具来加速产品开发和集中运营智能（来源：OpenAI, 2026-08-12）。GitHub 博客也指出，开发者正在从单纯的编码者转变为编排者，负责更多的交付系统管理（来源：GitHub Blog, 2026-08-11）。 HR 启示：这意味着 HR 需要重新定义员工的角色和技能要求，特别是对于技术岗位。传统的编码技能可能不再是唯一的要求，而是需要具备管理和协调 AI 工具的能力。（反方：NBER 的一项研究表明，尽管 AI 可以提供金融建议，但其长期效果仍需进一步验证（来源：NBER, 2026-08-12）。） [详情](daily-reports/2026-08-17-visual.md)
+2. **经济强劲下的裁员潮，HR 需要灵活应对**——哈佛商学院的研究指出，在经济强劲的情况下，许多公司仍在进行裁员（来源：HBS Working Knowledge, 2026-08-01）。这表明企业在面对不确定性和成本压力时，即使在经济状况良好的情况下，也可能采取裁员措施。 HR 启示：HR 需要更加灵活地应对这种不确定性，制定更加灵活的人力资源策略，包括培训、再就业支持和心理辅导等。（反方：McKinsey 的报告强调，长期价值创造是建立强大公司和经济的基础，领导者需要确保战略得到投资者的认可（来源：McKinsey, 2026-08-13）。） [详情](daily-reports/2026-08-17-visual.md)
+3. **AI 在金融服务中的广泛应用，HR 需要关注数据安全和隐私保护**——McKinsey 的报告显示，即时支付正在改变金融格局，商业支付玩家需要跟上快速变化的环境（来源：McKinsey, 2026-08-13）。同时，OpenAI 开始在 ChatGPT 中测试广告，以支持免费访问，并提供了明确的标签、独立的答案、强大的隐私保护和用户控制（来源：OpenAI, 2026-08-11）。 HR 启示：HR 需要关注数据安全和隐私保护，特别是在引入新的 AI 工具和服务时。这不仅涉及到技术层面的安全措施，还需要加强员工的数据安全意识培训。（反方：RAND 的一篇评论文章指出，AI 的广泛应用带来了新的安全风险，特别是在与中国相关的领域（来源：RAND, 2026-08-12）。） [详情](daily-reports/2026-08-17-visual.md)
 
 ### 高价值素材亮点
-- McKinsey, 2026-08-13 · McKinsey, 2026-08-12 · GitHub, 2026-08-11 · NBER, 2026-08-14 · [完整 8 板块](daily-reports/2026-08-14-visual.md)
+- GitHub Blog, 2026-08-11 · HBS Working Knowledge, 2026-08-01 · OpenAI, 2026-08-11 · McKinsey, 2026-08-12 · [完整 8 板块](daily-reports/2026-08-17-visual.md)
 
 ---
 
-### 💼 本周 HR 行动速查（截至 08-14）
+### 💼 本周 HR 行动速查（截至 08-17）
 
 | 优先级 | 行动 | 时间窗 | 依据 |
 |---|---|---|---|
-| 🔴 高 | 评估当前的 AI 工具使用情况，并制定培训计划 | 本周 | 信号 1 |
-| 🟠 中 | 与 IT 部门合作，确保员工能够有效利用 AI 工具 | 本月 | 信号 2 |
-| 🟠 中 | 重新定义开发者的职业发展路径，增加 AI 代理管理和协调的培训 | 本月 | 信号 3 |
-| 🟡 中低 | 关注数据安全和隐私保护，制定相应的政策和措施 | 半年 | 信号 2 |
-| 🟢 长期 | 推动战略规划和决策能力的培养，确保 AI 项目的成功 | 本年 | 信号 3 |
+| 🔴 高 | 重新定义技术岗位的角色和技能要求，特别是 AI 相关的技能 | 本周 | 信号 1 |
+| 🟠 中 | 制定灵活的人力资源策略，包括培训、再就业支持和心理辅导 | 本月 | 信号 2 |
+| 🟠 中 | 加强员工的数据安全意识培训，特别是在引入新的 AI 工具和服务时 | 本月 | 信号 3 |
+| 🟡 中低 | 评估现有 AI 工具的应用情况，确保其符合公司的长期战略 | 本季 | 信号 1 |
+| 🟢 长期 | 持续关注 AI 在金融服务中的应用趋势，调整相关政策 | 本年 | 信号 3 |
 
 ---
 
@@ -83,7 +83,7 @@
 
 - **更新频率**：每天凌晨 06:00 自动抓取最新素材，上午由 HR / Agent 触发深度分析
 - **数据来源**：100% 公开权威源，本地运行不上传任何云端
-- **版本**：v0.5.6（2026-08-14）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
+- **版本**：v0.5.6（2026-08-17）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
 
 ---
 
