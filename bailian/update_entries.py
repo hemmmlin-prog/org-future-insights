@@ -19,6 +19,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 from bailian.generate_daily import WORKSPACE, REPORT_DIR
+from bailian.track_cases import main as run_track_cases
 
 DASHBOARD_DIR = WORKSPACE / "dashboard"
 NAVBAR_PATH = WORKSPACE / "_navbar.md"
@@ -385,9 +386,11 @@ def main(date: str | None = None) -> dict:
     side = refresh_sidebar_dashboard(snapshot)
     readmes = refresh_module_readmes()
     home = refresh_homepage(date_str, snapshot)
+    cases = run_track_cases(date_str)
     return {"snapshot": snapshot.name, "navbar_changed": nav,
             "sidebar_changed": side, "readmes_changed": readmes,
-            "homepage_changed": home}
+            "homepage_changed": home, "cases_tracked": cases["tracked"],
+            "cases_new": cases["new_today"]}
 
 
 if __name__ == "__main__":

@@ -92,6 +92,7 @@
   - [NBER · AI Transition Investment（Wachter）](research/nber-ai-investment-2026-06-14.md)
 
 - 📊 转型案例
+  - [🔥 AI 原生转型 · 重点跟踪](cases/tracking-ai-native.md)
   - [❌ H&M 全球架构重组 · 大中华区降级](cases/hm-global-restructure-2026-06-14.md)
 
 - 📚 延伸阅读
