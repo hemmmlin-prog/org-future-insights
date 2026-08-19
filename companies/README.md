@@ -28,16 +28,54 @@ HR 同事最常被问到的两类问题：
 | **阿里** | 通义千问 / 钉钉 AI 双线 | 百练大模型开放 + 钉钉 AI 助理全量推送；组织调整 1+6+N |
 | **Microsoft** | Copilot Stack / AI Agents | Copilot 渗透率超 50%；Agent 生态布局；组织内“同事 AI”常态化 |
 
-### 👤 关键人物言论追踪（v0.2.2 接入）
+### 👤 关键人物追踪矩阵（v0.5 升级 · 按维度分类）
+
+> 聚焦 **AI × 组织 / HR 交叉领域**的高信号人物。⭐ = 一线必追。
+
+**🎯 一线必追 · AI × 工作设计 / HR 职能**
+
+| 人物 | 角色 | 关键立场 / 代表作 |
+|---|---|---|
+| ⭐ Ravin Jesuthasan | Mercer 转型服务全球负责人 | 《Work Without Jobs》《Skills-Powered Organization》——"解构工作→技能"框架旗手 |
+| ⭐ Amy Edmondson | 哈佛商学院教授 | 心理安全奠基人；AI 协作下的团队信任 |
+| ⭐ Josh Bersin | HR Tech 分析师 | 《HR 2030 / Agentic HR》；Mindset > Skillset |
+| John Boudreau | USC 教授 | 与 Jesuthasan 合著，工作重构实证派 |
+| Ethan Mollick | Wharton 教授 | 《Co-Intelligence》；"HR 是组织的研发部门" |
+
+**🏛️ 战略视野 · 在任 CEO / CHRO**
 
 | 人物 | 角色 | 关键立场 |
 |---|---|---|
 | Sam Altman | OpenAI CEO | "AI 是组织底层算法" |
-| Satya Nadella | Microsoft CEO | "Copilot Stack" |
-| Reid Hoffman | LinkedIn 创始人 | "Superagency" |
-| Josh Bersin | HR Tech 教父 | Mindset > Skillset |
-| Garry Tan | YC CEO | "95% AI-written code → 10 人公司做 $100M ARR"; 技术重新定义工作而非替代 |
-| 程维 | 滴滴创始人 | 待补 |
+| Satya Nadella | Microsoft CEO | Copilot Stack / Frontier Firm |
+| ⭐ Leena Nair | Chanel CEO（前 Unilever CHRO） | HR 出身的 CEO，人本 × AI 标杆 |
+| Amy Coleman | Microsoft CPO（2025 接任 Hogan） | Frontier Firm 组织落地 |
+| Ryan Roslansky | LinkedIn CEO | 技能优先招聘、AI 人才数据 |
+
+**⚖️ 实证与反方 · 纠偏视角**
+
+| 人物 | 角色 | 反方价值 |
+|---|---|---|
+| ⭐ Daron Acemoglu | MIT（诺奖得主） | AI 生产率"被高估"的最权威反方 |
+| Reid Hoffman | LinkedIn 创始人 / Greylock | "Superagency"——能力放大而非替代 |
+| Soumyasanto Sen | People Analytics 顾问 | AI-HR 伦理与治理 |
+
+**🇨🇳 中国本土**
+
+| 人物 | 角色 | 价值 |
+|---|---|---|
+| ⭐ 曾鸣 | 湖畔创研院 / 前阿里参谋长 | "智能商业 / 网络协同"理论 |
+| ⭐ 纪伟国 | 北森创始人 | 一体化 HR SaaS + AI 实践 |
+| 赵鹏 | BOSS直聘创始人 | AI 招聘一线数据 |
+| Garry Tan | YC CEO | "10 人公司做 $100M ARR"；技术重定义工作 |
+
+**🎙️ 播客 / 持续追踪渠道**
+
+| 渠道 | 主理人 | 定位 |
+|---|---|---|
+| Digital HR Leaders | David Green | HR 数据与 AI 转型 |
+| Co-Intelligence / One Useful Thing | Ethan Mollick | AI 实战应用 |
+| Redefining HR | Lars Schmidt | HR 前沿实践 |
 
 ---
 
