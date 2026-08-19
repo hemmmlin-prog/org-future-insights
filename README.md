@@ -9,42 +9,42 @@
 
 | 板块 | 你在这里能得到什么 | 入口 |
 |---|---|---|
-| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-08-18-visual.md) |
+| 📅 **每日日报** | 每天 ~3000 字深度报告，3 条核心信号 + HR 行动速查 | [👉 进入](daily-reports/2026-08-19-visual.md) |
 | 🏢 **公司 & 关键人** | OpenAI / GitHub / Samsung / YC 等顶尖公司 + CEO/VC 言论追踪 | [👉 进入](companies/README.md) |
 | 🎓 **报告 & 研究** ⭐ | McKinsey / NBER / Sequoia 等权威报告及研究论文（**HR 同事最常用**） | [👉 进入](research/README.md) |
 | 📊 **转型案例** | AI 转型成功 ✅ vs 失败 ❌ 案例库 + 中国硬科技创业融资 | [👉 进入](cases/README.md) |
 | 📚 **延伸阅读** | HBR / Sequoia / OpenAI 深度长文 + 编辑导读 | [👉 进入](readings/README.md) |
 | 🧭 **HR 词典** | 12+ HR/组织新概念中英对照（agentic / orchestrator / mindset...） | [👉 进入](dictionary/glossary.md) |
 | 📈 **数据看板** | 亚太消费者情绪 / AI 工具采用率 / 全球裁员数据速查 | [👉 进入](dashboard/2026-08-18-snapshot.md) |
-| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-08-18.md) |
+| 📅 **行业议程** | YC Demo Day / 36氪 WAVES 2026 / HR Tech 大会日历 | [👉 进入](events/auto-2026-08-19.md) |
 
 ---
 
-### 🔥 今日精华（2026-08-18）
+### 🔥 今日精华（2026-08-19）
 
-> 抓取窗口：2026-08-18 06:08 · 信源覆盖：8 源成功 / 80 条 items / 命中类目（如 tech + academia + vc + china）
-> 完整阅读：[👉 可视化版](daily-reports/2026-08-18-visual.md) · [👉 纯文字版](daily-reports/2026-08-18-auto.md)
+> 抓取窗口：2026-08-19 06:03 · 信源覆盖：6 源成功 / 60 条 items / 命中类目（tech + academia + vc + think_tank）
+> 完整阅读：[👉 可视化版](daily-reports/2026-08-19-visual.md) · [👉 纯文字版](daily-reports/2026-08-19-auto.md)
 
 ### 三条核心信号
 
-1. **AI 在社会影响领域的治理需要谨慎平衡**——麦肯锡在 2026 年 8 月 17 日发布的一篇文章指出，随着 AI 的普及，使命驱动的组织必须权衡如何采用新的能力，同时不牺牲捐赠者关系中的信任。文章强调了在社会影响领域中 AI 治理的重要性，并提供了具体的建议和案例。（来源：[Governing AI with intention in the social impact sector](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector)） HR 启示：这表明 HR 需要在引入 AI 工具时，确保这些工具不仅提高效率，还要维护员工和利益相关者的信任。这意味着 HR 需要制定明确的 AI 使用政策，并进行透明的沟通。（反方：NBER 的一项研究指出，AI 评估应更多地考虑人类参与，而不仅仅是自动化系统。（来源：[AI Evaluation Should Work With Humans](https://arxiv.org/abs/2608.13577)）） [详情](daily-reports/2026-08-18-visual.md)
-2. **即时支付正在改变金融格局**——麦肯锡在 2026 年 8 月 13 日的文章中提到，即时支付正在迅速改变全球金融格局。文章分析了不同市场的经验教训，以帮助商业支付参与者跟上快速变化的环境。（来源：[How instant payments are transforming the financial landscape](https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape)） HR 启示：这对 HR 意味着需要关注公司财务流程的变化，特别是在薪酬管理和福利发放方面。HR 应与财务部门合作，确保新系统的顺利过渡，并为员工提供必要的培训和支持。（反方：HBS Working Knowledge 的一篇文章指出，尽管 AI 可以帮助领导者更好地沟通，但它不能替代员工的倾听和反馈。（来源：[AI Can Help Leaders Communicate, But Can't Make Employees Listen](https://hbswk.hbs.edu/item/ai-can-help-leaders-communicate-but-cant-make-employees-listen?cid=wk-rss)）） [详情](daily-reports/2026-08-18-visual.md)
-3. **AI 正在重塑网络安全**——OpenAI 在 2026 年 8 月 17 日发布的文章中讨论了 AI 如何重塑网络安全，既为攻击者也为防御者带来了新的挑战和机遇。文章介绍了 OpenAI 如何加强其防御措施，并提出了安全团队可以采取的具体行动。（来源：[The Defender’s Window](https://openai.com/index/the-defenders-window)） HR 启示：这表明 HR 需要更加重视网络安全培训，确保员工了解最新的威胁和防护措施。此外，HR 还需要与 IT 安全部门紧密合作，确保公司的数据和系统安全。（反方：RAND 的一篇评论指出，虽然 AI 在安全领域有巨大潜力，但也带来了新的风险，特别是在国家层面的安全问题上。（来源：[AI, China, and the New Risks to U.S. Security: Q&A with Matan Chorev](https://www.rand.org/pubs/commentary/2026/08/ai-china-and-the-new-risks-to-us-security-qa-with-matan.html)）） [详情](daily-reports/2026-08-18-visual.md)
+1. **AI 工作流可视化工具提升团队效率**——GitHub 博客发布了一篇文章，介绍如何使用画布（canvases）使智能体工作流程（agentic workflows）变得可见、可操控和成本效益更高。文章指出，通过画布可以更好地管理 AI 工作流，避免信息在聊天记录中丢失。（来源：GitHub Blog, 2026-08-17） HR 启示：对于 HR 来说，这意味着可以通过引入类似工具来提高团队协作效率，特别是在涉及 AI 项目的团队中。这有助于更好地跟踪项目进展，确保任务按时完成，并减少沟通成本。（反方：NBER 的一篇论文《FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment》指出，尽管 AI 效率的评估很重要，但实际工作中还需要考虑更多因素，如模型的实际表现和环境成本。（来源：NBER, 2026-08-18）） [详情](daily-reports/2026-08-19-visual.md)
+2. **AI 在医疗推理中的元认知能力**——arXiv 发布了一篇论文，研究了大型语言模型（LLMs）在医疗推理中的元认知敏感性。研究表明，这些模型不仅能够提供准确的答案，还能根据证据的质量调整其置信度。（来源：arXiv, 2026-08-18） HR 启示：对于 HR 来说，这意味着在招聘和培训医疗领域的员工时，可以考虑引入这些 AI 工具来辅助决策和培训。这不仅可以提高工作效率，还可以确保医疗决策的准确性。（反方：HBS Working Knowledge 的一篇文章《AI Can Help Leaders Communicate, But Can't Make Employees Listen》指出，尽管 AI 可以帮助领导者更好地沟通，但它不能替代人类的情感和理解力。（来源：HBS Working Knowledge, 2024-11-05）） [详情](daily-reports/2026-08-19-visual.md)
+3. **全球 AI 监管趋势**——NBER 发布了一篇论文，探讨了全球 AI 监管的趋势，特别是针对高风险用例的 FAIR 和伦理规范。研究表明，不同国家和地区之间的监管差异可能会给 AI 运营者带来合规不确定性。（来源：NBER, 2026-08-18） HR 启示：对于 HR 来说，这意味着需要关注全球范围内的 AI 监管动态，确保公司的 AI 应用符合各国的法规要求。这可能需要加强与法务部门的合作，制定相应的合规策略。（反方：RAND 的一篇文章《AI, China, and the New Risks to U.S. Security: Q&A with Matan Chorev》指出，尽管全球 AI 监管存在差异，但合作和对话仍然是解决这些问题的关键。（来源：RAND, 2026-08-12）） [详情](daily-reports/2026-08-19-visual.md)
 
 ### 高价值素材亮点
-- McKinsey / 2026-08-17 · McKinsey / 2026-08-13 · OpenAI / 2026-08-17 · arXiv / 2026-08-17 · NBER / 2026-08-17 · [完整 8 板块](daily-reports/2026-08-18-visual.md)
+- GitHub Blog, 2026-08-17 · arXiv, 2026-08-18 · NBER, 2026-08-18 · [完整 8 板块](daily-reports/2026-08-19-visual.md)
 
 ---
 
-### 💼 本周 HR 行动速查（截至 08-18）
+### 💼 本周 HR 行动速查（截至 08-19）
 
 | 优先级 | 行动 | 时间窗 | 依据 |
 |---|---|---|---|
-| 🔴 高 | 制定明确的 AI 使用政策，并进行透明的沟通 | 本周 | 信号 1 |
-| 🟠 中 | 与财务部门合作，确保新系统的顺利过渡，并为员工提供必要的培训和支持 | 本月 | 信号 2 |
-| 🟠 中 | 加强网络安全培训，确保员工了解最新的威胁和防护措施 | 本月 | 信号 3 |
-| 🟡 中低 | 定期审查和更新公司的网络安全策略 | 本季 | 信号 3 |
-| 🟢 长期 | 推广 AI 和网络安全的最佳实践，建立持续学习的文化 | 本年 | 信号 3 |
+| 🔴 高 | 评估并引入适合的 AI 工作流可视化工具，以提高团队协作效率 | 本周 | 信号 1 |
+| 🟠 中 | 与医疗部门合作，探索 AI 工具在医疗推理中的应用 | 本月 | 信号 2 |
+| 🟠 中 | 与法务部门合作，制定 AI 应用的合规策略 | 本月 | 信号 3 |
+| 🟡 中低 | 组织培训，提升员工对 AI 工具的理解和使用能力 | 半年 | 信号 1, 2 |
+| 🟢 长期 | 持续关注全球 AI 监管动态，定期更新合规策略 | 本年 | 信号 3 |
 
 ---
 
@@ -83,7 +83,7 @@
 
 - **更新频率**：每天凌晨 06:00 自动抓取最新素材，上午由 HR / Agent 触发深度分析
 - **数据来源**：100% 公开权威源，本地运行不上传任何云端
-- **版本**：v0.5.6（2026-08-18）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
+- **版本**：v0.5.6（2026-08-19）· 8 板块内容架构 + 全自动日报 + GitHub Pages 部署
 
 ---
 

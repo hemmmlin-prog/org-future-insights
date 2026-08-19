@@ -1,8 +1,8 @@
 # 📊 公司转型案例 · 重点跟踪
 
-> **更新时间**：2026-08-18 18:01 · 每日随 pipeline 自动刷新
+> **更新时间**：2026-08-19 09:56 · 每日随 pipeline 自动刷新
 > **跟踪规则**：扫描近 30 天案例池，原文发布 ≤ 14 天为重点跟踪；更早的 RSS 循环推送内容降入文末复读存档
-> **本期**：重点跟踪 **8** 个 · 今日新增 **0** 个 · 复读存档 53 个
+> **本期**：重点跟踪 **6** 个 · 今日新增 **0** 个 · 复读存档 52 个
 
 ---
 
@@ -16,8 +16,6 @@
 | [Research Assistant: AstraZeneca's Agentic System…](https://arxiv.org/abs/2608.12395) | **AstraZeneca** | 制药 R&D | 科研智能体系统 | 2026-08-14 | 1 天 | 08-15 | [academia] arXiv cs.AI |
 | [Why HR holds the key to Singapore’s most excitin…](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkx0UENBb2hxOU5NdGJudUhsVDRxd3B0UmE1a05Ud2hXODRXcTJsVUR6bm9mczRRRUU0cnhMUy1uc0FDaG1oTUJNVnczSFVnalVDRXYwTG5GUTZfZ0dsNUh3Z3FjMU9NX1VWMlBXMm5wMndtZ2RldGpIQVpUM0tiMDNfRExCS1ZPVUZwcXhabXNNVmdsSkV4TEY3VXVqYmp6S3VPRG5aQktjcjcxNDZZ?oc=5) | **—** | — | — | 2026-08-12 | 1 天 | 08-13 | [think_tank] WEF (Google News) |
 | [Africa’s Next Workforce: The Jobs AI Will Create…](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSHRJR09zN0dMRnpLYjVad0RFTURCdmlfNVpkZU5LUFdzMXhSYXFUQ05qaFY3RnZoVE9SZElXaFQycG5jZzJOaXlOY1hWMUFOVEkwczFRakZjYUlWVmpSYUNsN09JR3FPaVBSOWFvdGRQX3RKcFhJTjlIY2dXeGNXblRpc3RzbkppaVI2V3Nrc1QwMzQwVFBnRktKVXZMVnNC?oc=5) | **—** | — | — | 2026-08-07 | 1 天 | 08-10 | [think_tank] WEF (Google News) |
-| [36氪首发 \| 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资](https://36kr.com/p/3924634192673153?f=rss) | **—** | — | — | 2026-08-04 | 1 天 | 08-05 | [china] 36Kr |
-| [36氪首发 \| 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿](https://36kr.com/p/3924628805351811?f=rss) | **—** | — | — | 2026-08-04 | 1 天 | 08-05 | [china] 36Kr |
 
 ---
 
@@ -33,26 +31,23 @@ _今日无新增案例。_
 
 | 案例 | 原文发布 | 在榜天数 | 来源 |
 |---|---|---|---|
-| Congratulations to EquipmentShare on Going Public | 2026-01-23 | 15 天 | [vc] Y Combinator |
-| Meesho Goes Public | 2025-12-10 | 15 天 | [vc] Y Combinator |
-| Congratulations to Groww | 2025-11-12 | 15 天 | [vc] Y Combinator |
-| BillionToOne Goes Public — The Startup That Made Gen… | 2025-11-06 | 15 天 | [vc] Y Combinator |
-| Layoffs Surging in a Strong Economy? Advice for Navi… | 2024-11-01 | 11 天 | [academia] HBS Working Knowledge |
-| Can a Coffee Shop in Utah Help Solve Underemployment… | 2024-10-29 | 11 天 | [academia] HBS Working Knowledge |
-| How Cars24 scales conversations and builds faster wi… | 2026-07-16 | 3 天 | [tech] OpenAI |
+| Congratulations to EquipmentShare on Going Public | 2026-01-23 | 14 天 | [vc] Y Combinator |
+| Meesho Goes Public | 2025-12-10 | 14 天 | [vc] Y Combinator |
+| Congratulations to Groww | 2025-11-12 | 14 天 | [vc] Y Combinator |
+| BillionToOne Goes Public — The Startup That Made Gen… | 2025-11-06 | 14 天 | [vc] Y Combinator |
+| Layoffs Surging in a Strong Economy? Advice for Navi… | 2024-11-01 | 12 天 | [academia] HBS Working Knowledge |
+| Can a Coffee Shop in Utah Help Solve Underemployment… | 2024-10-29 | 12 天 | [academia] HBS Working Knowledge |
 | How Montefiore Einstein turned technology into enter… | 未知 | 3 天 | [consulting] McKinsey |
 | Becoming an AI-native telco: Indosat Ooredoo Hutchis… | 未知 | 3 天 | [consulting] McKinsey |
 | Lion Finance: Competing like a fintech, winning as a… | 未知 | 3 天 | [consulting] McKinsey |
 | Univé builds an AI-ready workforce | 2026-07-31 | 3 天 | [tech] OpenAI |
-| Amid volatility, oil and gas M&A abounds. Here’s how… | 未知 | 2 天 | [consulting] McKinsey |
 | From instinct to real-time insight: Transforming ste… | 未知 | 2 天 | [consulting] McKinsey |
+| How Cars24 scales conversations and builds faster wi… | 2026-07-16 | 2 天 | [tech] OpenAI |
 | Break to grow: Sanjiv Bajaj’s guiding business princ… | 未知 | 2 天 | [consulting] McKinsey |
 | Los Angeles' Homelessness Strategy Needs a Next Act | 2026-06-30 | 2 天 | [think_tank] RAND |
 | How avatarin built a 24/7 retail agent with GPT-Real… | 2026-07-30 | 2 天 | [tech] OpenAI |
-| How B.TECH transformed into a technology-powered ret… | 未知 | 1 天 | [consulting] McKinsey |
-| How Deutsche Telekom is rewiring telecommunications … | 2026-07-10 | 1 天 | [tech] OpenAI |
-| 最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套 | 2026-07-17 | 1 天 | [china] 36Kr |
 | Proven growth strategies from market leaders | 未知 | 1 天 | [consulting] McKinsey |
+| Amid volatility, oil and gas M&A abounds. Here’s how… | 未知 | 1 天 | [consulting] McKinsey |
 | How GitHub gave every repository a durable owner | 2026-07-09 | 1 天 | [tech] GitHub Blog |
 | How GitHub used secret scanning to reach inbox zero | 2026-07-02 | 1 天 | [tech] GitHub Blog |
 | How a Museum Marketing Team Used AI to Bring People … | 2026-07-21 | 1 天 | [hr_media] HBR |
@@ -75,6 +70,8 @@ _今日无新增案例。_
 | NTT DATA Group cuts incident analysis to 30 minutes … | 2026-07-22 | 1 天 | [tech] OpenAI |
 | 最前线｜武汉建成全国首个超大城市全域低空遥感监测网络，146座无人机机场构建“城市智眼” | 2026-07-31 | 1 天 | [china] 36Kr |
 | 36氪专访 \| 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍 | 2026-08-03 | 1 天 | [china] 36Kr |
+| 36氪首发 \| 两位“三清”博士联合创业做空间态势感知服务，完成数千万天使+轮融资 | 2026-08-04 | 1 天 | [china] 36Kr |
+| 36氪首发 \| 为果链、头部灵巧手公司供货，新型减速器厂商完成超亿元融资，估值破10亿 | 2026-08-04 | 1 天 | [china] 36Kr |
 | The future of jobs: 6 decision-makers on AI and tale… | 2026-01-14 | 1 天 | [think_tank] WEF (Google News) |
 | Transforming total rewards - Mercer \| Welcome to br… | 2025-12-03 | 1 天 | [hr_media] Mercer (Google News) |
 | Total Rewards Strategy: Six Priorities for HR - CBIA | 2026-05-15 | 1 天 | [hr_media] Mercer (Google News) |
