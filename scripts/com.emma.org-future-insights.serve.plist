@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.emma.org-future-insights.serve</string>
+
+    <!-- docsify 静态站常驻服务：开机自启 + 进程退出自动重启 -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>-m</string>
+        <string>http.server</string>
+        <string>3000</string>
+        <string>--bind</string>
+        <string>localhost</string>
+    </array>
+
+    <!-- 站点根目录，http.server 以此为 document root -->
+    <key>WorkingDirectory</key>
+    <string>/Users/emmah/org-future-insights</string>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- 进程被杀/崩溃后自动拉起，解决「会话结束服务消失」问题 -->
+    <key>KeepAlive</key>
+    <true/>
+
+    <!-- 防止端口占用等原因导致的疯狂重启 -->
+    <key>ThrottleInterval</key>
+    <integer>10</integer>
+
+    <key>StandardOutPath</key>
+    <string>/Users/emmah/org-future-insights/daily-raw/_logs/launchd.serve.out.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/emmah/org-future-insights/daily-raw/_logs/launchd.serve.err.log</string>
+</dict>
+</plist>
