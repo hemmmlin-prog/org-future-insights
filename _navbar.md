@@ -1,7 +1,7 @@
 <!-- 顶部导航栏 · 8 板块快速跳转 -->
 
 - [🏠 首页](/)
-- [📅 日报](daily-reports/2026-08-19-visual.md)
+- [📅 日报](daily-reports/2026-08-20-visual.md)
 - [🏢 公司](companies/README.md)
 - [🎓 研究 ⭐](research/README.md)
 - [📊 案例](cases/README.md)

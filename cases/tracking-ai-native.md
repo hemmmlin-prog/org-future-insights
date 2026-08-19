@@ -1,8 +1,8 @@
 # 📊 公司转型案例 · 重点跟踪
 
-> **更新时间**：2026-08-19 09:56 · 每日随 pipeline 自动刷新
+> **更新时间**：2026-08-20 07:37 · 每日随 pipeline 自动刷新
 > **跟踪规则**：扫描近 30 天案例池，原文发布 ≤ 14 天为重点跟踪；更早的 RSS 循环推送内容降入文末复读存档
-> **本期**：重点跟踪 **6** 个 · 今日新增 **0** 个 · 复读存档 52 个
+> **本期**：重点跟踪 **6** 个 · 今日新增 **1** 个 · 复读存档 55 个
 
 ---
 
@@ -12,16 +12,22 @@
 |---|---|---|---|---|---|---|---|
 | [How RingCentral builds AI-native work from engin…](https://openai.com/index/ringcentral) | **RingCentral** | 通信 SaaS | 工程→运营全职能 | 2026-08-12 | 4 天 | 08-14→08-18 | [tech] OpenAI |
 | [Model ML completes finance work more efficiently…](https://openai.com/index/model-ml) | **Model ML** | 金融科技 | 财务职能 | 2026-08-10 | 3 天 | 08-14→08-17 | [tech] OpenAI |
-| [How the GitHub legal team used Copilot CLI to st…](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/) | **GitHub** | 开发者平台 | 法务职能流程 | 2026-08-04 | 2 天 | 08-07→08-14 | [tech] GitHub Blog |
 | [Research Assistant: AstraZeneca's Agentic System…](https://arxiv.org/abs/2608.12395) | **AstraZeneca** | 制药 R&D | 科研智能体系统 | 2026-08-14 | 1 天 | 08-15 | [academia] arXiv cs.AI |
 | [Why HR holds the key to Singapore’s most excitin…](https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkx0UENBb2hxOU5NdGJudUhsVDRxd3B0UmE1a05Ud2hXODRXcTJsVUR6bm9mczRRRUU0cnhMUy1uc0FDaG1oTUJNVnczSFVnalVDRXYwTG5GUTZfZ0dsNUh3Z3FjMU9NX1VWMlBXMm5wMndtZ2RldGpIQVpUM0tiMDNfRExCS1ZPVUZwcXhabXNNVmdsSkV4TEY3VXVqYmp6S3VPRG5aQktjcjcxNDZZ?oc=5) | **—** | — | — | 2026-08-12 | 1 天 | 08-13 | [think_tank] WEF (Google News) |
+| [Why L.A.'s Homelessness Numbers No Longer Tell t…](https://www.rand.org/pubs/commentary/2026/08/why-las-homelessness-numbers-no-longer-tell-the-full.html) | **—** | — | — | 2026-08-10 | 1 天 | 08-20 | [think_tank] RAND |
 | [Africa’s Next Workforce: The Jobs AI Will Create…](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSHRJR09zN0dMRnpLYjVad0RFTURCdmlfNVpkZU5LUFdzMXhSYXFUQ05qaFY3RnZoVE9SZElXaFQycG5jZzJOaXlOY1hWMUFOVEkwczFRakZjYUlWVmpSYUNsN09JR3FPaVBSOWFvdGRQX3RKcFhJTjlIY2dXeGNXblRpc3RzbkppaVI2V3Nrc1QwMzQwVFBnRktKVXZMVnNC?oc=5) | **—** | — | — | 2026-08-07 | 1 天 | 08-10 | [think_tank] WEF (Google News) |
 
 ---
 
 ## 🆕 今日新增
 
-_今日无新增案例。_
+### Why L.A.'s Homelessness Numbers No Longer Tell the Full Story
+
+- **公司 / 行业**：— · —
+- **来源**：[think_tank] RAND · 原文发布 2026-08-10
+- **链接**：https://www.rand.org/pubs/commentary/2026/08/why-las-homelessness-numbers-no-longer-tell-the-full.html
+- **入选理由**：RAND案例分析洛杉矶无家可归问题
+
 
 ---
 
@@ -35,8 +41,8 @@ _今日无新增案例。_
 | Meesho Goes Public | 2025-12-10 | 14 天 | [vc] Y Combinator |
 | Congratulations to Groww | 2025-11-12 | 14 天 | [vc] Y Combinator |
 | BillionToOne Goes Public — The Startup That Made Gen… | 2025-11-06 | 14 天 | [vc] Y Combinator |
-| Layoffs Surging in a Strong Economy? Advice for Navi… | 2024-11-01 | 12 天 | [academia] HBS Working Knowledge |
-| Can a Coffee Shop in Utah Help Solve Underemployment… | 2024-10-29 | 12 天 | [academia] HBS Working Knowledge |
+| Layoffs Surging in a Strong Economy? Advice for Navi… | 2024-11-01 | 13 天 | [academia] HBS Working Knowledge |
+| Can a Coffee Shop in Utah Help Solve Underemployment… | 2024-10-29 | 13 天 | [academia] HBS Working Knowledge |
 | How Montefiore Einstein turned technology into enter… | 未知 | 3 天 | [consulting] McKinsey |
 | Becoming an AI-native telco: Indosat Ooredoo Hutchis… | 未知 | 3 天 | [consulting] McKinsey |
 | Lion Finance: Competing like a fintech, winning as a… | 未知 | 3 天 | [consulting] McKinsey |
@@ -46,6 +52,7 @@ _今日无新增案例。_
 | Break to grow: Sanjiv Bajaj’s guiding business princ… | 未知 | 2 天 | [consulting] McKinsey |
 | Los Angeles' Homelessness Strategy Needs a Next Act | 2026-06-30 | 2 天 | [think_tank] RAND |
 | How avatarin built a 24/7 retail agent with GPT-Real… | 2026-07-30 | 2 天 | [tech] OpenAI |
+| How the GitHub legal team used Copilot CLI to stream… | 2026-08-04 | 2 天 | [tech] GitHub Blog |
 | Proven growth strategies from market leaders | 未知 | 1 天 | [consulting] McKinsey |
 | Amid volatility, oil and gas M&A abounds. Here’s how… | 未知 | 1 天 | [consulting] McKinsey |
 | How GitHub gave every repository a durable owner | 2026-07-09 | 1 天 | [tech] GitHub Blog |
@@ -83,6 +90,8 @@ _今日无新增案例。_
 | Inspire HR 2025: Mercer’s Ravi Nippani on reshaping … | 2025-09-10 | 1 天 | [hr_media] Mercer (Google News) |
 | Tackling rising costs through total rewards and work… | 2025-09-29 | 1 天 | [hr_media] Mercer (Google News) |
 | Joseph Tsai: Putting customers at the heart of innov… | 未知 | 1 天 | [consulting] McKinsey |
+| Reinventing the European pulp and paper operating mo… | 未知 | 1 天 | [consulting] McKinsey |
+| How premium leisure travel is rewriting airline econ… | 未知 | 1 天 | [consulting] McKinsey |
 
 ---
 

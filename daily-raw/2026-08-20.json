@@ -1,0 +1,540 @@
+{
+  "snapshot_time": "2026-08-20T06:06:45.795846+08:00",
+  "fetcher_version": "0.1",
+  "sources_count": 19,
+  "sources": [
+    {
+      "category": "consulting",
+      "name": "McKinsey",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Advancing American healthcare: An interview with Seema Verma",
+          "link": "https://www.mckinsey.com/industries/public-sector/our-insights/advancing-american-healthcare-an-interview-with-seema-verma",
+          "pubDate": "Wed, 19 Aug 2026",
+          "summary": "A former CMS administrator and current Oracle Health and Life Sciences executive discusses leadership, public–private collaboration, and the promise of AI and value-based care."
+        },
+        {
+          "title": "Michelle Williams on why public health is public wealth",
+          "link": "https://www.mckinsey.com/mhi/our-insights/michelle-williams-on-why-public-health-is-public-wealth",
+          "pubDate": "Wed, 19 Aug 2026",
+          "summary": "Michelle Williams, a leading voice in epidemiology and public health, advocates that society view the health of a population not as charity but as infrastructure upon which thriving communities are built."
+        },
+        {
+          "title": "Some hard questions about a world of plenty",
+          "link": "https://www.mckinsey.com/mgi/our-research/a-century-of-plenty/podcast/some-hard-questions-about-a-world-of-plenty",
+          "pubDate": "Wed, 19 Aug 2026",
+          "summary": "Plenty may be possible—but what would it take to make it probable?"
+        },
+        {
+          "title": "How can the public sector meet the AI moment?",
+          "link": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+          "pubDate": "Tue, 18 Aug 2026",
+          "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered."
+        },
+        {
+          "title": "Reinventing the European pulp and paper operating model",
+          "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+          "pubDate": "Tue, 18 Aug 2026",
+          "summary": "Europe’s pulp and paper industry faces weaker demand, rising costs, and growing competition. The next frontier will focus on operations, commercial management, and capital allocation."
+        },
+        {
+          "title": "Governing AI with intention in the social impact sector",
+          "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/governing-ai-with-intention-in-the-social-impact-sector",
+          "pubDate": "Mon, 17 Aug 2026",
+          "summary": "As AI adoption grows, mission-driven organizations must weigh how to adopt new capabilities without sacrificing the trust central to every donor relationship, constituent served, and mission pursued."
+        },
+        {
+          "title": "Driving value with an investor mindset",
+          "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/driving-value-with-an-investor-mindset",
+          "pubDate": "Thu, 13 Aug 2026",
+          "summary": "Long-term value creation is foundational to building strong companies and economies, yet many leaders struggle to ensure that well-conceived, well-executed strategies receive full recognition from investors. Senior Partner Ryan Davies and Associate Partner Jacob Marcus join us to discuss how to anticipate investor reactions, assess opportunities to outperform expectations, and embed an investor mindset into decision-making to build greater resilience."
+        },
+        {
+          "title": "How premium leisure travel is rewriting airline economics",
+          "link": "https://www.mckinsey.com/industries/travel/our-insights/how-premium-leisure-travel-is-rewriting-airline-economics",
+          "pubDate": "Thu, 13 Aug 2026",
+          "summary": "Business class isn’t just for corporate travelers anymore. Affluent vacationers are splurging on premium cabins—and becoming one of the biggest drivers of airline profitability."
+        },
+        {
+          "title": "Putting innovation—and patients—in focus: A conversation with Astellas Pharma CEO Naoki Okamura",
+          "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/putting-innovation-and-patients-in-focus-a-conversation-with-astellas-pharma-ceo-naoki-okamura",
+          "pubDate": "Thu, 13 Aug 2026",
+          "summary": "The Tokyo-based biopharmaceutical company is accelerating its pipeline by innovating at the intersection of biology, modality, and disease."
+        },
+        {
+          "title": "How instant payments are transforming the financial landscape",
+          "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape",
+          "pubDate": "Thu, 13 Aug 2026",
+          "summary": "Lessons from markets around the world can help commercial payments players keep pace with a rapidly evolving environment."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "OpenAI",
+      "url": "https://openai.com/news/rss.xml",
+      "priority": 3,
+      "items": [
+        {
+          "title": "Offering Zero Data Retention for frontier models",
+          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+        },
+        {
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "link": "https://openai.com/index/replit",
+          "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
+          "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
+        },
+        {
+          "title": "ChatGPT Ads expands across Europe",
+          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "pubDate": "Tue, 18 Aug 2026 22:00:00 GMT",
+          "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+        },
+        {
+          "title": "Strengthening democratic oversight in national security",
+          "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "pubDate": "Tue, 18 Aug 2026 19:00:00 GMT",
+          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
+        },
+        {
+          "title": "Partnering with CodeAI to prepare the first AI generation",
+          "link": "https://openai.com/index/partnering-with-codeai",
+          "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+        },
+        {
+          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
+        },
+        {
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "link": "https://openai.com/index/chatgpt-for-teens",
+          "pubDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+        },
+        {
+          "title": "How NVIDIA scales expertise with ChatGPT Work",
+          "link": "https://openai.com/index/nvidia/chatgpt-work",
+          "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
+          "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
+        },
+        {
+          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+          "link": "https://openai.com/index/asana",
+          "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+          "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
+        },
+        {
+          "title": "The Defender’s Window",
+          "link": "https://openai.com/index/the-defenders-window",
+          "pubDate": "Mon, 17 Aug 2026 05:30:00 GMT",
+          "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now."
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "tech",
+      "name": "GitHub Blog",
+      "url": "https://github.blog/feed/",
+      "priority": 2,
+      "items": [
+        {
+          "title": "GitHub Copilot app for Beginners: Managing your work",
+          "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+          "pubDate": "Wed, 19 Aug 2026 17:50:23 +0000",
+          "summary": "<p>If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/\">GitHub Copilot app for Beginners: Managing your work</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+          "pubDate": "Mon, 17 Aug 2026 16:00:00 +0000",
+          "summary": "<p>Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/\">How canvases make agentic workflows visible, steerable, and cost-efficient</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "How to bring your software delivery workflow into GitHub with agent apps",
+          "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+          "pubDate": "Fri, 14 Aug 2026 16:00:00 +0000",
+          "summary": "<p>See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. </p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/\">How to bring your software delivery workflow into GitHub with agent apps</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+          "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+          "pubDate": "Thu, 13 Aug 2026 19:00:00 +0000",
+          "summary": "<p>The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/\">Your guide to GitHub Universe 2026 is here: The schedule just launched!</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "What 50 open source projects taught us about security in the AI era",
+          "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+          "pubDate": "Thu, 13 Aug 2026 16:00:00 +0000",
+          "summary": "<p>See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. </p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/\">What 50 open source projects taught us about security in the AI era</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a"
+        },
+        {
+          "title": "GitHub availability report: July 2026",
+          "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+          "pubDate": "Wed, 12 Aug 2026 22:17:32 +0000",
+          "summary": "<p>In July, we experienced eight incidents that resulted in degraded performance across GitHub services.</p>\n<p>The post <a href=\"https://github.blog/news-insights/company-news/github-availability-report-july-2026/\">GitHub availability report: July 2026</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "GitHub Copilot app for Beginners: Write your first prompt",
+          "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+          "pubDate": "Wed, 12 Aug 2026 19:00:00 +0000",
+          "summary": "<p>Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/\">GitHub Copilot app for Beginners: Write your first prompt</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Your contributors are AI-first now. Is your project?",
+          "link": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+          "pubDate": "Wed, 12 Aug 2026 18:00:08 +0000",
+          "summary": "<p>AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/\">Your contributors are AI-first now. Is your project?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "From coder to orchestrator: How agents shift the role of a developer",
+          "link": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+          "pubDate": "Tue, 11 Aug 2026 18:38:17 +0000",
+          "summary": "<p>Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next.</p>\n<p>The post <a href=\"https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/\">From coder to orchestrator: How agents shift the role of a developer</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        },
+        {
+          "title": "Using the GitHub Copilot SDK for Java",
+          "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+          "pubDate": "Mon, 10 Aug 2026 19:30:00 +0000",
+          "summary": "<p>Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.</p>\n<p>The post <a href=\"https://github.blog/engineering/using-the-github-copilot-sdk-for-java/\">Using the GitHub Copilot SDK for Java</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "arXiv cs.AI",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "priority": 3,
+      "items": [
+        {
+          "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+          "link": "https://arxiv.org/abs/2608.16890",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissions, yet LLM-based code generation fails catastrophically on this task: across 11 single-shot attempts with five frontier models, none produces a valid subject-level analysis dataset. We introduce GxP-Agent, a multi-agent system that encodes regulatory process ordering as a directed acyclic graph (D"
+        },
+        {
+          "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+          "link": "https://arxiv.org/abs/2608.16891",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem from harmful text generation to harmful operational side effects. Prompt-level governance can shape model behavior, but it does not create an execution boundary. We introduce Aegis, a runtime governance system that treats model outputs as action proposals and mediates them through a trusted decision la"
+        },
+        {
+          "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+          "link": "https://arxiv.org/abs/2608.16956",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.16956v1 Announce Type: new \nAbstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omission, output rail, service product, prompt, and price schedule. We study the reasoning-effort term through a registered paired contrast of Sonnet 5 with explicit high effort against the same model with effort omitted, using 30 AIME 2026 items and five calls per item. Every paid attempt was assigned on"
+        },
+        {
+          "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+          "link": "https://arxiv.org/abs/2608.16971",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.16971v1 Announce Type: new \nAbstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals have less local evidence, and pooling data may be infeasible. We introduce FedPref: frozen public language models propose alternative JSON extractions, local annotations rank them, and sites collabor"
+        },
+        {
+          "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+          "link": "https://arxiv.org/abs/2608.16977",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.16977v1 Announce Type: new \nAbstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, and expert mathematical review is even more sharply constrained. Allocating these scarce resources well is therefore central to making AI-assisted mathematical discovery efficient. In most current AI-for-math workflows, human effort is concentrated at the beginning and end, in selecting suitable resear"
+        },
+        {
+          "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
+          "link": "https://arxiv.org/abs/2608.17007",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.17007v1 Announce Type: new \nAbstract: Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete programs. However, when models turn this guidance into code for existing tool interfaces, even a semantically correct program may load an entire input and exceed the memory available to one tool call. We present SkillEffect, a checked-lowering runtime for computations with a recoverable source relation, an audited bounded imp"
+        },
+        {
+          "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
+          "link": "https://arxiv.org/abs/2608.17053",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.17053v1 Announce Type: new \nAbstract: A bounded agent may obtain information for a decision from its own past, from peers, or from both sources. Retaining task-relevant history can reduce later communication, while a peer message can supply what memory lacks. Under limits on both resources, how should an agent allocate its information budget? Given a fixed task and decision rule, the memory and message rate pairs attaining a performance threshold form an achievable region under specif"
+        },
+        {
+          "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
+          "link": "https://arxiv.org/abs/2608.17067",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.17067v1 Announce Type: new \nAbstract: As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Work (NSFW) content such as violence and nudity, further exacerbated by red-teaming adversarial attacks. Existing defenses predominantly operate under white-box assumptions, relying on text encoder optimization, weight editing, or inference-time intervention, and fundamentally cannot scale to proprietary models. Black-box al"
+        },
+        {
+          "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
+          "link": "https://arxiv.org/abs/2608.17071",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.17071v1 Announce Type: new \nAbstract: We present KernelArc, a multi-agent framework for autonomous GPU kernel optimization across heterogeneous workloads. Strategy-specialized agents run in parallel and coordinate through conclusions-only shared memory, a deterministic benchmark guard, and read-only cross-agent state with plateau-triggered drafting. We evaluate \\kernelarc{} on NVIDIA H100 and B200 GPUs using category-representative SOL-ExecBench workloads. The resulting implementation"
+        },
+        {
+          "title": "A decodability criterion predicts when hidden-state selection beats majority voting in large language models",
+          "link": "https://arxiv.org/abs/2608.17124",
+          "pubDate": "Wed, 19 Aug 2026 00:00:00 -0400",
+          "summary": "arXiv:2608.17124v1 Announce Type: new \nAbstract: Combining the answers a large language model (LLM) samples for a question into one decision is a test-time information fusion problem, usually solved by majority voting. Voting is unreliable on difficult questions, where the sampled answers share correlated errors, so the wrong answer can win and drawing more samples makes the decision worse. Selecting a candidate by reading a correctness signal from the model's hidden states is a promising altern"
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "academia",
+      "name": "NBER WP",
+      "url": "https://www.nber.org/rss/new.xml",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: The read operation timed out"
+    },
+    {
+      "category": "academia",
+      "name": "HBS Working Knowledge",
+      "url": "https://hbswk.hbs.edu/rss/all.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "Inside One Startup's Journey to Break Down Hiring (and Funding) Barriers",
+          "link": "https://hbswk.hbs.edu/item/inside-one-startups-journey-to-break-down-hiring-and-funding-barriers?cid=wk-rss",
+          "pubDate": "2024-11-12T09:59:10Z",
+          "summary": ""
+        },
+        {
+          "title": "What Wartime Service Taught These Historic Leaders",
+          "link": "https://hbswk.hbs.edu/item/what-wartime-service-taught-these-historic-leaders?cid=wk-rss",
+          "pubDate": "2024-11-08T11:39:18Z",
+          "summary": ""
+        },
+        {
+          "title": "How Private Investors Can Help Solve Africa's Climate Crisis",
+          "link": "https://hbswk.hbs.edu/item/how-private-investors-can-help-solve-africas-climate-crisis?cid=wk-rss",
+          "pubDate": "2024-11-08T10:24:08Z",
+          "summary": ""
+        },
+        {
+          "title": "Building the Road to 'Small Business Utopia' with AI and Fintech",
+          "link": "https://hbswk.hbs.edu/item/building-the-road-to-small-business-utopia-with-ai-and-fintech?cid=wk-rss",
+          "pubDate": "2024-11-05T11:35:35Z",
+          "summary": ""
+        },
+        {
+          "title": "AI Can Help Leaders Communicate, But Can't Make Employees Listen",
+          "link": "https://hbswk.hbs.edu/item/ai-can-help-leaders-communicate-but-cant-make-employees-listen?cid=wk-rss",
+          "pubDate": "2024-11-05T08:46:59Z",
+          "summary": ""
+        },
+        {
+          "title": "Layoffs Surging in a Strong Economy? Advice for Navigating Uncertain Times",
+          "link": "https://hbswk.hbs.edu/item/layoffs-surging-in-strong-economy-advice-for-navigating-uncertain-times?cid=wk-rss",
+          "pubDate": "2024-11-01T13:41:06Z",
+          "summary": ""
+        },
+        {
+          "title": "Can a Coffee Shop in Utah Help Solve Underemployment for People with Disabilities?",
+          "link": "https://hbswk.hbs.edu/item/cold-call-can-a-coffee-shop-in-utah-help-solve-underemployment-for-people-with-disabilities?cid=wk-rss",
+          "pubDate": "2024-10-29T10:21:47Z",
+          "summary": ""
+        },
+        {
+          "title": "Latino Voters Have Grown More Politically Divided. That’s Not Surprising.",
+          "link": "https://hbswk.hbs.edu/item/democrats-are-losing-latino-voters-thats-not-surprising?cid=wk-rss",
+          "pubDate": "2024-10-29T13:42:03Z",
+          "summary": ""
+        },
+        {
+          "title": "Charting the US-China Trade War: What Does 'Made in Vietnam' Mean?",
+          "link": "https://hbswk.hbs.edu/item/charting-the-us-china-trade-war-whats-made-in-vietnam?cid=wk-rss",
+          "pubDate": "2024-10-24T10:00:03Z",
+          "summary": ""
+        },
+        {
+          "title": "With Millions of Workers Juggling Caregiving, Employers Need to Rethink Support",
+          "link": "https://hbswk.hbs.edu/item/with-millions-of-workers-juggling-caregiving-employers-need-to-rethink?cid=wk-rss",
+          "pubDate": "2024-10-29T15:53:04Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "think_tank",
+      "name": "RAND",
+      "url": "https://www.rand.org/blog.xml",
+      "priority": 2,
+      "items": [
+        {
+          "title": "The State of Public Education in 2026 in Five Charts",
+          "link": "https://www.rand.org/pubs/commentary/2026/08/the-state-of-public-education-in-2026-in-five-charts.html",
+          "pubDate": "2026-08-17T12:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "AI, China, and the New Risks to U.S. Security: Q&A with Matan Chorev",
+          "link": "https://www.rand.org/pubs/commentary/2026/08/ai-china-and-the-new-risks-to-us-security-qa-with-matan.html",
+          "pubDate": "2026-08-12T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Readiness and Resilience: The National Effort We Can't Delay",
+          "link": "https://www.rand.org/pubs/commentary/2026/08/readiness-and-resilience-the-national-effort-we-cant.html",
+          "pubDate": "2026-08-11T13:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "New Models of Health-Defence Collaboration: A Shared Plan to Achieve the 100 Days Mission",
+          "link": "https://www.rand.org/pubs/commentary/2026/08/new-models-of-health-defence-collaboration-a-shared.html",
+          "pubDate": "2026-08-10T17:20:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Why L.A.'s Homelessness Numbers No Longer Tell the Full Story",
+          "link": "https://www.rand.org/pubs/commentary/2026/08/why-las-homelessness-numbers-no-longer-tell-the-full.html",
+          "pubDate": "2026-08-10T08:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Public Benefits Are a Hidden Engine of College Completion",
+          "link": "https://www.rand.org/pubs/commentary/2026/08/public-benefits-are-a-hidden-engine-of-college-completion.html",
+          "pubDate": "2026-08-05T18:20:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Europe Could Help Get Ukraine and Russia to the Negotiating Table",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/europe-could-help-get-ukraine-and-russia-to-the-negotiating.html",
+          "pubDate": "2026-07-24T18:45:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Is Summer the New Winter? It Might Be for European Health Systems",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/is-summer-the-new-winter-it-might-be-for-european-health.html",
+          "pubDate": "2026-07-24T12:00:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Safeguarding the Future in the AI Era: Q&A with Sella Nevo",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/safeguarding-the-future-in-the-ai-era-qa-with-sella.html",
+          "pubDate": "2026-07-23T12:25:00Z",
+          "summary": ""
+        },
+        {
+          "title": "Ukraine's Winning Strategy Against Russia: Attrition",
+          "link": "https://www.rand.org/pubs/commentary/2026/07/ukraines-winning-strategy-against-russia-attrition.html",
+          "pubDate": "2026-07-22T14:15:00Z",
+          "summary": ""
+        }
+      ],
+      "items_count": 10
+    },
+    {
+      "category": "vc",
+      "name": "Sequoia",
+      "url": "https://www.sequoiacap.com/feed/",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: HTTP Error 308: Permanent Redirect"
+    },
+    {
+      "category": "vc",
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/blog/rss.xml",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error [Errno 54] Connection reset by peer>"
+    },
+    {
+      "category": "hr_media",
+      "name": "HBR",
+      "url": "http://feeds.harvardbusiness.org/harvardbusiness?format=xml",
+      "priority": 3,
+      "items": [],
+      "items_count": 0,
+      "error": "parse fail: not well-formed (invalid token): line 23, column 58"
+    },
+    {
+      "category": "china",
+      "name": "36Kr",
+      "url": "https://36kr.com/feed",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "parse fail: not well-formed (invalid token): line 9, column 542"
+    },
+    {
+      "category": "consulting",
+      "name": "BCG (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Boston+Consulting+Group%22+future+of+work&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Deloitte (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Deloitte%22+human+capital+trends&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "consulting",
+      "name": "Accenture (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Accenture%22+talent+%22future+of+work%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "vc",
+      "name": "a16z (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Andreessen+Horowitz%22+OR+%22a16z%22+AI+agent&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "think_tank",
+      "name": "Brookings (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Brookings%22+AI+labor+market&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "think_tank",
+      "name": "WEF (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22World+Economic+Forum%22+%22future+of+jobs%22&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "hr_media",
+      "name": "Mercer (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Mercer%22+total+rewards+OR+compensation&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    },
+    {
+      "category": "hr_media",
+      "name": "WTW (Google News)",
+      "url": "https://news.google.com/rss/search?q=%22Willis+Towers+Watson%22+compensation+pay&hl=en-US&gl=US",
+      "priority": 2,
+      "items": [],
+      "items_count": 0,
+      "error": "fetch fail: <urlopen error timed out>"
+    }
+  ],
+  "success_count": 6,
+  "failure_count": 13
+}
