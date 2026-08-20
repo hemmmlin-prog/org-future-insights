@@ -20,7 +20,7 @@ VC 和科技公司的言论永远偏激进，新闻媒体的报道永远偏故�
 
 | 论文 | 作者 | 核心结论 | 详情 |
 |---|---|---|---|
-| **AI Transition Investment** | Wachter & Wachter | AI 真正改变生产函数还需 5-7 年，2031-2033 兑现期 | [👉 解读](nber-ai-investment-2026-06-14.md) |
+| **AI Transition Investment** | Wachter & Wachter | AI 真正改变生产函数还需 5-7 年，2031-2033 兑现期 | [👉 解读](research/nber-ai-investment-2026-06-14.md) |
 | **Data-Driven Automation** | Farboodi, Koh & Xia | 数据异质性决定自动化红利分配，头部企业数据积累优势加剧不均 | 2026-06-18 |
 | **Income Channel to Labor-Market Polarization** | Comin, Danieli & Mestieri | 收入弹性行业集中在高/低技能两端，中层管理者面临极化风险 | 2026-06-18 |
 | **Optimal Medical Liability for AI** | Alex Chan | AI 作为医生而非被动工具时的法律责任框架 | 2026-06-18 |
@@ -84,12 +84,12 @@ VC 和科技公司的言论永远偏激进，新闻媒体的报道永远偏故�
 
 > 由 pipeline 自动维护 · 刷新于 2026-08-20，最近 7 期：
 
-- [2026-08-20 · 12 条素材](auto-2026-08-20.md)
-- [2026-08-19 · 31 条素材](auto-2026-08-19.md)
-- [2026-08-18 · 35 条素材](auto-2026-08-18.md)
-- [2026-08-17 · 31 条素材](auto-2026-08-17.md)
-- [2026-08-15 · 34 条素材](auto-2026-08-15.md)
-- [2026-08-14 · 25 条素材](auto-2026-08-14.md)
-- [2026-08-13 · 56 条素材](auto-2026-08-13.md)
+- [2026-08-20 · 12 条素材](research/auto-2026-08-20.md)
+- [2026-08-19 · 31 条素材](research/auto-2026-08-19.md)
+- [2026-08-18 · 35 条素材](research/auto-2026-08-18.md)
+- [2026-08-17 · 31 条素材](research/auto-2026-08-17.md)
+- [2026-08-15 · 34 条素材](research/auto-2026-08-15.md)
+- [2026-08-14 · 25 条素材](research/auto-2026-08-14.md)
+- [2026-08-13 · 56 条素材](research/auto-2026-08-13.md)
 
 <!-- AUTO-LATEST:END -->

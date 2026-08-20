@@ -21,7 +21,7 @@ HR 同事最常被问到的两类问题：
 
 | 公司 | 最新观察 | 核心议题 |
 |---|---|---|
-| **OpenAI** | [Sam Altman 6/14 周观察](openai-2026-06-14.md) | AI Academy / BBVA 银行 / Oracle 全栈合作 |
+| **OpenAI** | [Sam Altman 6/14 周观察](companies/openai-2026-06-14.md) | AI Academy / BBVA 银行 / Oracle 全栈合作 |
 | **GitHub** | Copilot CLI / Agent-native Desktop | 智能体工作流重塑开发者工作模式；代码审查 → Agent 自主提 PR |
 | **Anthropic** | Claude Enterprise / Safety Research | 安全研究领先者；企业级布署扩展；与 OpenAI 差异化竞争“负责任 AI” |
 | **字节跳动** | 智能体战略 / Doubao 商业化 | 豆包商业化加速；Coze 智能体平台开放；组织瘦身全球化平台融合 |
@@ -100,12 +100,12 @@ HR 同事最常被问到的两类问题：
 
 > 由 pipeline 自动维护 · 刷新于 2026-08-20，最近 7 期：
 
-- [2026-08-20 · 15 条素材](auto-2026-08-20.md)
-- [2026-08-19 · 15 条素材](auto-2026-08-19.md)
-- [2026-08-18 · 24 条素材](auto-2026-08-18.md)
-- [2026-08-17 · 13 条素材](auto-2026-08-17.md)
-- [2026-08-15 · 17 条素材](auto-2026-08-15.md)
-- [2026-08-14 · 18 条素材](auto-2026-08-14.md)
-- [2026-08-13 · 22 条素材](auto-2026-08-13.md)
+- [2026-08-20 · 15 条素材](companies/auto-2026-08-20.md)
+- [2026-08-19 · 15 条素材](companies/auto-2026-08-19.md)
+- [2026-08-18 · 24 条素材](companies/auto-2026-08-18.md)
+- [2026-08-17 · 13 条素材](companies/auto-2026-08-17.md)
+- [2026-08-15 · 17 条素材](companies/auto-2026-08-15.md)
+- [2026-08-14 · 18 条素材](companies/auto-2026-08-14.md)
+- [2026-08-13 · 22 条素材](companies/auto-2026-08-13.md)
 
 <!-- AUTO-LATEST:END -->

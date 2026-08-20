@@ -22,7 +22,7 @@
 
 | 标题 | 作者 / 来源 | 详情 |
 |---|---|---|
-| **Mindset > Skillset: Why Training is Failing** | HBR / IESE | [👉 中英双语](hbr-mindset-not-skillset.md) |
+| **Mindset > Skillset: Why Training is Failing** | HBR / IESE | [👉 中英双语](readings/hbr-mindset-not-skillset.md) |
 | **The Care Economy and Workforce Stability** | HBS WK | 看护经济如何影响劳动参与率——隱性退出的经济学解释 |
 | **AI Investment Returns: A Macro Lens** | NBER WP | Wachter 宏观视角：AI 投资回报周期 5-7 年——[👉 详见 research](../research/nber-ai-investment-2026-06-14.md) |
 
@@ -30,7 +30,7 @@
 
 | 标题 | 议题 | 详情 |
 |---|---|---|
-| **智能体时代 HR 角色重塑 · 从执行者到编排者的 5 维路径** | Agentic Enterprise / HR 三支柱重构 | [👉 完整报告](agentic-hr-role-reshape-2026-06-14.md) |
+| **智能体时代 HR 角色重塑 · 从执行者到编排者的 5 维路径** | Agentic Enterprise / HR 三支柱重构 | [👉 完整报告](readings/agentic-hr-role-reshape-2026-06-14.md) |
 
 ### 🏢 咨询机构 white paper
 
