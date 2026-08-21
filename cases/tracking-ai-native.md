@@ -1,8 +1,8 @@
 # 📊 公司转型案例 · 重点跟踪
 
-> **更新时间**：2026-08-20 07:37 · 每日随 pipeline 自动刷新
+> **更新时间**：2026-08-21 09:52 · 每日随 pipeline 自动刷新
 > **跟踪规则**：扫描近 30 天案例池，原文发布 ≤ 14 天为重点跟踪；更早的 RSS 循环推送内容降入文末复读存档
-> **本期**：重点跟踪 **6** 个 · 今日新增 **1** 个 · 复读存档 55 个
+> **本期**：重点跟踪 **6** 个 · 今日新增 **0** 个 · 复读存档 51 个
 
 ---
 
@@ -21,13 +21,7 @@
 
 ## 🆕 今日新增
 
-### Why L.A.'s Homelessness Numbers No Longer Tell the Full Story
-
-- **公司 / 行业**：— · —
-- **来源**：[think_tank] RAND · 原文发布 2026-08-10
-- **链接**：https://www.rand.org/pubs/commentary/2026/08/why-las-homelessness-numbers-no-longer-tell-the-full.html
-- **入选理由**：RAND案例分析洛杉矶无家可归问题
-
+_今日无新增案例。_
 
 ---
 
@@ -37,26 +31,22 @@
 
 | 案例 | 原文发布 | 在榜天数 | 来源 |
 |---|---|---|---|
-| Congratulations to EquipmentShare on Going Public | 2026-01-23 | 14 天 | [vc] Y Combinator |
-| Meesho Goes Public | 2025-12-10 | 14 天 | [vc] Y Combinator |
-| Congratulations to Groww | 2025-11-12 | 14 天 | [vc] Y Combinator |
-| BillionToOne Goes Public — The Startup That Made Gen… | 2025-11-06 | 14 天 | [vc] Y Combinator |
-| Layoffs Surging in a Strong Economy? Advice for Navi… | 2024-11-01 | 13 天 | [academia] HBS Working Knowledge |
-| Can a Coffee Shop in Utah Help Solve Underemployment… | 2024-10-29 | 13 天 | [academia] HBS Working Knowledge |
+| Layoffs Surging in a Strong Economy? Advice for Navi… | 2024-11-01 | 14 天 | [academia] HBS Working Knowledge |
+| Can a Coffee Shop in Utah Help Solve Underemployment… | 2024-10-29 | 14 天 | [academia] HBS Working Knowledge |
+| Congratulations to EquipmentShare on Going Public | 2026-01-23 | 13 天 | [vc] Y Combinator |
+| Meesho Goes Public | 2025-12-10 | 13 天 | [vc] Y Combinator |
+| Congratulations to Groww | 2025-11-12 | 13 天 | [vc] Y Combinator |
+| BillionToOne Goes Public — The Startup That Made Gen… | 2025-11-06 | 13 天 | [vc] Y Combinator |
 | How Montefiore Einstein turned technology into enter… | 未知 | 3 天 | [consulting] McKinsey |
 | Becoming an AI-native telco: Indosat Ooredoo Hutchis… | 未知 | 3 天 | [consulting] McKinsey |
 | Lion Finance: Competing like a fintech, winning as a… | 未知 | 3 天 | [consulting] McKinsey |
 | Univé builds an AI-ready workforce | 2026-07-31 | 3 天 | [tech] OpenAI |
-| From instinct to real-time insight: Transforming ste… | 未知 | 2 天 | [consulting] McKinsey |
-| How Cars24 scales conversations and builds faster wi… | 2026-07-16 | 2 天 | [tech] OpenAI |
 | Break to grow: Sanjiv Bajaj’s guiding business princ… | 未知 | 2 天 | [consulting] McKinsey |
 | Los Angeles' Homelessness Strategy Needs a Next Act | 2026-06-30 | 2 天 | [think_tank] RAND |
 | How avatarin built a 24/7 retail agent with GPT-Real… | 2026-07-30 | 2 天 | [tech] OpenAI |
 | How the GitHub legal team used Copilot CLI to stream… | 2026-08-04 | 2 天 | [tech] GitHub Blog |
-| Proven growth strategies from market leaders | 未知 | 1 天 | [consulting] McKinsey |
-| Amid volatility, oil and gas M&A abounds. Here’s how… | 未知 | 1 天 | [consulting] McKinsey |
-| How GitHub gave every repository a durable owner | 2026-07-09 | 1 天 | [tech] GitHub Blog |
-| How GitHub used secret scanning to reach inbox zero | 2026-07-02 | 1 天 | [tech] GitHub Blog |
+| From instinct to real-time insight: Transforming ste… | 未知 | 1 天 | [consulting] McKinsey |
+| How Cars24 scales conversations and builds faster wi… | 2026-07-16 | 1 天 | [tech] OpenAI |
 | How a Museum Marketing Team Used AI to Bring People … | 2026-07-21 | 1 天 | [hr_media] HBR |
 | Frontline Workers Know How to Solve Your Organizatio… | 2026-07-20 | 1 天 | [hr_media] HBR |
 | 小产品逆袭，大产品落位，为什么大家都在小红书做游戏宣发 \| 游戏风向标 | 2026-07-21 | 1 天 | [china] 36Kr |
